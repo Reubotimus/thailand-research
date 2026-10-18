@@ -1,0 +1,61 @@
+{
+  "id": "cnx-night-bazaar-district",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "Chang Khlan’s Night Bazaar is a busy, tourist-facing evening market district with craft and souvenir stalls, clothing, casual dining and nearby Anusarn and Kalare markets. It is an easy first-night outing; treat it as a lively browse-and-eat area rather than Chiang Mai’s most distinctive craft market.",
+  "whyGo": [
+    "An easy, central evening browse with plenty of food choices and shops clustered along Chang Khlan Road.",
+    "Anusarn Market is nearby for food, with Kalare Night Bazaar about 100 m away; both extend the evening without a separate trip."
+  ],
+  "bestFor": [
+    "First-time visitors wanting an uncomplicated market evening, casual food and souvenir browsing.",
+    "A flexible stop that can be combined with dinner or a walk toward the Ping River."
+  ],
+  "skipIf": [
+    "You want a mainly local, specialist craft market; compare the Saturday Wualai or Sunday Walking Street if one fits your dates.",
+    "You dislike crowds, traffic noise, persistent vendor approaches or tourist-oriented shopping."
+  ],
+  "duration": "Allow 1.5–3 hours to browse, eat and explore the nearby market areas; this is a planning estimate, not a timed attraction.",
+  "cost": "No admission charge is indicated; budget separately for food and purchases. Stall prices vary, so confirm before ordering or buying and agree a price before a ride.",
+  "hours": "The Tourism Authority of Thailand lists approximately 16:00–23:30 daily. A nearby hotel market guide lists 16:00–23:00 Tuesday–Sunday, so opening days and individual stall hours are not fully consistent across current listings. Expect stalls to open progressively in the early evening; confirm a particular venue on the day.",
+  "bestTime": "Arrive around 18:00–19:00 for an active evening while leaving time to browse before stalls wind down. December is high season, so expect a busier walk; this crowd estimate is seasonal planning guidance.",
+  "gettingThere": "The Tourism Authority says the Old City is about 10 minutes away by songthaew (shared red pickup taxi). Use a songthaew, tuk-tuk or app-based car for the ride, and set the destination and fare before boarding where applicable. Chang Khlan is walkable once there, but watch for motorbikes and traffic when crossing streets.",
+  "booking": "No booking is needed for the open market district. Reserve only for a separate restaurant, performance or other ticketed venue you choose to visit.",
+  "accessibility": "Public street stalls and market buildings have varying surfaces, curbs, crowding and step-free access. No reliable district-wide accessibility information was found; contact a specific venue if step-free access, seating or accessible toilets are essential.",
+  "practicalTips": [
+    "Carry small cash for stalls and food; inspect goods and settle the price before purchase.",
+    "Keep valuables secure in the crowd and use lit pedestrian routes; traffic can pass close to market edges.",
+    "For food, choose busy stalls with freshly cooked items; check ingredients directly if you have dietary restrictions.",
+    "Keep your return address saved and arrange the ride back before the late evening rush."
+  ],
+  "decemberNotes": "December falls in Chiang Mai’s popular cool-season travel period; expect stronger evening crowds than in the rainy season and allow extra time for rides and browsing. The market is described as year-round, but exact stall hours and any holiday changes for December 2026 have not been announced in the sources checked. Saturday and Sunday Walking Streets are separate weekly markets, not extensions of this bazaar.",
+  "uncertainties": [
+    "Sources disagree on exact operating days and closing time; the district contains multiple independent markets and stalls.",
+    "No confirmed special schedule, event or holiday operating notice for December 2026 was found.",
+    "Accessible routes and facilities vary by venue and are not documented district-wide.",
+    "The selected Commons photograph dates from February 2012 and is a historical reference, not a depiction of current stall layouts."
+  ],
+  "sources": [
+    {
+      "title": "Tourism Authority of Thailand, Chiang Mai Night Bazaar (Japanese-language official tourism page)",
+      "url": "https://www.thailandtravel.or.jp/chiang-mai-night-bazaar/"
+    },
+    {
+      "title": "Dusit Princess Chiang Mai, Night Bazaar guide",
+      "url": "https://www.dusit.com/dusitprincess-chiangmai/experience/chiang-mai-night-bazaar/"
+    },
+    {
+      "title": "Tourism Authority of Thailand, Chiang Mai Night Bazaar listing",
+      "url": "https://www.tourismthailand.org/Shop/chiang-mai-night-bazaar"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/CHIANG_MAI_NIGHT_BAZAAR_THAILAND_FEB_2012_%286869571256%29.jpg/960px-CHIANG_MAI_NIGHT_BAZAAR_THAILAND_FEB_2012_%286869571256%29.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:CHIANG_MAI_NIGHT_BAZAAR_THAILAND_FEB_2012_(6869571256).jpg",
+      "alt": "Historical evening view of Chiang Mai Night Bazaar, February 2012.",
+      "credit": "calflier001",
+      "license": "CC BY-SA 2.0"
+    }
+  ]
+}

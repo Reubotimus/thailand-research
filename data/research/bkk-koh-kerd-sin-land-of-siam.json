@@ -1,0 +1,68 @@
+{
+  "id": "bkk-koh-kerd-sin-land-of-siam",
+  "researchedAt": "2026-10-17",
+  "status": "verified",
+  "summary": "A reservable cultural day trip from Bangkok to Koh Kerd in Ayutthaya, rather than a festival beside the Grand Palace. The official 2026 programme combines the Khon Learning Center, a short masked-dance performance and Arts of the Kingdom Museum. Strong choice for intricate royal crafts and traditional performance; allow most of a day.",
+  "whyGo": [
+    "See Thai craftsmanship in a dedicated museum, with ornate royal models, carving and decorative arts.",
+    "Learn how Khon costumes and performance traditions connect, then watch a small live demonstration.",
+    "The organised free shuttle removes the main transport challenge of reaching this out-of-town complex."
+  ],
+  "bestFor": [
+    "Traditional arts and museum enthusiasts",
+    "Travellers happy with a structured group itinerary",
+    "A cultural excursion beyond central Bangkok"
+  ],
+  "skipIf": [
+    "You want a quick Rattanakosin stop or an independently paced afternoon.",
+    "You expect a full-length theatrical production: the listed Khon segment is only 15–20 minutes."
+  ],
+  "duration": "Check in before 10:30; depart 11:00 and finish around 16:30–17:00. Roughly 6–6.5 hours including check-in and travel.",
+  "cost": "Shuttle explicitly free. Museum admission, performance inclusions and lunch costs are not clearly established by the current booking landing page; confirm before reserving and budget separately for food.",
+  "hours": "Programme runs Wednesday–Sunday, 12 August–26 December 2026, one departure daily. These are excursion days, not independently verified general museum opening hours.",
+  "bestTime": "Choose an available Wednesday–Sunday departure; arrive before the strict 10:30 check-in cutoff.",
+  "gettingThere": "Board on Na Phra Lan Road opposite Wiman Thewet Gate, on the Silpakorn University side. Arrival at Koh Kerd is listed at 12:30. The return ends at Krung Thep Aphiwat Central Terminal, not the original boarding point; plan onward transport accordingly.",
+  "booking": "Reserve through artofthekingdomfreebus.com. The operator lists a 50-seat bus and states late check-in forfeits the seat. Confirm the exact date and all admission inclusions in the reservation process.",
+  "accessibility": "Step-free boarding, wheelchair spaces and accessible toilets were not verified. The itinerary uses a bus plus a tram between the learning centre and museum; ask the operator about individual mobility requirements.",
+  "practicalTips": [
+    "Lunch/leisure time is scheduled on arrival; museum snacks and coffee are advertised.",
+    "Wear comfortable shoes and modest clothing appropriate to royal-cultural venues. Confirm photography and bag rules on arrival.",
+    "The 13:30 performance is followed by a tram around 14:00 and museum time before the 15:30 return."
+  ],
+  "decemberNotes": "The end date is genuinely confirmed for 26 December 2026 by government sources; it is not merely an undated annual listing. Do not assume operation after that date. Check availability and any schedule changes before building your December day around it.",
+  "uncertainties": [
+    "Current admission charges and bundled inclusions remain unverified.",
+    "English guiding, performance interpretation and accessibility provisions are not established.",
+    "Images illustrate the actual museum collection; they do not confirm the exact 2026 performance staging."
+  ],
+  "sources": [
+    {
+      "title": "Official shuttle booking and detailed itinerary",
+      "url": "https://artofthekingdomfreebus.com/en"
+    },
+    {
+      "title": "Thai government: 2026 programme announcement",
+      "url": "https://www.thaigov.go.th/th/news/167576"
+    },
+    {
+      "title": "Thailand.go.th: free shuttle through 26 December 2026",
+      "url": "https://www.thailand.go.th/issue-focus-detail/koh-kerd-the-living-legacy-of-thai-craftsmanship?hl=th"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://api.tourismthailand.org/upload/live/article/1124-20025.png",
+      "sourceUrl": "https://www.tourismthailand.org/Articles/miracle-of-the-arts-of-the-kingdom",
+      "alt": "Ornate gilded royal craft exhibits inside Arts of the Kingdom Museum; earlier exhibition photograph.",
+      "credit": "Tourism Authority of Thailand",
+      "license": "Permission not established; linked reference"
+    },
+    {
+      "url": "https://api.tourismthailand.org/upload/live/content_article/1124-20020.png",
+      "sourceUrl": "https://www.tourismthailand.org/Articles/miracle-of-the-arts-of-the-kingdom",
+      "alt": "Detailed carved wooden narrative relief in the museum, representative of its craft collection.",
+      "credit": "Tourism Authority of Thailand",
+      "license": "Permission not established; linked reference"
+    }
+  ]
+}

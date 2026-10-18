@@ -1,0 +1,68 @@
+{
+  "id": "cnx-twin-royal-pagodas",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "The Twin Royal Pagodas (Phra Mahathat Naphamethanidon and Naphaphonphumisiri) sit on Doi Inthanon's high ridge, with landscaped gardens and broad mountain views. This is a scenic, culturally significant stop, usually combined with other park sights on a full-day trip from Chiang Mai.",
+  "whyGo": [
+    "See the paired royal monuments and their carefully kept gardens in a dramatic high-altitude setting.",
+    "Enjoy wide views over the forested ridges when cloud and visibility cooperate.",
+    "Combine it with the summit, Ang Ka boardwalk, waterfalls or a seasonal trail on the same mountain day."
+  ],
+  "bestFor": [
+    "Visitors interested in Thai royal history, architecture and gardens.",
+    "Travelers with private transport or on an organized Doi Inthanon day trip.",
+    "Photography and mountain scenery, especially in clear early-day conditions."
+  ],
+  "skipIf": [
+    "You need a step-free visit throughout; the garden and pagoda levels involve sloping paths and stairs, and a complete accessible route is not documented.",
+    "You are trying to make a quick trip from Chiang Mai without spending most of a day on mountain roads.",
+    "You want a guaranteed clear panorama: winter cloud and mist can obscure the view."
+  ],
+  "duration": "Allow about 45–90 minutes at the pagodas for the gardens, viewpoints and time to move between levels. This is a planning estimate; most visitors include the stop in an 8–10 hour Chiang Mai day trip.",
+  "cost": "Doi Inthanon National Park's published DNP tariff lists foreign adults at ฿300 and children at ฿150; Thai adults ฿60 and children ฿30. A four-wheel vehicle is ฿30. The pagodas appear to charge a separate local admission, commonly reported as around ฿100, but I could not verify its current tariff with an official pagoda source. Carry cash and confirm at the gate.",
+  "hours": "The park is generally visited in daylight; the pagoda grounds are commonly reported open around 08:30–17:00, but I found no current official hours notice for the pagoda operator. Confirm locally, especially around holidays or maintenance closures.",
+  "bestTime": "December mornings are cooler and often offer clearer views before cloud builds, though mist can also roll across the ridge. Visit on a weekday and arrive earlier to reduce tour-group congestion. Late afternoon can have attractive light, but allow time for the long return drive and park closing.",
+  "gettingThere": "The pagodas are on the main Doi Inthanon summit road, roughly 90–100 km southwest of Chiang Mai. A rental car, private driver or guided day tour is the practical option; the winding mountain road and dispersed stops make public transport impractical for a focused visit. There is no confirmed dedicated shuttle service. A separate car park serves the pagoda entrance.",
+  "booking": "No pagoda reservation system was found; admission is normally paid on site. Book transport or a day tour ahead for December peak-season dates, and check whether the quote includes both the national-park ticket and separate pagoda admission.",
+  "accessibility": "The high ridge is reached by road and the grounds have paved or landscaped paths, but the pagodas sit on separate garden levels connected by stairs and slopes. I found no official accessibility statement, step-free route map or mobility-device service; contact the operator before relying on access beyond the entrance level. Restroom accessibility is also unconfirmed.",
+  "practicalTips": [
+    "Wear a shirt covering the shoulders and bottoms covering the knees as a respectful choice at these royal religious monuments; no pagoda-specific official dress-code notice was located.",
+    "Bring a warm layer: the summit region is much cooler than Chiang Mai in December, particularly in the morning and wind.",
+    "Carry small Thai-baht notes for the park gate and on-site payments; verify the pagoda fee directly before departure.",
+    "Wear shoes with grip for wet or sloped garden paths, and allow time to walk slowly between the two levels.",
+    "Expect crowds on weekends and the New Year holiday period; ask your driver to avoid rushing the stop."
+  ],
+  "decemberNotes": "December falls in Doi Inthanon's cool, popular season. Clear spells can produce excellent ridge views, but high elevation brings cold air and low cloud can quickly hide the panorama. Weekdays are preferable; holiday traffic can lengthen the Chiang Mai return substantially. No pagoda-specific December 2026 event or closure notice was located, so check current park/operator channels near travel.",
+  "uncertainties": [
+    "The pagoda's direct operator did not publish an accessible current English notice for 2026 hours, admission or transport. The reported separate fee and hours should be treated as provisional and confirmed locally.",
+    "No dedicated shuttle, official accessibility information or pagoda-specific closure schedule was verified.",
+    "Weather and visibility are variable; no December 2026 forecast is available this far ahead."
+  ],
+  "sources": [
+    {
+      "title": "Department of National Parks tariff (Royal Gazette; Doi Inthanon group 3 fees)",
+      "url": "https://portal.dnp.go.th/DNP/FileSystem/download?uuid=7499cc88-52e1-43ee-aecd-1931ae5ca639.pdf"
+    },
+    {
+      "title": "Doi Inthanon National Park visitor guide: hours, fees and practical details (non-government; verify locally)",
+      "url": "https://doiinthanonnationalpark.org/hours-and-fees/"
+    },
+    {
+      "title": "Tourism Authority of Thailand: Doi Inthanon National Park",
+      "url": "https://www.tourismthailand.org/Attraction/doi-inthanon-national-park"
+    },
+    {
+      "title": "Wikimedia Commons photo file page and license details",
+      "url": "https://commons.wikimedia.org/wiki/File:Twin_Pagodas_of_Doi_Inthanon.JPG"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Twin_Pagodas_of_Doi_Inthanon.JPG/960px-Twin_Pagodas_of_Doi_Inthanon.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Twin_Pagodas_of_Doi_Inthanon.JPG",
+      "alt": "The Twin Royal Pagodas at Doi Inthanon among mountain gardens.",
+      "credit": "ElliotJW",
+      "license": "CC BY-SA 4.0"
+    }
+  ]
+}

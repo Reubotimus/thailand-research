@@ -1,0 +1,61 @@
+{
+  "id": "cnx-tha-phae-gate",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "Tha Phae Gate is a useful eastern landmark and meeting point at Chiang Mai’s Old City moat. It is a short, free stop on its own; pair it with the Sunday Walking Street or a walk through the old city for a fuller visit. The visible gate and wall have been reconstructed, so treat it as a historic civic landmark rather than an untouched medieval structure.",
+  "whyGo": [
+    "Get an easy visual orientation to the Old City and its moat-side streets.",
+    "See the gate square come alive during Sunday Walking Street, which runs west along Ratchadamnoen Road.",
+    "Use it as a convenient start or finish point for a self-guided heritage walk."
+  ],
+  "bestFor": [
+    "First-time visitors wanting a central landmark and photo stop.",
+    "Sunday evening market browsing and people-watching.",
+    "Runners or spectators attending the Chiang Mai Marathon weekend."
+  ],
+  "skipIf": [
+    "You want a quiet, uncrowded visit: the square and Sunday market can be busy.",
+    "You are expecting an intact ancient fortification or a ticketed museum experience."
+  ],
+  "duration": "Allow 15–30 minutes for the gate and nearby square; plan 1–2 hours or more if browsing the Sunday Walking Street (planning estimate).",
+  "cost": "Free to visit the public landmark. Food, crafts and transport are extra; no gate admission fee is listed by the official tourism source.",
+  "hours": "The gate and square are public outdoor space with no stated visitor hours. TAT lists Sunday Walking Street at approximately 17:00–22:00; hours and road closure details may change.",
+  "bestTime": "Early morning for a calmer look and photographs, or Sunday evening for the market atmosphere. In December, check the marathon dates before choosing a quiet visit.",
+  "gettingThere": "The gate is on the east side of the Old City. Walk from nearby Old City accommodation or take a red songthaew and ask for Tha Phae Gate; TAT identifies red trucks as a local transport option. Allow extra time around event or market road closures.",
+  "booking": "No booking is needed for the gate or market. The Chiang Mai Marathon is a separately registered event; the organizer lists race-pack collection at Tha Phae Gate on 18–19 December 2026, 10:00–18:00.",
+  "accessibility": "The gate is an outdoor public space, but the surrounding pavements, kerbs, crossings and market crowd may make step-free movement difficult. No authoritative accessibility details were found; check conditions locally and allow extra time.",
+  "practicalTips": [
+    "For the Sunday Walking Street, arrive near opening time or expect dense crowds later in the evening; carry small cash for stalls.",
+    "Agree on the exact gate-side meeting point with companions, as the square gets busy.",
+    "Keep clear of the road and follow temporary police or event directions during race weekend."
+  ],
+  "decemberNotes": "The official Chiang Mai Marathon site confirms race day on Sunday 20 December 2026 at Tha Phae Gate. Its expo and race-pack collection are scheduled there for 18–19 December, 10:00–18:00, so expect event setup and increased activity around that weekend. No other December 2026 gate event was confirmed. Sunday Walking Street is a regular Sunday market, not a special December-only event.",
+  "uncertainties": [
+    "The organizer may update marathon arrangements, crowd controls or local access before race weekend; recheck its page close to travel.",
+    "TAT gives approximate Sunday market hours, but stall operation and road closure timing can vary.",
+    "Public-space accessibility and current construction or pavement conditions are not documented in the cited sources."
+  ],
+  "sources": [
+    {
+      "title": "Tourism Authority of Thailand: Tha Phae Walking Street",
+      "url": "https://www.tourismthailand.org/Shop/tha-phae-walking-street"
+    },
+    {
+      "title": "Muang Thai Chiang Mai Marathon 2026: official event information",
+      "url": "https://www.chiangmaimarathon.com/"
+    },
+    {
+      "title": "Wikimedia Commons: Tha Phae Gate image by Jakub Hałun",
+      "url": "https://commons.wikimedia.org/wiki/File:20171105_Tha_Phae_Gate_Chiang_Mai_9784_DxO.jpg"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/20171105_Tha_Phae_Gate_Chiang_Mai_9784_DxO.jpg/960px-20171105_Tha_Phae_Gate_Chiang_Mai_9784_DxO.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20171105_Tha_Phae_Gate_Chiang_Mai_9784_DxO.jpg",
+      "alt": "Tha Phae Gate and the adjoining brick city wall in Chiang Mai.",
+      "credit": "Jakub Hałun",
+      "license": "CC BY-SA 4.0"
+    }
+  ]
+}

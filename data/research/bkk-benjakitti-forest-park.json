@@ -1,0 +1,66 @@
+{
+  "id": "bkk-benjakitti-forest-park",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "A large urban wetland and forest park beside Queen Sirikit National Convention Center, with planted ponds, elevated skywalks, running and nature-walk routes, and city views. It is a useful free-time stop for a green break in central Bangkok; individual facilities and exact access hours should be checked locally.",
+  "whyGo": [
+    "See a nature-based urban park built around water retention, wetland planting, and ecological learning.",
+    "Walk the 1.6 km skywalk or choose a longer signed nature route through the park.",
+    "Pair the park with Queen Sirikit National Convention Center or the nearby MRT station."
+  ],
+  "bestFor": [
+    "A low-cost outdoor break, easy walking, bird and plant viewing, and skyline photos.",
+    "Travelers staying around Sukhumvit, Asok, or the convention center."
+  ],
+  "skipIf": [
+    "You want a quiet wilderness experience: this is a popular city park, with nearby roads and high-rise views.",
+    "You need guaranteed full shade, step-free access across every route, or indoor shelter; the official listing does not detail route-by-route conditions."
+  ],
+  "duration": "Allow about 1–2 hours for a relaxed walk and skywalk; this is a planning estimate, and the BMA lists a 5.8 km nature walk as well as shorter exercise routes.",
+  "cost": "The BMA park listing shows no service fee, but does not explicitly state the admission policy. Treat general entry as likely free and confirm if visiting a specific facility or event.",
+  "hours": "The BMA Greener Bangkok listing currently gives daily hours 04:30–22:00 and cycling hours 06:00–17:30. Another official Bangkok investment page lists 04:30–21:00, so confirm the closing time with the park before a late visit. Opening hours can change.",
+  "bestTime": "Go early morning or late afternoon for a cooler walk and softer light. December is generally a more comfortable season for outdoor time than Bangkok's hotter months, but it can still feel warm; bring water and check the day’s weather.",
+  "gettingThere": "MRT is the simplest approach: the BMA lists Queen Sirikit National Convention Center and Sukhumvit stations. BTS Asok is also listed; allow for an urban walk between the station and your chosen park entrance. BMA also lists several bus routes, but route numbers and service can change. The park is beside Queen Sirikit National Convention Center on Ratchadaphisek Road.",
+  "booking": "No booking is indicated for a normal park visit. Organized public events or use of park spaces require advance contact with the managing office; BMA's public-space platform lists 7 working days for free activities and 30 days for paid activities.",
+  "accessibility": "The BMA listing marks disabled access, toilets, benches, and parking as available, and the 1.6 km skywalk offers a defined route. It does not explain surface, ramp, lift, or accessible toilet details, so confirm the specific entrance and route with park staff if step-free access is essential.",
+  "practicalTips": [
+    "Choose an entrance based on the route you want: the forest-park boardwalks, lake paths, and facilities cover a broad area.",
+    "Wear comfortable shoes and take water; use care on elevated or waterside paths, especially after rain.",
+    "The BMA lists cycling hours as 06:00–17:30 and a 3.4 km cycle route; do not assume bicycles are permitted on pedestrian skywalks.",
+    "Follow the park's environmental rules: BMA prohibits drones, smoking, alcohol/intoxicants, and damaging trees. Keep to paths and avoid disturbing plants and wildlife."
+  ],
+  "decemberNotes": "No dated December 2026 park event schedule was found in the official sources reviewed. Standard park hours are listed, but can change; check BMA's park page or contact the park nearer the visit. December evenings can be pleasant for a walk, but finish before the confirmed closing time.",
+  "uncertainties": [
+    "Official Bangkok pages conflict on closing time: 21:00 versus 22:00.",
+    "The BMA listing leaves its service-fee field blank, so admission cost is not explicitly confirmed.",
+    "Accessibility is marked as available, but the official page gives no detailed route or facility specifications.",
+    "December 2026 events, temporary closures, and current transit service details are not yet confirmed."
+  ],
+  "sources": [
+    {
+      "title": "Greener Bangkok (Bangkok Metropolitan Administration): Benjakitti Park",
+      "url": "https://greener.bangkok.go.th/en/park/benjakitti-park/"
+    },
+    {
+      "title": "Bangkok Public Space Platform: Benchakitti Park",
+      "url": "https://publicspace.bangkok.go.th/Spaces/Info/0FA80112-02CB-45F1-B9B6-A59666D9B990"
+    },
+    {
+      "title": "Invest Bangkok: Public Park and Green Space",
+      "url": "https://invest.bangkok.go.th/park/"
+    },
+    {
+      "title": "Wikimedia Commons: Benjakitti Forest Park (I).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Benjakitti_Forest_Park_(I).jpg"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Benjakitti_Forest_Park_%28I%29.jpg/1280px-Benjakitti_Forest_Park_%28I%29.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Benjakitti_Forest_Park_(I).jpg",
+      "alt": "Elevated view across the planted wetland landscape of Benjakitti Forest Park, with Bangkok buildings in the distance; photographed in December 2021.",
+      "credit": "Supanut Arunoprayote via Wikimedia Commons",
+      "license": "CC BY 4.0"
+    }
+  ]
+}

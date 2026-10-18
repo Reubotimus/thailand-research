@@ -1,0 +1,48 @@
+{
+  "id": "bkk-octave-rooftop-lounge",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "A multi-level rooftop bar at Bangkok Marriott Hotel Sukhumvit, with an open-air 49th-floor circular bar and broad Bangkok views. It is convenient from BTS Thong Lo and works well for a sunset drink or a livelier evening.",
+  "whyGo": [
+    "The upper floors offer open-air, wide-angle views across Sukhumvit and toward the river.",
+    "A 45th-floor restaurant and higher bar levels give options for a meal or drinks in the same venue.",
+    "The hotel is close to BTS Thong Lo, making this easier to reach by train than many rooftop bars."
+  ],
+  "bestFor": ["Sunset drinks with a city view", "Couples or groups wanting a polished but relatively accessible rooftop", "Visitors staying around Thonglor or the Sukhumvit BTS line"],
+  "skipIf": ["You want a quiet, low-cost bar; rooftop drinks are likely a premium-priced outing", "You need confirmed step-free access to every outdoor level or accessible restroom; details are not published"],
+  "duration": "Plan 1.5–2.5 hours for a drink and views; add time if dining. This is a planning estimate.",
+  "cost": "Premium hotel-bar pricing. A current, complete public drink price list could not be confirmed; budget roughly THB 500–1,000+ per person for one or two drinks before any meal as a planning estimate, and check the live menu or ask when booking. Food and special event packages cost extra. Older menus and past promotions should not be treated as current prices.",
+  "hours": "Marriott's current Octave listing gives daily 5:00 pm–2:00 am. Time Out's April 2026 listing says daily 5:00 pm–1:00 am. Confirm closing time with the venue close to your visit; holiday hours may differ.",
+  "bestTime": "Arrive near opening (5 pm) to catch sunset and have a better chance of choosing a seat; sunset time and visibility vary. Later evenings are likely livelier. Outdoor views depend on weather and haze.",
+  "gettingThere": "Bangkok Marriott Hotel Sukhumvit, 2 Sukhumvit Soi 57, Khlong Tan Nuea, Watthana. Take the BTS Sukhumvit Line to Thong Lo (Thong Lo) station and use Exit 3, then walk to the hotel; Time Out describes the station as steps away. Use a metered taxi or app ride if rain or heat makes the short walk uncomfortable. Allow extra time for traffic if arriving by road.",
+  "booking": "Reserve through the Marriott Octave page or call the hotel at +66 2 797 0000. Ask whether your booking is for the restaurant or rooftop bar, and request a preferred level or outdoor table; specific seats may not be guaranteed. Book ahead for sunset, Friday/Saturday evenings and December dates. Check directly for any 31 December 2026 ticket, minimum-spend or seating rules; no confirmed 2026 event terms were found.",
+  "accessibility": "The venue occupies several high floors of a hotel building, but published sources do not confirm the lift route, step-free access at all rooftop levels, accessible toilets, or wheelchair seating outdoors. Contact the hotel before going if these details matter. Rooftop areas are open-air and exposed to weather.",
+  "practicalTips": [
+    "Time Out describes the dress as casual chic and says sportswear, flip-flops and sleeveless tops for men are not permitted; Marriott's hotel dining page labels the dress code casual. Check with the venue if unsure.",
+    "Bring a light layer for wind at the top and have a rain backup; outdoor seating and visibility can be affected by weather.",
+    "Check the bill for service charge and tax, and confirm current menu prices before ordering.",
+    "If visiting around New Year's Eve, contact the hotel for the event format and transport plans rather than assuming normal walk-in service."
+  ],
+  "decemberNotes": "December is a popular Bangkok travel period, and sunset seating and New Year's Eve may be especially busy. Reserve in advance and recheck hours, dress expectations and any event conditions shortly before travel. Marriott's published daily hours are a current baseline, not a guarantee for December 2026; no specific 2026 holiday program was confirmed.",
+  "uncertainties": [
+    "Marriott lists closing at 2 am while Time Out (April 2026) lists 1 am; confirm directly.",
+    "Current ordinary à la carte drink prices and any minimum spend were not verifiable from an accessible current menu.",
+    "December 2026 holiday hours, event tickets, minimum spends and reservation policies are not yet confirmed in the sources checked.",
+    "Detailed step-free and accessible restroom arrangements are not published."
+  ],
+  "sources": [
+    {"title": "Octave Rooftop Lounge & Bar — Marriott Bonvoy (venue, address, phone, hours, reservations)", "url": "https://www.marriott.com/en-us/dining/restaurant-bar/bkkbp-marriott-executive-apartments-bangkok-sukhumvit-thonglor/5507490-octave-rooftop-lounge-bar.mi"},
+    {"title": "Bangkok Marriott Hotel Sukhumvit — Dining (dress code, venue and booking details)", "url": "https://www.marriott.com/en-us/hotels/bkkms-bangkok-marriott-hotel-sukhumvit/dining/"},
+    {"title": "Octave Rooftop Lounge & Bar — Time Out Bangkok (levels, BTS exit, dress guidance, alternate hours)", "url": "https://www.timeout.com/bangkok/bars/octave-rooftop-restaurant"},
+    {"title": "Bangkok Marriott Hotel Sukhumvit — Photo gallery", "url": "https://www.marriott.com/en-us/hotels/bkkms-bangkok-marriott-hotel-sukhumvit/photos/"}
+  ],
+  "images": [
+    {
+      "url": "https://cache.marriott.com/content/dam/marriott-renditions/BKKMS/bkkms-octave-0043-hor-clsc.jpg?downsize=1336px%3A%2A&interpolation=progressive-bilinear&output-quality=70",
+      "sourceUrl": "https://www.marriott.com/en-us/hotels/bkkms-bangkok-marriott-hotel-sukhumvit/photos/",
+      "alt": "Marriott's Octave rooftop bar and lounge photo reference from its Bangkok Marriott Hotel Sukhumvit gallery.",
+      "credit": "Bangkok Marriott Hotel Sukhumvit / Marriott International",
+      "license": "Permission not established; linked reference"
+    }
+  ]
+}

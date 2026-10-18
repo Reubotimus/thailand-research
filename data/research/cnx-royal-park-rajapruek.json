@@ -1,0 +1,47 @@
+{
+  "id": "cnx-royal-park-rajapruek",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "A large landscaped garden park in Mae Hia, best known for its Lanna-style Ho Kham Luang pavilion, themed gardens and glasshouses. It suits a half-day escape from central Chiang Mai; the free garden tram helps cover the extensive grounds.",
+  "whyGo": [
+    "See Ho Kham Luang and stroll among Thai, international and themed gardens.",
+    "Pair outdoor garden paths with orchid, flower and other indoor displays.",
+    "Take a relaxed half-day outing with the option to cycle or ride the park tram."
+  ],
+  "bestFor": ["Garden and landscape photography", "Families and visitors who enjoy an unhurried outdoor visit", "A Chiang Mai outing beyond the old city"],
+  "skipIf": ["You have limited time and want to stay near central Chiang Mai", "You need a fully indoor or fully step-free attraction", "You are expecting a confirmed festival program or guaranteed peak bloom"],
+  "duration": "Plan around 2–4 hours as an estimate; the grounds cover more than 500 rai and a full walk can take longer. The free tram is a practical way to shorten distances.",
+  "cost": "Official admission page lists foreign adults at THB 200 and children 100–140 cm at THB 150; children under 100 cm enter free. Tram rides are free. Bicycle hire is listed at THB 60/day; confirm prices before travel as rates can change.",
+  "hours": "Officially open daily 08:00–18:00. Check the park’s noticeboard/site before visiting for temporary closures or event hours.",
+  "bestTime": "Arrive near opening or visit from 15:00 onward for cooler light; the park FAQ recommends 08:00–10:00 and 15:00–18:00 for photography. December falls in Chiang Mai’s cooler season, but specific blooms vary.",
+  "gettingThere": "The park is in Mae Hia, southwest of central Chiang Mai. The official FAQ gives road routes via Highway 121 (Canal Road) or Chiang Mai–Hang Dong Road/Highway 108, then Ratchaphruek Road. A taxi or ride-hail is the simplest visitor plan; public-transit service was not confirmed in the official material reviewed.",
+  "booking": "No advance booking requirement found for ordinary entry; the official admission page presents walk-up ticket rates. Check official channels for any separate festival arrangements or group visits.",
+  "accessibility": "Official admission information says visitors with disabilities enter free. The park map marks accessible parking and several ramps, and the tram may reduce walking. The site does not establish step-free access across every garden or building; contact the park about specific mobility needs.",
+  "practicalTips": [
+    "Download or check the official park map before arrival; the grounds are large and tram stops help orient a visit.",
+    "Bring sun protection and water, and wear comfortable shoes for outdoor paths.",
+    "The official map shows parking, visitor information, food facilities, tram service and accessible parking; verify current facilities on arrival."
+  ],
+  "decemberNotes": "The park has announced preparations for its Flora Festival 2026, but the official notice reviewed gives renovation dates only, not the festival’s visitor dates or December program. Treat seasonal displays and any special hours as unconfirmed; check the official site shortly before your visit. December is generally a popular, cooler-season time in Chiang Mai.",
+  "uncertainties": [
+    "Exact Flora Festival 2026 dates, December events and any extended hours were not confirmed in the sources reviewed.",
+    "Flower displays change through the season; no source guarantees specific plants will be in bloom on a particular December date.",
+    "Admission and rental prices can change before December 2026.",
+    "Accessibility varies by route and building; comprehensive step-free access details were not available."
+  ],
+  "sources": [
+    {"title": "Royal Park Rajapruek — Admission", "url": "https://www.royalparkrajapruek.org/Admission"},
+    {"title": "Royal Park Rajapruek — FAQ (hours, directions and visitor information)", "url": "https://www.royalparkrajapruek.org/Faq"},
+    {"title": "Royal Park Rajapruek — temporary area closures preparing for Flora Festival 2026", "url": "https://www.royalparkrajapruek.org/News/news_detail?newsid=2124"},
+    {"title": "Royal Park Rajapruek — park map", "url": "https://www.royalparkrajapruek.org/img/upload/20251113-69155b4799a0b.pdf"}
+  ],
+  "images": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Parc_royal_de_Ratchaphruek_8.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parc_royal_de_Ratchaphruek_8.jpg",
+      "alt": "Ho Kum Luang royal pavilion at Royal Park Rajapruek; photo dated March 2024.",
+      "credit": "Welcome to Thailand via Wikimedia Commons",
+      "license": "CC0 1.0 Universal Public Domain Dedication"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "bkk-chatuchak-weekend-market",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "A sprawling weekend shopping maze with clothes, vintage pieces, ceramics, art, homewares and snack stops. Shortlist it if browsing and discovering unexpected objects sounds enjoyable; choose a few sections rather than trying to cover everything.",
+  "whyGo": ["Explore independent fashion, secondhand clothing, art and interiors in one outing.", "Combine souvenir hunting with casual food breaks and people watching."],
+  "bestFor": ["Shoppers who enjoy browsing without a fixed target", "Vintage, design and homeware enthusiasts", "Travellers with a free Saturday or Sunday morning"],
+  "skipIf": ["You dislike crowded, hot, narrow shopping lanes", "You want a quick, predictable sightseeing stop", "Your Bangkok stay contains weekdays only and you expect the full market"],
+  "duration": "Allow 2–4 hours as a planning estimate; longer for serious shopping.",
+  "cost": "Generally free to browse; purchases, food and transport extra. No official admission tariff or reliable current item-price list was found. Set a personal shopping budget.",
+  "hours": "Tourism Authority of Thailand lists Saturday–Sunday 09:00–18:00 for the main market; individual shops vary. Friday evening and weekday plant sections have limited openings and are a different experience.",
+  "bestTime": "Saturday or Sunday around 09:00–10:00, allowing time before the hottest, busiest afternoon period. This is a practical recommendation rather than a guaranteed quiet window.",
+  "gettingThere": "Use MRT Blue Line to Kamphaeng Phet or Chatuchak Park, or BTS Sukhumvit Line to Mo Chit. TAT describes roughly 5–10 minutes walking from the listed stations; the best entrance depends on your target section.",
+  "booking": "No booking needed for independent browsing. A paid tour is optional.",
+  "accessibility": "Expect substantial walking and congested aisles. Step-free routes through individual stalls, accessible toilets and continuous wheelchair access were not verified; station accessibility alone does not guarantee an easy market visit.",
+  "practicalTips": ["Pick two or three interests before arriving and save the relevant sections on a map.", "Photograph a shop's section and stall number if you may return; the lanes can be confusing.", "Bring small cash notes, water and comfortable shoes; ask each seller about card acceptance.", "Inspect size and quality before paying and agree the price clearly. Keep valuables secure in crowds."],
+  "decemberNotes": "Put this on a weekend in your December itinerary. Even during the cooler season, plan shade and water breaks. December 2026 holiday exceptions and individual trader attendance have not been announced in the sources checked.",
+  "uncertainties": ["TAT and the independent market guide disagree on weekday plant-market days; use the consistent Saturday–Sunday main-market hours for planning.", "Exact current prices, accessible facilities and December holiday changes remain unverified."],
+  "sources": [
+    {"title": "Tourism Authority of Thailand: Chatuchak Weekend Market", "url": "https://www.thailandtravel.or.jp/chatuchak-weekend-market/"},
+    {"title": "Chatuchakmarket.org: opening times (independent guide)", "url": "https://www.chatuchakmarket.org/opening-times/"},
+    {"title": "Wikimedia Commons: Chatuchak Weekend Market photograph", "url": "https://commons.wikimedia.org/wiki/File:Chatuchak_Weekend_Market.jpg"}
+  ],
+  "images": [{"url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Chatuchak_Weekend_Market.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chatuchak_Weekend_Market.jpg", "alt": "A view of Chatuchak Weekend Market in Bangkok, photographed in May 2018", "credit": "Christophe95 / Wikimedia Commons", "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/"}]
+}

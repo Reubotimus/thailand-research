@@ -1,0 +1,62 @@
+{
+  "id": "bkk-nang-loeng-market",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "A long-running community market in Bangkok’s old town, known for traditional Thai sweets and everyday prepared foods. Its wooden shophouses, shrines and the former Sala Chaloem Thani theatre add a heritage walk to a casual breakfast or lunch. Come for local food and neighbourhood history; this is a daytime market, not an evening attraction.",
+  "whyGo": [
+    "Taste traditional sweets and classic dishes such as braised duck, beef noodles and red pork rice.",
+    "See an old Bangkok market district with wooden shopfronts, community shrines and the historic former theatre.",
+    "Combine a food stop with nearby old-town sights on foot."
+  ],
+  "bestFor": [
+    "Travellers interested in local food traditions and historic neighbourhoods",
+    "A relaxed morning market visit with cash and an appetite",
+    "Independent visitors comfortable navigating a Thai-speaking local market"
+  ],
+  "skipIf": [
+    "You want a large tourist market, extensive shopping or evening activity.",
+    "You expect every stall to be open throughout the published hours."
+  ],
+  "duration": "Allow about 60–90 minutes for a wander and a meal; this is a planning estimate.",
+  "cost": "No entrance fee is listed by the Thai government visitor guide. Pay for food and drinks at individual vendors; current stall prices were not verified. Carry Thai baht cash and ask the price before ordering.",
+  "hours": "Published hours conflict. The Tourism Authority of Thailand’s Japanese-language page lists 08:00–15:00 Monday–Saturday and until 17:00 Sunday; the Thai government’s 2026 Annual Meetings visitor guide lists 06:00–17:00 daily and notes shop hours vary. Plan for the morning and verify locally if timing matters.",
+  "bestTime": "Aim for 08:00–11:00, when the government visitor guide recommends visiting and food options should be active. December is in Bangkok’s cooler season, but midday remains warm.",
+  "gettingThere": "The 2026 Annual Meetings visitor guide suggests MRT Blue Line to Sam Yot, Exit 1, then about a 15-minute walk; it also lists the Saen Saep canal boat to Phan Fa Pier, about a 10-minute walk, and BTS Ratchathewi followed by a taxi or tuk-tuk. Confirm live transit and walking directions before setting out. The market is on Nakhon Sawan Road in Wat Sommanat, Pom Prap Sattru Phai.",
+  "booking": "No booking is needed for the public market; buy directly from stalls. A guided food walk, if desired, would need separate arrangements.",
+  "accessibility": "Step-free paths, accessible toilets and seating were not documented in the sources reviewed. Expect a traditional market setting with narrow aisles and uneven walking surfaces; confirm specific access needs before going.",
+  "practicalTips": [
+    "Visit early, bring small cash notes and drinking water, and wear light clothes for walking.",
+    "Individual vendors may sell out or keep shorter hours than the market listing; stay flexible about which dishes you find.",
+    "Ask vendors about ingredients if you have allergies or dietary restrictions.",
+    "Treat the former Sala Chaloem Thani theatre as a heritage landmark; it is no longer operating as a cinema."
+  ],
+  "decemberNotes": "A practical daytime stop for December 2026. No special December programme or holiday schedule was verified. Since published opening hours conflict, check again close to the visit and avoid planning around one specific stall without confirmation.",
+  "uncertainties": [
+    "Officially published opening hours differ, and individual stall schedules may vary.",
+    "Current food prices, payment methods at individual stalls and accessible facilities were not verified.",
+    "No December 2026 special events or holiday opening arrangements were found."
+  ],
+  "sources": [
+    {
+      "title": "Tourism Authority of Thailand Japan — Nang Loeng Market",
+      "url": "https://www.thailandtravel.or.jp/nang-loeng-market/"
+    },
+    {
+      "title": "Thailand 2026 Annual Meetings — Nang Loeng Market visitor guide",
+      "url": "https://www.am2026thailand.go.th/explore-bangkok/nang-loeng-market"
+    },
+    {
+      "title": "Wikimedia Commons — Fried Bananas (Nang Loeng) Pink Apron",
+      "url": "https://commons.wikimedia.org/wiki/File:%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B9%81%E0%B8%82%E0%B8%81%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B9%89%E0%B8%87_%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B9%8A%E0%B8%A2%E0%B8%A1%E0%B8%8A%E0%B8%A1%E0%B8%9E%E0%B8%B9_%28I%29.jpg"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B9%81%E0%B8%82%E0%B8%81%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B9%89%E0%B8%87_%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B9%8A%E0%B8%A2%E0%B8%A1%E0%B8%8A%E0%B8%A1%E0%B8%9E%E0%B8%B9_%28I%29.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B9%81%E0%B8%82%E0%B8%81%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B9%89%E0%B8%87_%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B9%8A%E0%B8%A2%E0%B8%A1%E0%B8%8A%E0%B8%A1%E0%B8%9E%E0%B8%B9_%28I%29.jpg",
+      "alt": "A fried banana vendor known as Pink Apron in Bangkok’s Nang Loeng area.",
+      "credit": "Phoebus 28 / Wikimedia Commons",
+      "license": "CC BY 4.0"
+    }
+  ]
+}

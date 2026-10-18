@@ -1,0 +1,60 @@
+{
+  "id": "cnx-wat-pha-lat-forest-temple-stop",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "Wat Pha Lat is an active forest monastery on Doi Suthep, reached either by a short hillside walk or by road. Its streamside shrines and shaded setting make it a quieter companion to the busier Wat Phra That Doi Suthep.",
+  "whyGo": [
+    "Combine a manageable forest walk with an atmospheric temple visit close to Chiang Mai.",
+    "See a historic pilgrimage resting place integrated with the hillside rather than a large city temple complex."
+  ],
+  "bestFor": [
+    "Walkers comfortable with roots, uneven ground and a steady uphill climb.",
+    "Visitors who want a calmer temple stop and can give it unhurried time."
+  ],
+  "skipIf": [
+    "You need step-free access throughout or are visiting during heavy rain.",
+    "You want a fully confirmed schedule, facilities or accessible route before setting out; these details are not clearly published."
+  ],
+  "duration": "Allow about 30–60 minutes each way on the Monk’s Trail and 30–60 minutes to explore: roughly 1.5–2.5 hours at the site and on foot, plus city transfers. The upper trail to Doi Suthep is a separate, much longer hike.",
+  "cost": "Recent local guides report a Doi Suthep–Pui National Park trail charge of ฿100 for foreign adults (฿50 children), introduced in October 2025; this is for the nature trail, not temple entry. Recheck in December 2026 and carry cash. Road access avoids the trail fee; temple donations are optional.",
+  "hours": "No dependable daily opening hours for Wat Pha Lat were confirmed. Plan a daylight visit and check locally before travelling; do not assume the hiking route is open after dark.",
+  "bestTime": "Go in the morning for cooler walking and more daylight margin. December is outside the June–October wet-season period noted by a local operator, though recent rain can still make shaded roots and rocks slippery.",
+  "gettingThere": "For the walk, take a taxi or ride-hail to the Monk’s Trail entrance behind Chiang Mai University, south of the zoo; navigate to the trailhead rather than the temple, which has a separate road entrance. Hike about 1.4 km uphill (typically under an hour). Alternatively, arrange a songthaew or car directly to the temple. Plan your return ride in advance if hiking.",
+  "booking": "No advance booking is indicated for an independent temple visit or trail walk. Guided Doi Suthep tours may include the walk; check whether their price includes the reported park fee.",
+  "accessibility": "The forest route has roots, loose soil, uneven steps and about 160 m of ascent, so it is not wheelchair-friendly and may be difficult for limited mobility. Road access reaches the temple, but step-free access within the grounds and accessible facilities are unverified.",
+  "practicalTips": [
+    "Wear closed shoes with reliable grip; bring water and a little cash for the reported trail fee.",
+    "Download an offline map: trail markers help but do not replace navigation, and the entrance can be easy to miss.",
+    "Cover shoulders and knees, keep voices low, and remove shoes before entering sacred halls; this is an active monastery.",
+    "At Wat Pha Lat, decide whether to return the same way; continuing up to Doi Suthep is a substantially longer, steeper outing."
+  ],
+  "decemberNotes": "December is a practical season for the shaded climb, but trail conditions and any park charge can change. Start early, check for rain, and leave time to return before dusk. No December 2026 closure or special event schedule was confirmed.",
+  "uncertainties": [
+    "Daily temple and trail opening times were not reliably published in the sources reviewed.",
+    "The reported ฿100 foreign-adult trail charge is current to local reporting in 2026 but should be confirmed at the trailhead; it does not apply to road access to the temple.",
+    "Step-free access and facilities within the temple grounds are not documented in the sources reviewed."
+  ],
+  "sources": [
+    {
+      "title": "Doi Suthep Tours: The Monk’s Trail to Doi Suthep and Wat Pha Lat (checked August 18, 2026)",
+      "url": "https://www.doisutheptours.com/monks-trail/"
+    },
+    {
+      "title": "The Chiang Mai Brief: Monk’s Trail Chiang Mai: Wat Pha Lat Hiking Route in Doi Suthep (18 September 2026)",
+      "url": "https://chiangmaibrief.com/nature-and-hikes/monks-trail-chiang-mai/"
+    },
+    {
+      "title": "Wikimedia Commons: Wat Pha Lat.jpg file page and license",
+      "url": "https://commons.wikimedia.org/wiki/File:Wat_Pha_Lat.jpg"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Wat_Pha_Lat.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wat_Pha_Lat.jpg",
+      "alt": "Wat Pha Lat temple buildings among forest trees on Doi Suthep.",
+      "credit": "Thomaswinn / Wikimedia Commons",
+      "license": "CC BY-SA 4.0"
+    }
+  ]
+}

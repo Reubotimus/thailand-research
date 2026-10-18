@@ -1,0 +1,57 @@
+{
+  "id": "bkk-talat-phlu",
+  "researchedAt": "2026-10-18",
+  "status": "partial",
+  "summary": "A lived-in Thonburi food quarter of old shophouses, railway-side stalls and long-running Thai-Chinese shops. Plan a crawl around the Talat Phlu local railway station; the similarly named BTS station is roughly 1 km away.",
+  "whyGo": [
+    "Taste everyday Bangkok street food in a neighborhood with a strong railway and shophouse character.",
+    "Try local specialties including crispy Thai pancakes (khanom buang), roast pork rice, braised fish maw soup and sweet-savoury mee krob."
+  ],
+  "bestFor": [
+    "Independent eaters who enjoy sampling several small dishes and walking between shops.",
+    "Visitors interested in local railways, old storefronts and a quieter Thonburi evening."
+  ],
+  "skipIf": [
+    "You need a smooth, step-free route or dislike traffic close to narrow sidewalks.",
+    "You want a single enclosed market with predictable hours and seating."
+  ],
+  "duration": "Allow 2–3 hours for the railway-side food area and a few nearby shops. Add time if you want to explore the side streets or wait for popular stalls.",
+  "cost": "Budget roughly ฿150–400 per person for several street-food portions and a drink; this is a planning estimate, and individual stall prices and portions vary.",
+  "hours": "There is no single market opening time. The Tourism Authority of Thailand lists Ni-Ang shaved ice and its frozen-egg ice cream daily 15:00–02:00; Sunee roast-pork rice daily 06:00–20:30; Tek Heng mee krob 10:00–14:00 and 16:00–21:00 weekdays, 10:00–21:00 weekends; and a railway-side fish-maw soup shop 10:00–14:00, closed Sunday. Shop hours can change; confirm locally.",
+  "bestTime": "Arrive around 16:00–17:00 for a mix of late-opening stalls and enough time to orient yourself before dinner. Go earlier for the fish-maw soup, which the Tourism Authority lists as a daytime shop and closed Sundays. December is generally more comfortable for walking than the hot season, but evenings remain busy.",
+  "gettingThere": "For the market itself, take the Wongwian Yai–Mahachai local train to Talat Phlu railway station, which is beside the food area. BTS Talat Phlu is on the Silom Line but about 1 km away; walk or take a motorcycle taxi. The Tourism Authority also suggests MRT Tha Phra followed by a motorcycle taxi, with an approximate ฿40 fare at the time of publication. Recheck rail times and fares for December 2026.",
+  "booking": "No booking is needed for the neighborhood or food stalls. Popular shops may have queues and some sell out; arrive early for a particular dish.",
+  "accessibility": "Expect a street-level outing with narrow, busy roads and uneven or obstructed walking space. The Tourism Authority warns that the road by the railway-side film location is small and traffic is present. Step-free access on the last mile and at individual stalls is not confirmed; contact a specific venue or use a taxi close to the destination if mobility is limited.",
+  "practicalTips": [
+    "Do not confuse BTS Talat Phlu with the local railway station: the BTS stop is about 1 km from the market, while the local train station is beside it.",
+    "For a dinner-focused visit, prioritize roast pork rice, khanom buang, mee krob or the evening dessert shops; the cited fish-maw soup shop is a lunch stop and closes Sundays.",
+    "Carry small cash, share portions to sample more, and check the vendor's current opening status before making a special trip.",
+    "Use care near the tracks and road; keep clear of railway operations and take photos from safe public areas."
+  ],
+  "decemberNotes": "This is a practical year-round food outing rather than a dated seasonal event. December 2026 stall schedules, rail timetables and prices have not been published this far ahead; verify close to travel. The local train can be a scenic arrival, but use BTS or a taxi if its timetable does not suit your evening return.",
+  "uncertainties": [
+    "Published stall hours are from the Tourism Authority of Thailand's 2025 article and may change by the visit date or on holidays.",
+    "The Tourism Authority does not give a single market-wide opening schedule, current food prices, or detailed accessibility information.",
+    "The listed motorcycle-taxi fare and rail details are guidance from the source, not a December 2026 quote; confirm current fares and service times.",
+    "Photo reuse permission is not established; the linked reference is credited to the Tourism Authority of Thailand."
+  ],
+  "sources": [
+    {
+      "title": "Tourism Authority of Thailand: Talat Phlu, a Paradise for Food Lovers and Nostalgic Vibe",
+      "url": "https://www.tourismthailand.org/Articles/talat-phlu"
+    },
+    {
+      "title": "Time Out Bangkok: Best things to eat in Talad Plu",
+      "url": "https://www.timeout.com/bangkok/restaurants/best-things-to-eat-in-talad-plu"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://dmc.tatdataapi.io/assets/5537dc32-3ab9-444f-a69c-5cb4a712a2bf.jpg",
+      "sourceUrl": "https://www.tourismthailand.org/Articles/talat-phlu",
+      "alt": "Talat Phlu railway station and neighboring shophouses, shown as a local landmark by the Tourism Authority of Thailand.",
+      "credit": "Tourism Authority of Thailand (photographer not identified)",
+      "license": "Permission not established; linked reference"
+    }
+  ]
+}

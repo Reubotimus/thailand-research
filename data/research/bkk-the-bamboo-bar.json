@@ -1,0 +1,45 @@
+{
+  "id": "bkk-the-bamboo-bar",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "A polished riverside hotel jazz bar for cocktails and live music in the Mandarin Oriental, with a smart dress code and no reservations.",
+  "whyGo": [
+    "A distinctive Bangkok night out built around live jazz and blues in a long-running, intimate hotel bar.",
+    "The current drinks list includes Thai spirits and cocktails using local ingredients."
+  ],
+  "bestFor": ["Jazz and cocktail fans", "A special-occasion drink", "Visitors already exploring the Chao Phraya riverside"],
+  "skipIf": ["You want an inexpensive night out", "You need a guaranteed table or have a large group", "You cannot meet the evening dress code"],
+  "duration": "Allow 1–2 hours for drinks and a music set; arrive with time to find a seat, as the bar does not take reservations.",
+  "cost": "Premium pricing: the current official menu lists many spirits around THB 420–700, before 10% service charge and 7% VAT. Budget roughly THB 600–900 per cocktail after charges; check the live menu for current prices.",
+  "hours": "Official listing: 5pm–1am Sunday–Thursday and 5pm–2am Friday–Saturday. Live band with vocalist Monday–Thursday 8pm–11:45pm and Friday–Saturday 8pm–12:45am; Sunday pianist 9pm–11:45pm. Verify closer to travel.",
+  "bestTime": "Go shortly after opening for a better chance of seating; for the full music experience, attend during the posted evening set. Weekends may be busier.",
+  "gettingThere": "At Mandarin Oriental, 48 Oriental Avenue, Bang Rak, on the Chao Phraya river. The hotel operates shuttle boats to Saphan Taksin BTS and ICONSIAM; take the boat from the BTS pier to the hotel, or use a taxi/ride-hail to the hotel entrance. Confirm boat operations and timings with the hotel on the day.",
+  "booking": "Walk-in only; the official bar page says reservations are not accepted. For enquiries call +66 2 659 9000 or email mobkk-bamboobar@mohg.com. Arrive early if seating matters.",
+  "accessibility": "The venue is inside a hotel, but current official information does not specify step-free access, accessible toilets, or seating arrangements. Contact the hotel in advance to confirm the route and any access needs.",
+  "practicalTips": [
+    "After 6:30pm, wear elegant attire and proper footwear; men need long trousers and closed shoes. Sleeveless shirts for men are not allowed at any time.",
+    "Guests under 20 may enter only before 7:30pm; later they may accompany an adult on the outdoor terrace, subject to availability.",
+    "Check the live menu and music schedule before setting a budget or planning around a particular performer."
+  ],
+  "decemberNotes": "December 2026 falls in the busy year-end travel period. The bar's published regular hours and music schedule are available, but no specific December 2026 holiday schedule or special event was confirmed; check directly before going, especially around Christmas and New Year's Eve.",
+  "uncertainties": [
+    "Hours, music, prices and entry policy may change before December 2026; the official menu itself notes service charge and VAT, and the current total depends on the order.",
+    "No public accessibility details were found; contact the hotel to confirm step-free access and facilities.",
+    "The chosen image is an editorial reference; reuse permission is not established."
+  ],
+  "sources": [
+    {"title": "The Bamboo Bar — Mandarin Oriental, Bangkok (official hours, music, dress code and entry policy)", "url": "https://www.mandarinoriental.com/id/bangkok/chao-phraya-river/dine/the-bamboo-bar"},
+    {"title": "The Bamboo Bar drinks menu — Mandarin Oriental (official; prices and charges)", "url": "https://cdn-assets-dynamic.frontify.com/4001946/eyJhc3NldF9pZCI6NjA2ODUsInNjb3BlIjoiYXNzZXQ6dmlldyJ9%3Amandarin-oriental-hotel-group%3AwRs_vHQ9LS6fKFSK_ER4KRLxafqB72klP97-KBdL6S8"},
+    {"title": "Mandarin Oriental, Bangkok hotel overview (official; shuttle boat connections)", "url": "https://photos.mandarinoriental.com/is/content/MandarinOriental/corporate-bangkok-1PK-hotel-overview"},
+    {"title": "The Bamboo Bar — Time Out Bangkok (photo reference and address)", "url": "https://www.timeout.com/bangkok/bars/the-bamboo-bar"}
+  ],
+  "images": [
+    {
+      "url": "https://media.timeout.com/images/105867317/750/422/image.jpg",
+      "sourceUrl": "https://www.timeout.com/bangkok/bars/the-bamboo-bar",
+      "alt": "Interior view of The Bamboo Bar, with warm lighting, rattan seating and the bar counter.",
+      "credit": "The Bamboo Bar / Time Out Bangkok (as credited on the source page)",
+      "license": "Permission not established; linked reference"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "bkk-activity-159",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "A slow local-rail ride from Wongwian Yai in Thonburi to Mahachai, Samut Sakhon. It is a practical way to reach the busy seafood-market town as well as a glimpse of everyday commuter life. The State Railway currently lists 17 trains in each direction and a journey of about an hour.",
+  "whyGo": [
+    "See suburban Bangkok and the low-rise communities of the Mahachai line from a local train.",
+    "Arrive beside Mahachai’s seafood market and waterfront, with a chance to explore Samut Sakhon before returning."
+  ],
+  "bestFor": [
+    "Rail enthusiasts, slow-travel fans, and travelers curious about ordinary life beyond central Bangkok.",
+    "A half-day outing that combines an inexpensive train ride with a market visit."
+  ],
+  "skipIf": [
+    "You need a fast, fully air-conditioned journey or cannot manage the walk and station access.",
+    "You expect this train to continue directly to the Maeklong Railway Market: the Mahachai and Ban Laem sections are separated by the Tha Chin River and require a ferry and onward transfer."
+  ],
+  "duration": "Allow about 2 hours for the return train rides alone, plus time to reach the station and explore Mahachai; a relaxed half-day is a useful planning estimate.",
+  "cost": "SRT lists one-way fares of ฿10 adult / ฿5 child for ordinary cars and ฿25 adult / ฿20 child for air-conditioned cars. Budget ฿20–฿50 for a return rail trip per adult, plus local transport, food, and any ferry; confirm the applicable fare when buying.",
+  "hours": "SRT currently lists Wongwian Yai departures from 05:30 to 20:10 and Mahachai returns from 04:30 to 19:00, with 17 trains each way daily. These are current published times, not a guarantee for December 2026.",
+  "bestTime": "Choose a morning departure to leave time for the market and avoid relying on the final return service. The best light and market activity are practical preferences rather than guaranteed conditions.",
+  "gettingThere": "Take the BTS Silom Line to Wongwian Yai, then allow a walk of about 800 metres to the separate SRT Wongwian Yai station. The rail station is not the BTS platform; check the route on a map and allow time to find the street-level terminus.",
+  "booking": "SRT identifies this as an ordinary local train route and publishes the timetable and fares on its website. No advance booking requirement is stated on the route page; check the SRT timetable and ticket arrangements shortly before travel, and buy at the station unless SRT advises otherwise.",
+  "accessibility": "The route page gives no step-free access, platform, toilet, or onboard accessibility details. Confirm access directly with SRT before relying on this journey if you use a wheelchair or need step-free boarding; the walk from BTS is also a consideration.",
+  "practicalTips": [
+    "Check the live SRT timetable shortly before departure; leave a generous buffer for the return and do not plan around the last train without confirming it.",
+    "Carry small cash and water. Expect a basic local service; SRT notes that only trains marked in blue include air-conditioned cars.",
+    "Mahachai is not the famous Maeklong train-market stop. To continue toward Ban Laem/Maeklong, plan the river ferry and separate onward train as a distinct connection."
+  ],
+  "decemberNotes": "For a December 2026 trip, treat the published times and fares as a planning baseline and recheck SRT’s live timetable close to the date. No December-specific closures or service changes were found in the reviewed sources; future disruptions cannot be confirmed this far ahead.",
+  "uncertainties": [
+    "The current route page does not show when these fares and times took effect, and they may change before December 2026.",
+    "The SRT page does not describe accessibility, ticket purchase options in detail, or service disruption notices for the planned travel date.",
+    "A half-day duration and morning preference are planning estimates, not official timings for a market visit."
+  ],
+  "sources": [
+    {
+      "title": "State Railway of Thailand: Wongwian Yai–Mahachai route, timetable and fares",
+      "url": "https://www.railway.co.th/Service/Passenger_detail?value1=0049613716F4864B9ED01F76DB70384102000000B05FDBFE2685150F4933FA4C340288DF03B0350FAC48B05D4DF0473B058A0CC0&value2=0049613716F4864B9ED01F76DB703841020000001A0CA358207275D32C3891D8993EE1768A2AB694BE6816F1C5F7E01F56786468"
+    },
+    {
+      "title": "SRT 2026 timetable matrix",
+      "url": "https://ttsview.railway.co.th/timetable_modern.php?ln=en"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/SRT_THN_1121_at_Wongwian_Yai_Railway_Station.jpg/960px-SRT_THN_1121_at_Wongwian_Yai_Railway_Station.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SRT_THN_1121_at_Wongwian_Yai_Railway_Station.jpg",
+      "alt": "SRT THN 1121 diesel railcar at Wongwian Yai Railway Station, the Bangkok terminus of the Mahachai line; photographed in 2023.",
+      "credit": "Suikotei",
+      "license": "CC BY-SA 4.0"
+    }
+  ]
+}

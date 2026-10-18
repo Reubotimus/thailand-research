@@ -1,0 +1,64 @@
+{
+  "id": "bkk-bangkokian-museum",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "A cluster of preserved houses and gardens in Bang Rak illustrates the everyday life and belongings of a middle-class Bangkok family around 1937–1957, alongside a local district exhibit. It is a compact, quiet stop rather than a large museum.",
+  "whyGo": [
+    "See an unusually intact domestic setting, including period rooms and household objects, rather than a palace or formal collection.",
+    "Pair a short visit with the nearby Charoen Krung and Bang Rak streets or riverside." 
+  ],
+  "bestFor": [
+    "Visitors interested in social history, old houses, and everyday Bangkok life.",
+    "A slower neighborhood walk and a low-cost cultural stop."
+  ],
+  "skipIf": [
+    "You need a fully accessible route or expect a large, air-conditioned museum; current accessibility details are not published in the sources checked.",
+    "You can only visit on a weekend and cannot confirm opening, because official and recent visitor information disagree on days."
+  ],
+  "duration": "Allow about 1 hour for the museum; add time for a Bang Rak or Charoen Krung walk. The one-hour estimate comes from a visitor guide.",
+  "cost": "A guide updated October 2026 reports free admission. BMA's current operations update does not state an admission fee; reconfirm before visiting.",
+  "hours": "Uncertain for December 2026. BMA's September 2026 operations update reports Monday–Friday, 08:00–16:00. A visitor guide updated October 5, 2026 reports Wednesday–Sunday, 10:00–16:00, closed Monday–Tuesday. Confirm directly before setting out; public holidays may affect service.",
+  "bestTime": "If the current BMA weekday schedule applies, go in the morning on a weekday. The houses and rooms are compact, and cooler morning walking is more comfortable.",
+  "gettingThere": "At 273 Soi Charoen Krung 43, Bang Rak. The Bang Rak District Office page lists buses 1, 16, 35, 75 and 93 (information page last updated 2018); a 2026 visitor guide suggests arriving by Chao Phraya Express Boat and continuing on foot or by taxi. Check live routes and allow for a walk through the lane.",
+  "booking": "No booking requirement or online ticket process was found. Admission is reported free, but call or check with the BMA Bang Rak District Office before visiting to confirm opening days and any group arrangements.",
+  "accessibility": "No current official accessibility statement was found. The site consists of historic houses and a garden; step-free access, stairs, toilets and seating are unconfirmed. Contact the venue before relying on wheelchair access or visiting with limited mobility.",
+  "practicalTips": [
+    "Confirm which opening schedule is operating for your date; the latest BMA report and a recently updated visitor guide give different days and start times.",
+    "The district office page describes the museum's rooms as preserving lived-in domestic objects; take time to look at furnishings and garden details.",
+    "The visitor guide notes that guests may be asked to remove shoes before entering the houses.",
+    "Use the 273 Soi Charoen Krung 43 address when navigating; the museum sits inside the lane, not directly on the main road."
+  ],
+  "decemberNotes": "December is generally more comfortable for walking outdoors than Bangkok's hot season, but the museum's December 2026 calendar and holiday closures have not been published in the sources checked. Because its operating days are disputed, verify the date and hours shortly before going.",
+  "uncertainties": [
+    "Opening days/hours conflict: a BMA report dated September 25, 2026 says Monday–Friday, 08:00–16:00; a visitor guide updated October 5, 2026 says Wednesday–Sunday, 10:00–16:00.",
+    "No December 2026 holiday schedule, booking instructions, direct museum phone number, or authoritative accessibility details were found.",
+    "Free admission is reported by a recent visitor guide but was not specified in the BMA operations report."
+  ],
+  "sources": [
+    {
+      "title": "Bangkok Metropolitan Administration, local museum management project: September 2026 report",
+      "url": "https://policy.bangkok.go.th/tracking/frontend/web/site/projectview?ID=63136"
+    },
+    {
+      "title": "Bang Rak District Office, Bangkokian Museum (Thai)",
+      "url": "https://webportal.bangkok.go.th/bangrak/page/sub/2948"
+    },
+    {
+      "title": "Bangkok Authority, Bangkokian Museum visitor information (updated October 5, 2026)",
+      "url": "https://bangkokauthority.com/en/attractions/musee-bangkokian"
+    },
+    {
+      "title": "Wikimedia Commons, Bangkokian museum.JPG",
+      "url": "https://commons.wikimedia.org/wiki/File:Bangkokian_museum.JPG"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Bangkokian_museum.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bangkokian_museum.JPG",
+      "alt": "Bangkokian Museum at 273 Soi Charoen Krung 43; historic reference photograph from 2009.",
+      "credit": "hkgalbert, via Wikimedia Commons",
+      "license": "CC BY-SA 3.0 (also dual-licensed under GFDL 1.2+); attribution required."
+    }
+  ]
+}

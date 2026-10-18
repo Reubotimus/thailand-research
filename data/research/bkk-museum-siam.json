@@ -1,0 +1,59 @@
+{
+  "id": "bkk-museum-siam",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "Museum Siam uses interactive exhibits to explore how Thai identity and culture have changed, housed in a former Ministry of Commerce building near the Grand Palace.",
+  "whyGo": [
+    "A more playful, contemporary introduction to Thai history, food, dress, architecture and social customs than a conventional object-led museum.",
+    "The heritage building and direct MRT connection make it an easy cultural stop in the old city."
+  ],
+  "bestFor": [
+    "Visitors who enjoy interactive interpretation and want context for Thailand beyond temples.",
+    "Families; admission is free for visitors under 15, and the museum lists wheelchair access."
+  ],
+  "skipIf": [
+    "You need a fully English-language experience: the current official visitor page is Thai and does not confirm language coverage in every gallery.",
+    "You are planning a Monday visit; the museum currently closes every Monday."
+  ],
+  "duration": "Allow about 1.5–2.5 hours as a planning estimate for the permanent galleries and a short break; the venue does not publish a standard visit duration.",
+  "cost": "Current official admission: foreign adults 100 baht; students aged 15+ 50 baht; children under 15, people aged 60+, monks, clergy and visitors with disabilities enter free. Rates may change before December 2026; confirm before going.",
+  "hours": "Official visitor information currently lists Tuesday–Sunday, 10:00–18:00, closed Monday. Holiday or special-event changes for December 2026 are not yet confirmed; check the museum site close to your visit.",
+  "bestTime": "Arrive near opening for a quieter visit, or pair it with nearby old-city sights. Avoid Monday. These are planning suggestions; crowd patterns are not published.",
+  "gettingThere": "Take the MRT Blue Line to Sanam Chai and use Exit 1, immediately by the museum. The official page also lists buses serving the Museum Siam and nearby Pak Khlong Talat stops, and Tha Rachini pier about 300 m away. Verify bus/boat routes on the day.",
+  "booking": "The official site links to online ticket sales; walk-up tickets are also available at the museum. Groups of 20+ should contact the museum in advance at +66 2 225 2777 ext. 102 (weekdays 09:00–17:00). December 2026 booking conditions are unconfirmed.",
+  "accessibility": "The official visitor page lists wheelchair facilities and free admission for people with disabilities, but does not describe step-free routes, lift coverage, accessible toilets or loan-chair arrangements. Contact the museum at +66 2 225 2777 to confirm requirements before visiting.",
+  "practicalTips": [
+    "The main permanent exhibition is titled ‘Decoding Thainess’ and covers Thai identity through historical and cultural themes; rotating displays may change.",
+    "A restaurant on site is currently listed as open daily 09:00–19:00; café hours are Wednesday–Sunday 10:00–18:00. Confirm these separately if they matter to your plan.",
+    "The venue lists parking, but public transport is simpler in this busy historic district."
+  ],
+  "decemberNotes": "December is generally a busy Bangkok travel period, but no special December 2026 museum schedule or event has been announced in the checked sources. Recheck hours and exhibition notices shortly before travel; the published weekly schedule may be adjusted for holidays or events.",
+  "uncertainties": [
+    "Hours, prices, exhibitions and ticket conditions are current official listings checked on 2026-10-17, not a guarantee for December 2026.",
+    "The official site does not provide a detailed English accessibility guide or specify language availability throughout the galleries.",
+    "The museum page's bus routes and on-site food outlet hours may change."
+  ],
+  "sources": [
+    {
+      "title": "Museum Siam official visitor information (hours, admission, tickets, access and facilities)",
+      "url": "https://www.museumsiam.org/museumsiam-visit.php"
+    },
+    {
+      "title": "Tourism Authority of Thailand: Museum Siam, a learning museum",
+      "url": "https://www.tourismthailand.org/Attraction/museum-siam-a-learning-museum"
+    },
+    {
+      "title": "Wikimedia Commons: Museum Siam (I).jpg file and license information",
+      "url": "https://commons.wikimedia.org/wiki/File:Museum_Siam_(I).jpg"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Museum_Siam_%28I%29.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museum_Siam_(I).jpg",
+      "alt": "Exterior of Museum Siam in Bangkok; photographed in 2018.",
+      "credit": "Supanut Arunoprayote",
+      "license": "CC BY 4.0"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "bkk-iconsiam-sooksiam",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "ICONSIAM is a large, air-conditioned riverside shopping complex; SOOKSIAM is its ground-floor market-style food and culture zone, themed around Thailand’s regions. It is an easy, weather-proof way to sample regional dishes, sweets and crafts in one stop, though the polished indoor setting and mall prices differ from a neighbourhood market.",
+  "whyGo": [
+    "Try a range of regional Thai snacks and dishes in one comfortable setting.",
+    "Browse market-inspired interiors, crafts and food stalls alongside the riverfront mall.",
+    "Pair the visit with the riverside park or the currently advertised nightly fountain show."
+  ],
+  "bestFor": [
+    "A first taste of regional Thai food for mixed-interest groups",
+    "Rainy-day or heat-avoiding sightseeing",
+    "Families and visitors who want dining, shopping and river views together"
+  ],
+  "skipIf": [
+    "You want a traditional open-air floating market or a low-cost local market experience.",
+    "Crowds, large malls or commercialised cultural displays are not appealing."
+  ],
+  "duration": "Allow about 1–2 hours for SOOKSIAM and a meal, or 2–3 hours if you add a mall or riverside walk. These are planning estimates; queues and how much you explore will change the visit.",
+  "cost": "No separate SOOKSIAM admission charge was listed in the official information checked. Budget for food and purchases; prices vary by stall and no current menu prices were verified. The mall's Sathorn and Si Phraya shuttle boats are marked ‘Fare Applies’; check the fare before boarding.",
+  "hours": "The mall and SOOKSIAM list daily hours of 10:00–22:00. Individual vendors may vary; confirm around public holidays.",
+  "bestTime": "Weekday late morning or early afternoon should be calmer than weekends and evenings; this is a crowd-avoidance planning suggestion, not a published forecast. Visit the riverside after dark if you also want city lights or the fountain show.",
+  "gettingThere": "ICONSIAM is at 299 Charoen Nakhon Soi 5, Khlong San. Take the BTS Gold Line to Charoennakorn station; alternatively take BTS to Saphan Taksin and continue by boat from Sathorn Pier. The mall also lists paid shuttle boats from Sathorn and Si Phraya piers. Check current services and fares before travel.",
+  "booking": "No advance booking is indicated for general mall or SOOKSIAM entry. Dining is purchased at the stalls; reservations may apply to individual restaurants elsewhere in the complex.",
+  "accessibility": "SOOKSIAM is inside a major mall, but specific step-free routes, accessible toilets, seating and assistance arrangements were not confirmed in the sources checked. Contact ICONSIAM at 1338 for current access information, especially if arriving by boat.",
+  "practicalTips": [
+    "SOOKSIAM is on G Floor; use the directory or ask staff because the complex is large.",
+    "Stalls and dishes change, so treat the official description of regional food as a broad guide rather than a guarantee of any particular vendor.",
+    "The mall labels its pier shuttle as paid, despite older online references calling it free; verify the current fare.",
+    "The official site currently lists the multimedia fountain show at 19:00, 20:00 and 21:00. Check for same-day changes before planning around it."
+  ],
+  "decemberNotes": "The official fountain-show listing currently runs through 31 December 2026 and states daily showings at 19:00, 20:00 and 21:00. Holiday programming or operating hours can change; recheck the official event page close to your visit. Expect a busy riverside destination during the year-end period.",
+  "uncertainties": [
+    "No current stall-level prices, menus or vendor-by-vendor opening times were verified.",
+    "The official event listing extends to 31 December 2026, but does not establish whether the show schedule will change on New Year's Eve.",
+    "Accessibility details for the SOOKSIAM area and boat boarding need direct confirmation."
+  ],
+  "sources": [
+    {
+      "title": "ICONSIAM — SOOKSIAM directory and daily hours",
+      "url": "https://www.iconsiam.com/en/dining/sooksiam"
+    },
+    {
+      "title": "ICONSIAM — Getting Here, hours and transport modes",
+      "url": "https://www.iconsiam.com/en/getting-here"
+    },
+    {
+      "title": "ICONSIAM — The ICONIC Multimedia Water Features Show",
+      "url": "https://www.iconsiam.com/en/events-activities/the-iconic-multimedia-water-features"
+    },
+    {
+      "title": "ICONSIAM — SOOKSIAM dining-zone description",
+      "url": "https://campaign.iconsiam.com/wondrous-dining-zones/en/sooksiam.html"
+    },
+    {
+      "title": "Wikimedia Commons — SookSiam@ICONSIAM Thailand.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:SookSiam@ICONSIAM_Thailand.jpg"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/SookSiam%40ICONSIAM_Thailand.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SookSiam@ICONSIAM_Thailand.jpg",
+      "alt": "SOOKSIAM market-style interior at ICONSIAM, photographed in November 2018",
+      "credit": "BunBn / Wikimedia Commons",
+      "license": "CC BY-SA 4.0"
+    }
+  ]
+}

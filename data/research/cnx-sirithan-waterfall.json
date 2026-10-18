@@ -1,0 +1,60 @@
+{
+  "id": "cnx-sirithan-waterfall",
+  "researchedAt": "2026-10-18",
+  "status": "partial",
+  "summary": "A short, quiet waterfall stop on Doi Inthanon’s main road, reached by a brief forest path to a lookout. It fits best as one of several stops on a park day; visitors see the falls from above and cannot descend to the pool.",
+  "whyGo": [
+    "A quick viewpoint stop for a substantial forest waterfall without committing to a long hike.",
+    "Pairs easily with the summit, other waterfalls and trails elsewhere in Doi Inthanon National Park."
+  ],
+  "bestFor": [
+    "A scenic nature stop for travelers already touring Doi Inthanon by vehicle.",
+    "Visitors who prefer a short walk and lookout to a strenuous waterfall hike."
+  ],
+  "skipIf": [
+    "You want to swim or reach the waterfall’s base; access is to a viewpoint only.",
+    "You need a step-free or reliably accessible path; surface, gradient and facilities are not documented."
+  ],
+  "duration": "Allow about 20–40 minutes for parking, the roughly 200 m path each way and viewing; this is a planning estimate.",
+  "cost": "No separate Sirithan fee is listed; budget for Doi Inthanon National Park admission. The DNP’s published tariff lists 300 baht per foreign adult and 150 baht per foreign child for this park group; vehicle charges may also apply. Reconfirm rates before travel.",
+  "hours": "Inside Doi Inthanon National Park. The park’s main gate is commonly listed as open about 05:30–18:30 daily, but hours can vary; the DNP does not publish a Sirithan-specific schedule in the sources found. Arrive with enough daylight for the path and return drive.",
+  "bestTime": "December is in the cooler, generally drier season: expect a pleasant daytime stop and potentially less forceful flow than during the May–November rains. Water is reported to run year-round, but exact December flow is weather-dependent. Weekday mornings may be quieter.",
+  "gettingThere": "From Chiang Mai, travel southwest via Highway 108 and Rural Road 1009 to Doi Inthanon’s main entrance, then continue uphill to the Sirithan parking area around km 22. The park is roughly 70 km from Chiang Mai; allow around 1.5–2 hours each way by car as a planning estimate, plus time for park stops. A car, motorbike or private day tour is practical because attractions are spread along the mountain road. Public songthaew connections are possible but cumbersome, and onward transport within the park is limited.",
+  "booking": "No advance booking is indicated for the waterfall lookout. Pay park admission at the entrance; check the DNP park page or contact Doi Inthanon National Park shortly before visiting for closures and current fees.",
+  "accessibility": "The lookout requires a roughly 200 m trail from roadside parking. The available sources do not establish step-free access, path surface, slope, handrails or accessible toilets; treat it as unsuitable for visitors who cannot manage uneven outdoor paths without confirmation from park staff.",
+  "practicalTips": [
+    "Wear shoes with grip: waterfall paths and viewing areas can be wet or slippery.",
+    "Stay on the marked path and behind barriers; do not attempt to descend toward the falls or enter the water.",
+    "Carry water and cash for park charges; mobile coverage and services can be patchy on the mountain.",
+    "Allow extra time on weekends and holiday periods when park-road traffic can slow the circuit."
+  ],
+  "decemberNotes": "December is outside the main rainy season, so the surrounding forest may be less saturated and the cascade may be less powerful than in wet months; year-round flow is reported, but no forecast or December 2026 operating notice is available yet. Mornings and higher elevations can feel cool. Recheck park access and conditions close to the trip.",
+  "uncertainties": [
+    "The DNP publishes park-wide admission tariffs, but current vehicle charges and any future 2026 price changes should be checked at the gate or on the booking portal.",
+    "A secondary park guide reports approximate gate hours and the 200 m lookout path; a live official daily schedule or Sirithan closure status was not located.",
+    "December waterfall volume, trail condition and accessibility details are not guaranteed and may change with weather or maintenance."
+  ],
+  "sources": [
+    {
+      "title": "DNP National Parks Booking Portal: Doi Inthanon National Park",
+      "url": "https://booking.dnp.go.th/parksdetail.php?id=121"
+    },
+    {
+      "title": "Department of National Parks: published admission rates (2025 notice and linked tariff)",
+      "url": "https://booking.dnp.go.th/newsdetail.php?id=61&name=%E0%B8%AD%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%9A%E0%B8%B8%E0%B8%84%E0%B8%84%E0%B8%A5%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%9E%E0%B8%B2%E0%B8%AB%E0%B8%B0%E0%B9%83%E0%B8%99%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B8%B2%E0%B8%95%E0%B8%B4"
+    },
+    {
+      "title": "Thai National Parks: Doi Inthanon National Park and Sirithan Waterfall access guide",
+      "url": "https://static.thainationalparks.com/doi-inthanon-national-park"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Sirithan_Waterfall.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sirithan_Waterfall.jpg",
+      "alt": "Sirithan Waterfall in Doi Inthanon National Park, photographed in November 2010.",
+      "credit": "Chaiyathat / Wikimedia Commons",
+      "license": "CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  ]
+}

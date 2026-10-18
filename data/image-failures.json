@@ -1,0 +1,242 @@
+[
+  {
+    "id": "bkk-activity-109",
+    "url": "https://webportal.bangkok.go.th/upload/user/00000327/picture/Vachirabenjatas/Butterfly%20Park/442466.jpg",
+    "error": "curl: (56) The requested URL returned error: 403\n"
+  },
+  {
+    "id": "bkk-activity-158",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gold_Line_at_Charoen_Nakhon_Station_20230923.jpg/2880px-Gold_Line_at_Charoen_Nakhon_Station_20230923.jpg",
+    "error": "curl: (56) The requested URL returned error: 400\n"
+  },
+  {
+    "id": "bkk-activity-146",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Traditional_Thai_Dress_at_Wat_Arun.jpg",
+    "error": "curl: (56) The requested URL returned error: 404\n"
+  },
+  {
+    "id": "bkk-activity-156",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Long_motorboat_on_the_Chao_Phraya_River_in_Bangkok.jpg",
+    "error": "curl: (56) The requested URL returned error: 404\n"
+  },
+  {
+    "id": "bkk-bangkok-national-theatre",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4_April2021_Thailand_National_Theatre_Bangkok_02.jpg/1024px-%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4_April2021_Thailand_National_Theatre_Bangkok_02.jpg",
+    "error": "curl: (56) The requested URL returned error: 400\n"
+  },
+  {
+    "id": "bkk-banglamphu-beyond-khao-san",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Phra_Sumen_Fort_Bangkok_-_Day.jpg/1200px-Phra_Sumen_Fort_Bangkok_-_Day.jpg",
+    "error": "curl: (56) The requested URL returned error: 400\n"
+  },
+  {
+    "id": "bkk-charoen-chai",
+    "url": "https://www.nairobroo.com/wp-content/uploads/2018/03/charoen-chai-1.jpg",
+    "error": "curl: (56) The requested URL returned error: 403\n"
+  },
+  {
+    "id": "bkk-damnoen-saduak-floating-market",
+    "url": "https://www.baansiriporn.com/wp-content/uploads/2018/09/damnoen_saduak_floating_market_1-1024x768.jpg",
+    "error": "curl: (56) The requested URL returned error: 404\n"
+  },
+  {
+    "id": "bkk-kai-jeow-pu",
+    "url": "https://api.xtremefoodies.com/uploads/images/item/20341755437615229180916.jpg",
+    "error": "curl: (6) Could not resolve host: api.xtremefoodies.com\n"
+  },
+  {
+    "id": "bkk-chao-phraya-sky-park",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Chao_Phraya_Sky_Park_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B2%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%84_%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B2_(October_2021)_-_img_05.jpg",
+    "error": "curl: (56) The requested URL returned error: 404\n"
+  },
+  {
+    "id": "bkk-kuay-jub",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Kuaichap%2C_Bangkok_%28rolled_noodle_soup_with_intestines%29%2C_2018-05-31.jpg",
+    "error": "curl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "bkk-lumphini-park",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Monitor_lizard_at_Lumphini_Park%2C_Bangkok.jpg",
+    "error": "curl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "bkk-maeklong-railway-market",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Talad_Rom_Hoop_%28II%29.jpg",
+    "error": "curl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "bkk-mango-sticky-rice",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Mango_sticky_rice_with_mango_pudding_and_mango_ice_cream.jpg",
+    "error": "curl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "bkk-nong-bon-lake-park",
+    "url": "https://greener.bangkok.go.th/wp-content/uploads/2024/05/20220902_073259-900x506.jpg",
+    "error": "curl: (56) The requested URL returned error: 403\n"
+  },
+  {
+    "id": "bkk-octave-rooftop-lounge",
+    "url": "https://cache.marriott.com/content/dam/marriott-renditions/BKKMS/bkkms-octave-0043-hor-clsc.jpg?downsize=1336px%3A%2A&interpolation=progressive-bilinear&output-quality=70",
+    "error": "curl: (56) The requested URL returned error: 403\n"
+  },
+  {
+    "id": "bkk-nakhon-pathom-phra-pathom-chedi",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Phra_Pathom_Chedi2.jpg/960px-Phra_Pathom_Chedi2.jpg",
+    "error": "curl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "bkk-studio-lam",
+    "url": "https://static.ra.co/images/news/2026/mixcollage-06-jan-2026-04-07-pm-9952.jpg",
+    "error": "curl: (56) The requested URL returned error: 403\n"
+  },
+  {
+    "id": "bkk-vertigo-moon-bar",
+    "url": "https://www.banyantree.com/assets/2022-09/BTTHBK_Dining_Vertigo_and_Moon_Bar_Dining_Area_Sunset_2.jpg",
+    "error": "curl: (56) The requested URL returned error: 403\n"
+  },
+  {
+    "id": "bkk-soi-nana-chinatown",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Chinatown%2C_Bangkok_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "error": "curl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "cnx-botanic-garden-glasshouses",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Queen_Sirikit_Botanic_Garden_%28I%29.jpg/2560px-Queen_Sirikit_Botanic_Garden_%28I%29.jpg",
+    "error": "curl: (56) The requested URL returned error: 400\n"
+  },
+  {
+    "id": "cnx-aeb",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/bb/Aep_pla_noi.jpg",
+    "error": "curl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "cnx-back-lanes-of-chang-moi",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Chiang_Mai_-_Chang_Moi_Kao_Road_-_0001.jpg",
+    "error": "curl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "cnx-cap-moo",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Khaep_mu.jpg",
+    "error": "curl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "cnx-chiang-mai-city-arts-cultural-centre",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Chiang_Mai_City_Art_and_Cultural_Center.jpg",
+    "error": "curl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "cnx-doi-hua-mu-nature-trail",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Doi_Pui_forest%2C_Chiang_Mai%2C_Thailand.jpg/960px-Doi_Pui_forest%2C_Chiang_Mai%2C_Thailand.jpg",
+    "error": "curl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "cnx-doi-ang-khang-winter-gardens",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/AngKhang4.jpg",
+    "error": "curl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "cnx-doi-ang-khang",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Doi_Angkhang_Mountain.jpg",
+    "error": "curl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "cnx-elephant-riding",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tai_elevant.jpg/1024px-Tai_elevant.jpg",
+    "error": "curl: (56) The requested URL returned error: 400\n"
+  },
+  {
+    "id": "cnx-huay-tung-tao-style-local-reservoir-day",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Huai_Tueng_Thao_Chiang_Mai_lake.JPG/1024px-Huai_Tueng_Thao_Chiang_Mai_lake.JPG",
+    "error": "curl: (56) The requested URL returned error: 400\n"
+  },
+  {
+    "id": "cnx-kad-luang-sausage-and-chilli-dip-stalls",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%A7%E0%B9%82%E0%B8%A3%E0%B8%AA_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_%285%29.jpg/1280px-%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%A7%E0%B9%82%E0%B8%A3%E0%B8%AA_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_%285%29.jpg",
+    "error": "curl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "cnx-mae-kha-after-dark",
+    "url": "https://www.ananda.co.th/blog/thegenc/wp-content/uploads/2024/07/shutterstock_2332535983-825x550.jpg",
+    "error": "Error: Cannot extract image from file.\nError 13: an unknown error occurred\nTry 'sips --help' for help using this tool\n"
+  },
+  {
+    "id": "cnx-mae-kampong-waterfall",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Mae_Kum_Pong_02.jpg",
+    "error": "curl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "cnx-mae-on-highland-loop",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%81%E0%B8%B3%E0%B8%9B%E0%B8%AD%E0%B8%87_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.jpg",
+    "error": "curl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "cnx-marathon-spectating",
+    "url": "https://www.chiangmaimarathon.com/customer_images/chiangmaimarathon_com_0065_1_11_img1_5822.jpg",
+    "error": "curl: (56) The requested URL returned error: 404\n"
+  },
+  {
+    "id": "cnx-nimman-soi-hopping",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Thanon_Nimmanhemin_Shops_%E0%B8%96%E0%B8%99%E0%B8%99%E0%B8%99%E0%B8%B4%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B9%8C_%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2.jpg/960px-Thanon_Nimmanhemin_Shops_%E0%B8%96%E0%B8%99%E0%B8%99%E0%B8%99%E0%B8%B4%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B9%8C_%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2.jpg",
+    "error": "curl: (56) The requested URL returned error: 404\n"
+  },
+  {
+    "id": "cnx-ob-khan-national-park",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Ob_Khan_National_Park.jpg",
+    "error": "curl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "cnx-ping-river-evening",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Ping_River_in_Chiang_Mai_3.jpg",
+    "error": "curl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "cnx-sai-ua",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Sai_ua.JPG/1200px-Sai_ua.JPG",
+    "error": "curl: (56) The requested URL returned error: 400\n"
+  },
+  {
+    "id": "cnx-san-kamphaeng-hot-springs",
+    "url": "https://thailand.go.th/uploads/posts/photo_1673866799_0.jpeg",
+    "error": "Error: Cannot extract image from file.\nError 13: an unknown error occurred\nTry 'sips --help' for help using this tool\n"
+  },
+  {
+    "id": "cnx-santitham-food-evening",
+    "url": "https://chiang-mai-hatago.com/wp-content/uploads/2024/09/240919_Santitham02.jpg",
+    "error": "curl: (56) The requested URL returned error: 403\n"
+  },
+  {
+    "id": "cnx-sundae-ice-cream-ton-lam-yai-ruam-mit-stop",
+    "url": "https://p16-lemon8-sg.tiktokcdn-us.com/tos-alisg-v-a3e477-sg/os90HtOuAEA2A2TQgEimARUBAfQIPwyiBeCAGI~tplv-sdweummd6v-text-logo-v1%3AQG1pbmRzYXJpbnlhNg%3D%3D%3Aq75.jpeg?lk3s=c7f08e79&source=lemon8_seo&x-expires=1777917600&x-signature=l1MAU8SwNWdwbQe0wDEMdYr3MiU%3D",
+    "error": "curl: (6) Could not resolve host: p16-lemon8-sg.tiktokcdn-us.com\n"
+  },
+  {
+    "id": "cnx-royal-park-rajapruek",
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Parc_royal_de_Ratchaphruek_8.jpg",
+    "error": "curl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "cnx-sirithan-waterfall",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Sirithan_Waterfall.jpg",
+    "error": "curl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "cnx-sticky-rice",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Moo_Yaang%2C_Gai_Yaang%2C_grilled_chicken%2C_pork_and_liver_skewers%2C_THB10_per_stick%2C_THB5_for_sticky_rice_-_Chiang_Mai%2C_Night_Bazaar.jpg",
+    "error": "curl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "cnx-three-kings-monument-precinct",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/3_kings_monument.JPG",
+    "error": "curl: (56) The requested URL returned error: 429\n"
+  },
+  {
+    "id": "cnx-wat-chan-pine-forest-area",
+    "url": "https://chiangmaipao.go.th/cmpao/img-data/1674455104.jpeg",
+    "error": "curl: (56) The requested URL returned error: 404\n"
+  },
+  {
+    "id": "cnx-wat-phan-tao",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Wat_Phan_Tao%2C_Chiang_Mai_%2848108316433%29.jpg/1024px-Wat_Phan_Tao%2C_Chiang_Mai_%2848108316433%29.jpg",
+    "error": "curl: (56) The requested URL returned error: 400\n"
+  }
+]

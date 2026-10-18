@@ -1,0 +1,71 @@
+{
+  "id": "bkk-activity-155",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "The Chao Phraya Tourist Boat is the blue-flag hop-on/hop-off service on Bangkok’s main river. It links major sightseeing piers and BTS-connected Sathorn, with a reported 30-minute frequency and evening service extended to Asiatique. It is a straightforward sightseeing ride, but it is a separate service from the cheaper commuter express boats.",
+  "whyGo": [
+    "Connects riverside sights including Wat Arun, Tha Tien, Tha Chang, Tha Maharaj and Phra Arthit, as well as ICONSIAM and Sathorn.",
+    "A day pass lets you combine several stops without buying a separate ticket for every leg.",
+    "English and Thai pier announcements and a guidebook for pass holders help first-time visitors navigate the route."
+  ],
+  "bestFor": [
+    "First-time visitors wanting an easy scenic link between central riverside attractions.",
+    "People planning several boat journeys in one day, particularly with a BTS connection at Saphan Taksin/Sathorn."
+  ],
+  "skipIf": [
+    "You need the cheapest point-to-point river transport; compare the local Chao Phraya Express Boat instead.",
+    "You need step-free boarding or a guaranteed late-night service; neither is confirmed for every pier or December date."
+  ],
+  "duration": "Allow about 20–40 minutes for a single central river leg, or half a day to ride and visit several stops; these are planning estimates and depend on waits and sightseeing time.",
+  "cost": "Current listings report 40 THB for a single ride and 150 THB for an all-day pass. Treat these as planning figures and recheck with the operator for December 2026; promotions and fares can change.",
+  "hours": "The operator’s site confirms departures about every 30 minutes and evening extension to Asiatique, but an exact current timetable was not available in the accessible schedule information. Confirm the day’s first and last boats before setting out.",
+  "bestTime": "Start in the morning for temple and market visits, when you have time to use multiple stops. Late afternoon can give softer light on the river, but check the last departures if continuing to Asiatique.",
+  "gettingThere": "Sathorn/Central Pier is connected to BTS Saphan Taksin (S6). Other useful stops include ICONSIAM, Ratchawongse for Chinatown, Rajinee/Pak Khlong Talat, Wat Arun, Tha Tien, Tha Chang, Tha Maharaj, Prannok and Phra Arthit. Check the operator’s current route map, as individual pier names and service patterns may change.",
+  "booking": "The operator describes online advance booking and electronic ticket sales; tickets are also sold at piers. The all-day pass is reported by current ticket listings as 150 THB. Verify ticket conditions, validity and any December promotions with the operator before paying.",
+  "accessibility": "Step-free access and boarding assistance are not documented in the sources reviewed. Piers may involve steps, ramps, uneven surfaces or gaps while boarding; contact the operator about the specific pier and boat if mobility access matters. The operator describes flotation devices at seats and onboard toilets.",
+  "practicalTips": [
+    "Look for the blue-flag Chao Phraya Tourist Boat ticket point and confirm the destination before boarding; it is distinct from the regular express boats.",
+    "Keep the day-pass ticket available for reboarding and check its validity rules when purchasing.",
+    "Allow extra time for queues and busy piers, especially around major temples and weekend periods.",
+    "For Wat Arun, check whether your itinerary needs the separate cross-river ferry from Tha Tien; the tourist boat route itself does not establish that crossing.",
+    "Use the operator’s current route and service notices on the day, since river traffic, weather or pier works can disrupt service."
+  ],
+  "decemberNotes": "December is a busy, generally drier period in Bangkok, so popular piers can be crowded. No December 2026 special schedule or event notice was found. The operator’s current materials do not establish exact holiday operating hours; recheck nearer the date, particularly around 31 December.",
+  "uncertainties": [
+    "Exact timetable and first/last departure times for December 2026 were not confirmed.",
+    "The 40 THB single fare and 150 THB pass are current reported prices, not a confirmed December 2026 fare quote from an accessible operator fare table.",
+    "Step-free access and boarding conditions vary by pier and vessel and remain unverified.",
+    "Asiatique evening extension times and any public-holiday changes require confirmation with the operator."
+  ],
+  "sources": [
+    {
+      "title": "Chao Phraya Tourist Boat — About Us and service information",
+      "url": "https://chaophrayatouristboat.com/tourist_boat.html"
+    },
+    {
+      "title": "Chao Phraya River Tourism Association — Chao Phraya Tourist Boat Co., Ltd.",
+      "url": "https://www.crta.or.th/en/2023/08/15/chao-phraya-tourist-boat/"
+    },
+    {
+      "title": "Chillpainai — Chao Phraya Tourist Boat all-day pass listing (validity shown 1 June 2026–31 May 2027)",
+      "url": "https://chillpainai.com/public/en/products/ChaoPhrayaTouristBoat-mkp"
+    },
+    {
+      "title": "Chao Phraya Express Boat — current service schedule and route information",
+      "url": "https://www.chaophrayaexpressboat.com/chaophrayaexpressboat?lang=enLa"
+    },
+    {
+      "title": "Wikimedia Commons — Long motorboat on the Chao Phraya River in Bangkok",
+      "url": "https://commons.wikimedia.org/wiki/File:Long_motorboat_on_the_Chao_Phraya_River_in_Bangkok.jpg"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Long_motorboat_on_the_Chao_Phraya_River_in_Bangkok.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Long_motorboat_on_the_Chao_Phraya_River_in_Bangkok.jpg",
+      "alt": "A motorboat passes along the Chao Phraya River in downtown Bangkok; representative river transport, not identified as the tourist boat.",
+      "credit": "Grendelkhan / Wikimedia Commons",
+      "license": "CC BY-SA 3.0"
+    }
+  ]
+}

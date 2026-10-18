@@ -1,0 +1,67 @@
+{
+  "id": "cnx-doi-pui-nature-walking",
+  "researchedAt": "2026-10-18",
+  "status": "partial",
+  "summary": "The Doi Pui Summit Nature Trail is a recently upgraded set of forest walks in Doi Suthep–Pui National Park, with interpretive signs, viewpoints and route choices from a short birdwatching walk to a strenuous half-day hike. It is a practical December escape from the city, provided you arrange transport to the mountain trailhead and confirm park access shortly before going.",
+  "whyGo": [
+    "Explore hill evergreen watershed forest with 24 interpretive signs and three viewpoints.",
+    "Choose a 4.5 km, 2.5-hour option or a 7.5 km, approximately 5-hour route extending toward Ban Khun Chang Khian.",
+    "The summit route offers broad views toward Chiang Mai when visibility is clear."
+  ],
+  "bestFor": [
+    "Walkers wanting a forest hike close to Chiang Mai with marked route choices.",
+    "Birdwatchers and nature learners; the Morakot route is specifically described as suitable for birdwatching.",
+    "Fit hikers who want a longer, steeper walk and village scenery."
+  ],
+  "skipIf": [
+    "You need step-free access or a smooth, accessible path; these are natural mountain trails with steep sections.",
+    "You cannot arrange a car/driver or other reliable transport to the trailhead.",
+    "You need guaranteed summit views or a fully confirmed December 2026 access schedule."
+  ],
+  "duration": "Allow 2.5 hours for Morakot (4.5 km round trip), about 3.5 hours for Doi Pui Summit (4.9 km), or about 5 hours for Long Walk (7.5 km). Add roughly 1.5 hours each way from Chiang Mai by car according to the trail operator’s project announcement; these are walking estimates, not including breaks or traffic.",
+  "cost": "Park trail fee reported from 1 October 2025: THB 100 adult / THB 50 child for foreign visitors, THB 20 adult / THB 10 child for Thai visitors; cash only at the time reported. Add private transport costs, which vary and are not published by the park. Recheck current charges before travel.",
+  "hours": "EGCO’s handover announcement says open daily 08:00–16:00. Start early enough to finish before closing; confirm no temporary closure with Doi Suthep–Pui National Park.",
+  "bestTime": "December mornings are a good seasonal fit: Thailand’s Meteorological Department describes upper northern Thailand as generally cool to cold in December. Go early for cooler walking and better odds of clear views; mountain conditions can be colder than town.",
+  "gettingThere": "The official project announcement estimates about 1.5 hours by car from Chiang Mai city to the nature trail. Arrange a private car/driver or self-drive and agree on a pickup time, since a return taxi/songthaew from the trailhead should not be assumed. Call Doi Suthep–Pui National Park at 053-210-246, 053-210-244 or 086-420-5242 to check trailhead directions and access.",
+  "booking": "No advance booking requirement is stated in the trail information. Confirm the route is open and the current fee directly with the national park before setting out; pay the reported trail charge in cash.",
+  "accessibility": "Not suitable for wheelchair users or visitors needing step-free access. The Long Walk includes steep sections; the shorter Morakot route is the least demanding published option, but it remains a forest trail. The sources do not give a grade, surface condition or accessible facilities details.",
+  "practicalTips": [
+    "Carry water, sun protection, a charged phone, offline map and shoes with grip; trail conditions may differ after rain.",
+    "Bring small Thai baht notes for the reported cash-only park fee.",
+    "Pack a light warm layer for the highland morning and allow time to return to your driver before the 16:00 closing time.",
+    "Ask the park about current fire-season restrictions and any route-specific closure before departure."
+  ],
+  "decemberNotes": "December usually brings cool, relatively dry weather to northern Thailand, but it is not a forecast for December 2026. Doi Pui is highland terrain, so mornings can feel much colder than Chiang Mai city. The longer route reaches Ban Khun Chang Khian, known for wild Himalayan cherry blossoms, but the sources do not establish 2026 bloom dates; do not plan around blossoms without checking locally.",
+  "uncertainties": [
+    "The current official trail description confirms daily hours and route lengths, but the park’s own page does not publish the trail fee; the stated cash fee comes from Thai PBS reporting on the park’s October 2025 fee change and may change before December 2026.",
+    "Public transport directly to the trailheads, current trail grading, washrooms along the route and temporary closures are not confirmed in the sources.",
+    "December 2026 weather and the 2026 cherry blossom timing cannot yet be confirmed."
+  ],
+  "sources": [
+    {
+      "title": "EGCO Group / Thai Conservation of Forest Foundation: Doi Pui Summit Nature Trail handover, routes and hours",
+      "url": "https://www.egco.com/en/newsroom/press-releases/541/egco-group-by-thai-conservation-of-forest-foundation-completes-and-hands-over-doi-pui-summit-nature-trail"
+    },
+    {
+      "title": "Thai PBS: Doi Suthep–Pui trail fees effective 1 October 2025",
+      "url": "https://www.thaipbs.or.th/news/content/356908"
+    },
+    {
+      "title": "Thai Meteorological Department: Chiang Mai 30-year climate normals",
+      "url": "https://tmd.go.th/en/weather/province/last30years-1981-2010/chiang-mai/1/327501"
+    },
+    {
+      "title": "Department of National Parks: Doi Suthep–Pui National Park visitor and facilities page",
+      "url": "https://booking.dnp.go.th/parksdetail.php?id=120"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.egco.com/storage/newsroom/press-releases/2025/12/20251216-125127-2.webp",
+      "sourceUrl": "https://www.egco.com/en/newsroom/press-releases/541/egco-group-by-thai-conservation-of-forest-foundation-completes-and-hands-over-doi-pui-summit-nature-trail",
+      "alt": "Reference image from EGCO’s announcement about the Doi Pui Summit Nature Trail renovation.",
+      "credit": "EGCO Group",
+      "license": "Permission not established; linked reference"
+    }
+  ]
+}

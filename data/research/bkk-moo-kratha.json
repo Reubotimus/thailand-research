@@ -1,0 +1,64 @@
+{
+  "id": "bkk-moo-kratha",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "Moo kratha is a sociable Thai tabletop grill-and-hotpot meal: pork and other ingredients sear on a raised dome while vegetables and fish balls simmer in broth around it. Huai Khwang/Ratchada is a useful dinner area, with local shops and the well-known Khun Ple as one option; this is a food style rather than a single fixed venue.",
+  "whyGo": [
+    "The pan makes dinner an interactive group meal, with smoky grilled meat and a broth that gains flavour as juices run down from the dome.",
+    "Huai Khwang has an established local moo kratha scene; recent diner reviews of Khun Ple describe set meals with meat, seafood, vegetables and several dipping sauces."
+  ],
+  "bestFor": [
+    "Groups who enjoy cooking together and sharing a generous meal.",
+    "Travellers looking for a casual, evening food experience in a lived-in Bangkok neighbourhood."
+  ],
+  "skipIf": [
+    "You need a quiet, quick meal, dislike smoke or heat, or are uncomfortable cooking raw meat at the table.",
+    "You need assured step-free access or specific allergy controls; check a named venue directly first."
+  ],
+  "duration": "Allow about 1.5–2 hours as a planning estimate for ordering, cooking and eating; a queue can add time at popular shops.",
+  "cost": "Plan roughly ฿200–500 per person, depending on whether you share a set or choose a buffet, plus drinks and extras. This is a planning range, not a December 2026 quote: a 2025 Khun Ple review reported a ฿380 small set, while menu and serving sizes vary.",
+  "hours": "This is a category rather than one venue. Many neighbourhood moo kratha shops focus on dinner and late evening, but hours differ; verify the chosen restaurant’s current listing and holiday hours before travelling.",
+  "bestTime": "Go early in the dinner period to improve your chance of a table, especially at a popular shop. December’s long-term Bangkok climate normal is relatively dry (6.3 mm average rainfall) but still warm, with a 31.7°C mean daily maximum; choose a ventilated or air-conditioned venue if heat and smoke bother you.",
+  "gettingThere": "Use Bangkok’s MRT Blue Line to Huai Khwang or a nearby Ratchada stop, then check the exact venue pin and last-mile walk/ride. The neighbourhood is spread out, so do not assume a restaurant is immediately beside a station. The MRT operator lists Blue Line service as 06:00 to midnight; check the live route map and your return trip.",
+  "booking": "Booking depends on the shop. Some popular Huai Khwang options work by walk-in queue; recent diner accounts describe waits at Khun Ple. Arrive early, ask staff how the queue works, and check the restaurant’s own channel for December 2026 hours or reservation rules.",
+  "accessibility": "Venue-dependent and not reliably published for this broad activity. Moo kratha involves an exposed hot grill and boiling broth at the table; confirm step-free access, table height, seating, smoke ventilation and safe space for mobility aids with the chosen venue.",
+  "practicalTips": [
+    "Order a small set first if unsure of portion size; popular Huai Khwang shops commonly offer several set sizes and extra plates.",
+    "Keep raw-meat tongs separate from eating chopsticks, and cook pork through before eating.",
+    "Ask whether the listed set includes the stove/grill, vegetables and refillable broth, and whether drinks or seafood incur extra charges.",
+    "Bring cash as a backup and avoid arriving very hungry at peak dinner time if you choose a famous shop with a queue."
+  ],
+  "decemberNotes": "December 2026 is in the dry-season window suggested by Bangkok’s climate normals, making an open-air grill dinner a reasonable choice, though evenings remain warm and smoky. No specific December 2026 moo kratha event or holiday schedule was found. Christmas/New Year opening hours and queues are venue-specific; reconfirm close to the date.",
+  "uncertainties": [
+    "No particular restaurant is fixed by this activity record; openings, menus, prices, booking methods and accessibility must be checked for the venue selected nearer the trip.",
+    "The example Khun Ple prices and queue reports come from user reviews in 2025 and are not an operator price guarantee for December 2026.",
+    "Bangkok climate figures are 1981–2010 normals, not a forecast for the travel dates."
+  ],
+  "sources": [
+    {
+      "title": "Time Out Bangkok: What moo kratha is and how the grill works",
+      "url": "https://www.timeout.com/bangkok/restaurants/rooftop-grill-moo-kratha"
+    },
+    {
+      "title": "Wongnai: Huai Khwang Khun Ple diner reviews and reported set prices (2025)",
+      "url": "https://www.wongnai.com/reviews/e9da8729a9eb4eb4806efef1f755acd7"
+    },
+    {
+      "title": "BEM: MRT route map and Blue Line service hours",
+      "url": "https://metro.bemplc.co.th/MRT-System-Map?lang=en"
+    },
+    {
+      "title": "Thai Meteorological Department: Bangkok 30-year climate normals",
+      "url": "https://tmd.go.th/weather/province/last30years-1981-2010/bangkok/37/455201"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/DZ3_0586_Thin_slices_of_meat_sizzling_on_a_Thai-style_tabletop_grill_steaming_and_releasing_savory_juices_into_the_surrounding_broth.jpg/960px-DZ3_0586_Thin_slices_of_meat_sizzling_on_a_Thai-style_tabletop_grill_steaming_and_releasing_savory_juices_into_the_surrounding_broth.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:DZ3_0586_Thin_slices_of_meat_sizzling_on_a_Thai-style_tabletop_grill_steaming_and_releasing_savory_juices_into_the_surrounding_broth.jpg",
+      "alt": "Representative moo kratha-style tabletop grill with meat searing over surrounding broth; not a specific Huai Khwang restaurant.",
+      "credit": "PattayaPatrol / Wikimedia Commons",
+      "license": "CC BY-SA 4.0"
+    }
+  ]
+}

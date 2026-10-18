@@ -1,0 +1,71 @@
+{
+  "id": "bkk-ayutthaya-historic-city",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "A full-day excursion from Bangkok to the former Siamese capital, where a broad archaeological landscape of brick temples, prang and monasteries rewards a focused route. The Historic City is a UNESCO World Heritage property; the historic core is spread across the island and beyond, so transport between sites is part of the day.",
+  "whyGo": [
+    "See monumental remains that make the scale and design of the former capital tangible.",
+    "Combine major temple precincts such as Wat Phra Si Sanphet and Wat Chaiwatthanaram with the river setting and a local lunch.",
+    "The city was founded around 1350, flourished as a Siamese capital and was destroyed in 1767; the ruins retain its distinctive urban plan."
+  ],
+  "bestFor": [
+    "Visitors interested in Thai history, architecture and archaeology.",
+    "Travellers willing to spend a full day outdoors and move between sites by bicycle, tuk-tuk or car."
+  ],
+  "skipIf": [
+    "You want a low-effort, shaded outing or have difficulty walking over uneven ground and negotiating steps.",
+    "You have only a few hours in Bangkok; travel plus the spread-out sites makes a rushed visit unsatisfying."
+  ],
+  "duration": "Plan 9–11 hours door-to-door from central Bangkok, including roughly 1–1.5 hours each way by train or road and 5–6 hours in Ayutthaya. These are planning estimates; traffic, train choice and the number of stops change the total.",
+  "cost": "Budget separately for Bangkok–Ayutthaya transport, local transfers, meals and admission. The Fine Arts Department lists 50 baht for foreign visitors and free admission for visitors with disabilities at the night-viewing event described in its 2024 notice; that notice is not a current general daytime tariff. Check each site's current fee before travel. A driver or small-group tour will cost more; December 2026 prices are not verified.",
+  "hours": "No current official daytime opening hours were confirmed in the sources reviewed. A Fine Arts Department notice for the 2024 Ayutthaya Sundown event listed Wat Ratchaburana and Wat Chaiwatthanaram evening access 18:00–22:00, with ticket sales until 21:00; it does not establish a December 2026 schedule. Confirm each site's daytime and any evening hours with the park before setting out.",
+  "bestTime": "Arrive near opening and visit outdoor ruins before midday heat; take a long shaded lunch break and continue later in the afternoon. December is generally a more comfortable season than the hottest months, but the sites have limited shade and midday sun can still be strong.",
+  "gettingThere": "The train is a practical independent option: use the State Railway of Thailand's timetable and D-Ticket system to select the correct Bangkok departure station and return train. The official Ministry of Transport explains that trains may depart from either Krung Thep Aphiwat Central Terminal or Bangkok (Hua Lamphong), depending on service. Ayutthaya station is across the river from the historic island; arrange a local tuk-tuk, bicycle or car for the site circuit. Road transfers or a guided van tour offer simpler door-to-door logistics but are exposed to Bangkok traffic.",
+  "booking": "For rail, check the date-specific SRT timetable and book through the official D-Ticket link when available; verify station and return departure before leaving Bangkok. No specific December 2026 tour or cruise departure has been verified. If booking a guided day tour, confirm which entrance fees, lunch, guide language, hotel pickup and return transport are included.",
+  "accessibility": "Accessibility is limited by the outdoor archaeological setting: expect uneven paths, exposed brick and grass, heat, and stairs or raised platforms at some monuments. No site-by-site step-free route or current accessibility service was confirmed. The Fine Arts Department's 2024 evening notice says visitors with disabilities entered that event free; confirm current concessions and access arrangements directly with the park.",
+  "practicalTips": [
+    "Choose a small number of priority sites rather than trying to cover the whole historic city; the official Fine Arts Department describes more than 300 archaeological sites across the island and surrounding area.",
+    "Carry water, sun protection and comfortable shoes; plan shade and a seated lunch during the hottest part of the day.",
+    "Agree the local transport route and price before departing the station, or arrange a driver for a half-day circuit.",
+    "Dress respectfully at active temples and follow barriers; do not climb fragile ruins or touch carved surfaces.",
+    "Check the official SRT timetable again shortly before travel and leave a buffer for the final train back to Bangkok."
+  ],
+  "decemberNotes": "For a December 2026 visit, treat all times, fares and special evening access as subject to confirmation: the official park notice located during research describes a 2024 event, not this year's program. Begin early, reserve daylight for the major outdoor monuments, and check train schedules and any temporary site closures close to the date. No December 2026 event announcement was verified.",
+  "uncertainties": [
+    "Current daytime park/site hours and general foreign visitor admission prices were not established from a current official source.",
+    "The 2024 Sundown evening-hours and fee notice does not confirm that the program or concessions will apply in December 2026.",
+    "No current official site-by-site accessibility map or verified December 2026 guided-tour schedule and price was found.",
+    "Train schedules and booking availability can change; the official source directs travellers to date-specific timetable and D-Ticket checks."
+  ],
+  "sources": [
+    {
+      "title": "UNESCO World Heritage Centre: Historic City of Ayutthaya",
+      "url": "https://whc.unesco.org/en/list/576/"
+    },
+    {
+      "title": "Fine Arts Department: Virtual Historical Park, Ayutthaya",
+      "url": "https://www.finearts.go.th/main/view/8195-"
+    },
+    {
+      "title": "Fine Arts Department: Ayutthaya Sundown 2024 notice (Thai)",
+      "url": "https://www.finearts.go.th/promotion/view/46624"
+    },
+    {
+      "title": "Ministry of Transport: SRT timetable and D-Ticket guidance (Thai)",
+      "url": "https://www.mot.go.th/PRNews/160"
+    },
+    {
+      "title": "State Railway of Thailand D-Ticket",
+      "url": "https://www.dticket.railway.co.th"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Ayutthaya_Thailand_2004.jpg/960px-Ayutthaya_Thailand_2004.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ayutthaya_Thailand_2004.jpg",
+      "alt": "Wat Chaiwatthanaram in Ayutthaya Historical Park, viewed across the ruins.",
+      "credit": "Evilarry via Wikimedia Commons",
+      "license": "Public domain, released by the copyright holder."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "bkk-kanchanaburi-bridge-death-railway",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "A moving World War II history visit paired with a scenic ride on the Death Railway. The train from Bangkok makes a long day possible for the bridge and town, but an overnight is the practical choice for the museums, cemetery and railway beyond town.",
+  "whyGo": [
+    "See the Bridge over the River Khwae Yai and learn about the forced labor and wartime deaths behind the Thailand–Burma Railway.",
+    "Ride the surviving railway across the river and through the scenic section toward Nam Tok."
+  ],
+  "bestFor": [
+    "Visitors interested in World War II history and railway journeys.",
+    "Travelers willing to give the excursion a full day or stay overnight."
+  ],
+  "skipIf": [
+    "You need a short, low-effort excursion from Bangkok.",
+    "You want a fully step-free visit or cannot manage crowds, heat and uneven railway-side surfaces."
+  ],
+  "duration": "Day trip: allow roughly 12–14 hours door to door from central Bangkok; the SRT ordinary train takes about 2 hours 30 minutes each way to Kanchanaburi. Overnight is better for adding the Thai-Burma Railway Centre, Don Rak cemetery and the railway's further scenic stops without rushing.",
+  "cost": "SRT lists ordinary train fares at 100 baht per trip for foreign visitors (200 baht return); its page also shows a lower domestic fare. Add Bangkok station transfers, local transport, meals and any museum admission. Confirm fare and admission directly before travel; total trip cost varies widely by transport choice.",
+  "hours": "SRT's published ordinary service: train 257 leaves Thonburi at 07:45 and reaches Kanchanaburi at 10:20; train 258 leaves Kanchanaburi at 14:45 and reaches Thonburi at 17:40. The Thai-Burma Railway Centre is listed by TAT as open daily 09:00–16:30; Don Rak cemetery 08:30–16:00. Recheck all schedules and site hours close to travel.",
+  "bestTime": "December is in the cool season and suits outdoor walking better than the hot season, though midday sun is still strong. Start early. Check for holiday or weekend demand and service changes.",
+  "gettingThere": "The rail option starts at Thonburi Station; the SRT notes MRT Bang Khun Non and the nearby Charan Sanitwong Halt as an alternative boarding point. The published train schedule gives about four hours in town between arrival and return, enough for the bridge and a focused visit, not the full province. A road transfer or organized tour gives more control over site order; allow roughly 2.5–3 hours each way by road as a planning estimate, traffic dependent.",
+  "booking": "Check SRT's 2026 timetable and fare before choosing a date. The official D-Ticket system requires sign-in and supports searching and booking eligible services, but availability for the ordinary Kanchanaburi train was not confirmed here; ask SRT or buy at the station if it is not offered online. Book transport or lodging early for busy December weekends and holidays.",
+  "accessibility": "No complete official accessibility details were found. Expect a historic railway environment with uneven surfaces, steps, exposed sun and crowds. Walking across the bridge involves railings and passing trains; follow railway staff instructions, stay within designated pedestrian areas and never step onto tracks for photos. Contact SRT and venues directly about mobility access and assistance before going.",
+  "practicalTips": [
+    "For the ordinary train day trip, prioritize the bridge and one nearby history stop; the 14:45 return leaves little margin for distant attractions.",
+    "For the full Death Railway and memorial experience, stay overnight and plan local transport in advance; sites are spread out.",
+    "Carry water, sun protection and cash for local transport. Keep clear of active tracks and follow posted or staff directions at the bridge.",
+    "Approach the cemetery and memorials respectfully; they commemorate people who died under forced labor conditions."
+  ],
+  "decemberNotes": "Planning basis: 17 October 2026. December 2026 is future travel, so no date-specific closures or event schedule can be confirmed yet. Recheck SRT's live timetable, holiday operations, venue hours and road conditions shortly before departure. The SRT webpage currently publishes the 07:45/14:45 ordinary train pairing; treat it as a planning reference, not a guarantee for the chosen date.",
+  "uncertainties": [
+    "Whether the published ordinary train times, ticket price and online booking availability will apply on the exact December 2026 date.",
+    "Current museum admission prices and full accessibility arrangements were not confirmed from an official source.",
+    "Road journey duration depends on Bangkok traffic; estimate is approximate."
+  ],
+  "sources": [
+    {
+      "title": "State Railway of Thailand: Railway tourism and Thonburi–Nam Tok service details",
+      "url": "https://www.railway.co.th/Service/Passenger_detail?value1=0049613716F4864B9ED01F76DB70384102000000B05FDBFE2685150F4933FA4C340288DF03B0350FAC48B05D4DF0473B058A0CC0&value2=0049613716F4864B9ED01F76DB703841020000001A0CA358207275D32C3891D8993EE1768A2AB694BE6816F1C5F7E01F56786468"
+    },
+    {
+      "title": "State Railway of Thailand: D-Ticket help and booking steps",
+      "url": "https://dticket.railway.co.th/DTicketPublicWeb/help/"
+    },
+    {
+      "title": "Tourism Authority of Thailand: Kanchanaburi itinerary and venue details (Thai)",
+      "url": "https://thai.tourismthailand.org/Articles/kan-vela"
+    },
+    {
+      "title": "Tourism Authority of Thailand: Bridge Over the River Kwai",
+      "url": "https://www.tourismthailand.org/Attraction/bridge-over-the-river-kwai"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Bridge_on_the_River_Kwai_-_tourist_plaza.JPG/960px-Bridge_on_the_River_Kwai_-_tourist_plaza.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bridge_on_the_River_Kwai_-_tourist_plaza.JPG",
+      "alt": "The Bridge on the River Kwai seen from the tourist plaza.",
+      "credit": "PumpkinSky",
+      "license": "CC BY-SA 4.0"
+    }
+  ]
+}

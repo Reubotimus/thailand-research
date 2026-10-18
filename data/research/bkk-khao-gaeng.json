@@ -1,0 +1,63 @@
+{
+  "id": "bkk-khao-gaeng",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "Khao gaeng is a quick meal format: choose one or more ready-cooked curries and stir-fries from a display, served over rice. The lineup changes by shop and day, so it is a good way to sample everyday Thai cooking without committing to a full restaurant meal. Nang Loeng is a useful old-market area to explore, but its vendors' menus and hours are not individually confirmed here.",
+  "whyGo": [
+    "Choose dishes visually from a changing spread, then combine flavours and textures on one plate.",
+    "It is a practical, low-cost lunch and a simple introduction to regional curries and prepared Thai dishes.",
+    "Pair a meal with a walk through Nang Loeng Market's historic community and food stalls."
+  ],
+  "bestFor": [
+    "A fast, filling lunch with flexible portions",
+    "Travellers comfortable pointing to dishes or asking for help ordering",
+    "Trying several Thai flavours in one meal"
+  ],
+  "skipIf": [
+    "You need confirmed allergen-safe preparation or a reliably vegetarian meal",
+    "You prefer a quiet, full-service dining room or need guaranteed seating",
+    "You cannot handle some spice and are unable to check ingredients or heat first"
+  ],
+  "duration": "Allow 30–60 minutes including browsing and eating; this is a planning estimate. A simple plate is usually served quickly, though popular shops can have lunch queues.",
+  "cost": "A current Bangkok food guide estimates roughly THB 30–45 for rice with one topping and THB 45–65 for two; use this as a 2026 planning range, not a fixed price. Larger shared dishes cost more, and prices vary by shop and ingredients.",
+  "hours": "There is no single schedule for khao gaeng vendors. Nang Loeng Market is listed as open daily 06:00–17:00, with individual shops closing at different times; the market guide recommends 08:00–11:00 for fresh food. Check the chosen stall on the day.",
+  "bestTime": "Go before noon for the broadest choice; popular dishes at some shops may sell out before 13:00. At Nang Loeng, the market's own visitor guide recommends 08:00–11:00.",
+  "gettingThere": "For Nang Loeng Market, the Thailand 2026 Annual Meetings guide suggests MRT Sam Yot Exit 1, then about a 15-minute walk; the San Saep canal boat to Phan Fa pier is followed by about a 10-minute walk. A taxi or tuk-tuk from Ratchathewi BTS is another option. Use a map pin for the specific food stall.",
+  "booking": "Walk-in; no booking is normally needed for this casual meal format. Point to the dishes you want, or ask for khao rad gaeng (rice topped with curry). Carry some cash because some street vendors are cash-only; payment methods vary.",
+  "accessibility": "Step-free routes, stall seating, accessible toilets and food-display labels are not verified. Market lanes may be busy and uneven; contact a specific venue or choose a sit-down branch if access needs are important.",
+  "practicalTips": [
+    "Ask for one or two toppings (หนึ่งอย่าง / สองอย่าง); prices are commonly based on the number selected.",
+    "If you are unsure about a curry, point and ask whether it is spicy. Southern-style curries can be especially hot.",
+    "Ask about fish sauce, shrimp paste, meat stocks and other ingredients for dietary needs; a vegetable-looking dish is not automatically vegetarian.",
+    "At Nang Loeng, treat khao gaeng as one possible market meal rather than a guaranteed specialty of a named stall."
+  ],
+  "decemberNotes": "Khao gaeng is an everyday meal rather than a seasonal event. No December 2026 holiday schedule was found; market vendors may keep individual hours, so check locally, especially around Christmas and New Year.",
+  "uncertainties": [
+    "The activity's Nang Loeng / Bang Rak area suggestions do not identify a particular khao gaeng shop; no stall-specific menu or price was verified.",
+    "Prices and daily selection can change, and popular dishes may sell out before lunch ends.",
+    "Accessibility, allergen handling, payment options and holiday opening are vendor-specific and unconfirmed."
+  ],
+  "sources": [
+    {
+      "title": "Thailand 2026 Annual Meetings: Nang Loeng Market (market hours, recommended time and directions)",
+      "url": "https://www.am2026thailand.go.th/th/explore-bangkok/nang-loeng-market"
+    },
+    {
+      "title": "ThailandAddict: Bangkok Khao Gaeng guide (ordering, estimated prices and sell-out timing; updated June 2026)",
+      "url": "https://www.thailandaddict.com/en/bangkok-khao-gaeng"
+    },
+    {
+      "title": "Wikimedia Commons: Thai curry green with rice (photo and license details)",
+      "url": "https://commons.wikimedia.org/wiki/File:Thai_curry_green_with_rice.jpg"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Thai_curry_green_with_rice.jpg/960px-Thai_curry_green_with_rice.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thai_curry_green_with_rice.jpg",
+      "alt": "Representative photo of Thai green curry served with rice; not from a specific Bangkok shop.",
+      "credit": "आर्या जोशी",
+      "license": "CC BY-SA 4.0"
+    }
+  ]
+}

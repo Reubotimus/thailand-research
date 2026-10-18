@@ -1,0 +1,63 @@
+{
+  "id": "bkk-activity-112",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "A compact central Bangkok museum in Jim Thompson’s former home, combining traditional Thai teak houses, his Asian art collection and the story of his role in the Thai silk trade. A guided visit is required inside the main house.",
+  "whyGo": [
+    "See a rare domestic-scale ensemble of traditional teak architecture in a quiet garden setting amid central Bangkok.",
+    "The guided house tour connects the building and Asian art collection with Jim Thompson’s life and Thai silk history. Tours are offered in Thai, English, French, Chinese and Japanese."
+  ],
+  "bestFor": [
+    "Architecture, design and decorative-arts fans",
+    "A culture stop that pairs easily with Siam or National Stadium area visits"
+  ],
+  "skipIf": [
+    "You need step-free access throughout: the main house has multiple stairways and no elevator.",
+    "You prefer to explore interiors independently; entry to the main house is guided only."
+  ],
+  "duration": "Allow about 1–1.5 hours as a planning estimate for the guided house visit and grounds; tour frequency and waiting time can change.",
+  "cost": "Official current admission: 250 baht adults; 150 baht for ages 10–21 with ID or passport and visitors with disabilities; children 0–9 enter free. Recheck before December 2026.",
+  "hours": "Daily 10:00–17:00; the last guided tour starts at 17:00, according to the museum. Confirm near your visit in case of holiday or operational changes.",
+  "bestTime": "Go earlier in the day to leave room for a guided tour and avoid arriving close to the final tour. December is generally a more comfortable season for Bangkok sightseeing, but the house visit itself is indoors and guided.",
+  "gettingThere": "Take the BTS to National Stadium and use exit 1; the museum gives this as its transit approach. It is also reachable by taxi or tuk-tuk. Address: 6 Soi Kasemsan 2, Rama 1 Road. Allow extra time for Bangkok road traffic.",
+  "booking": "The museum says no reservation is required and walk-in tours remain available if online slots are full. Online tickets are offered through linked authorized partners; use the official Admission page and avoid unsolicited offers from strangers claiming the museum is closed.",
+  "accessibility": "The museum lists a reduced 150-baht admission for visitors with disabilities. Its main house has several stairways and no elevator, so the interior tour is not step-free. Contact the museum directly to ask what parts of the grounds are accessible to your needs.",
+  "practicalTips": [
+    "Choose your tour language and arrive with enough time to join a group before the final tour.",
+    "Shoes must be removed before entering the main house; bags larger than 20 cm must be stored in the locker area.",
+    "Photography inside is allowed, but flash, selfies, individual photos and video recording are prohibited.",
+    "The Jim Thompson Art Center is also in the compound, but check its separate exhibition schedule and opening details if you plan to include it."
+  ],
+  "decemberNotes": "The museum lists daily opening, but its visitor page does not provide a December 2026 holiday schedule or special events. Check the official site shortly before your date. The current admission and hours are a useful planning baseline, not a guarantee for December 2026.",
+  "uncertainties": [
+    "December 2026 holiday hours, special programming and tour availability have not been published on the visitor page checked.",
+    "The 1–1.5 hour visit duration is a planning estimate; the museum does not publish a standard tour length.",
+    "Accessibility beyond the published stair and elevator information should be confirmed with the venue directly."
+  ],
+  "sources": [
+    {
+      "title": "Jim Thompson House Museum — Visitor Information",
+      "url": "https://jimthompsonhouse.org/visitor-information/"
+    },
+    {
+      "title": "Jim Thompson House Museum — official homepage",
+      "url": "https://jimthompsonhouse.org/"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Jim_Thompson_House_Bangkok%2C_Thailand_%2814881459047%29.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jim_Thompson_House_Bangkok,_Thailand_(14881459047).jpg",
+      "alt": "Exterior view of Jim Thompson House in Bangkok, photographed in 2014.",
+      "credit": "Clay Gilliland / Wikimedia Commons",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Jim_Thompson_Museum_Living_room_IMG_7120.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jim_Thompson_Museum_Living_room_IMG_7120.jpg",
+      "alt": "Interior of a living room in the Jim Thompson House Museum, photographed in 2016.",
+      "credit": "Bjoertvedt / Wikimedia Commons",
+      "license": "CC BY-SA 4.0"
+    }
+  ]
+}

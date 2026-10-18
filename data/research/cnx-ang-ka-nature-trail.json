@@ -1,0 +1,65 @@
+{
+  "id": "cnx-ang-ka-nature-trail",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "A short raised boardwalk through mossy, cool cloud forest near Doi Inthanon’s summit. It is a low-effort nature stop within a much longer mountain day trip from Chiang Mai.",
+  "whyGo": [
+    "See dense high-elevation evergreen forest, mosses and ferns without committing to a long hike.",
+    "Combine the walk with the summit marker and nearby viewpoints on the same park-road outing.",
+    "December usually brings crisp mountain air and a marked change from Chiang Mai’s warmer city weather."
+  ],
+  "bestFor": [
+    "Visitors already travelling to Doi Inthanon who want an easy, short forest walk.",
+    "Bird and plant watchers, photographers, and families comfortable on a damp boardwalk."
+  ],
+  "skipIf": [
+    "You want a strenuous hike, open mountain panoramas, or a destination reachable conveniently by public transport.",
+    "Cold, wet surfaces or crowding would make a narrow boardwalk uncomfortable."
+  ],
+  "duration": "Allow about 15–20 minutes for the 360 m trail itself, as stated by the Tourism Authority of Thailand; add time for photos and the drive between park stops. The outing from Chiang Mai is a full day, with driving time dependent on traffic and itinerary.",
+  "cost": "The trail is within Doi Inthanon National Park. A 2024 TAT guide lists park admission at 300 baht per adult and 150 baht per child; confirm the current foreign-visitor rate and any vehicle charges with the park before travel. No separate Ang Ka trail charge was found.",
+  "hours": "A 2024 TAT guide lists the park as open daily 05:00–18:00. This is park-wide information, not a confirmed trail-specific schedule; check for temporary closures before setting out.",
+  "bestTime": "Early morning is cooler and can be quieter, although December mornings at the summit can feel very cold. Later morning may be more comfortable. The shaded, damp forest can remain slippery at any time.",
+  "gettingThere": "The trail is near the summit of Doi Inthanon, roughly 2–2.5 hours by road southwest of Chiang Mai in normal conditions. A private car or a Chiang Mai day tour is the practical choice because park attractions are spread along a long mountain road. Public songthaews involve transfers and do not offer dependable access between upper-park stops; verify any service directly before relying on it.",
+  "booking": "No trail reservation or guide requirement was found in official material. Day tours and private transport should be arranged separately; confirm that the itinerary reaches the summit area and allows time for Ang Ka. Check Doi Inthanon National Park notices for access updates close to the visit.",
+  "accessibility": "The path is a raised boardwalk, but no current official information was found on wheelchair access, steps, handrails, surface condition or mobility assistance. Treat accessibility as unconfirmed; the route may be difficult for wheelchairs or anyone who needs a smooth, dry, wide path.",
+  "practicalTips": [
+    "Bring a warm layer: the summit is above 2,500 m, and DNP reported 8°C at the summit during a December cold spell in 2024; that is an example, not a December 2026 forecast.",
+    "Wear shoes with grip and take care on wet wooden surfaces. Stay on the boardwalk to protect the fragile forest.",
+    "Carry water and some cash for park admission and any vehicle fee; verify current amounts before departure.",
+    "Expect more visitors on weekends and holiday dates; the short trail can feel busy when tour groups arrive."
+  ],
+  "decemberNotes": "December is a popular cool-season period, and cold conditions at the summit are plausible. The DNP’s December 2024 report recorded 8°C at Doi Inthanon’s summit and 4°C at Kew Mae Pan during a cold spell. These are historical observations, not a forecast. Ask the park about current trail access and check the local forecast shortly before visiting; holiday traffic can also extend the drive.",
+  "uncertainties": [
+    "The park has not published a clearly trail-specific 2026 timetable or December 2026 closure notice in the sources reviewed.",
+    "Current entrance and vehicle fees should be confirmed with Doi Inthanon National Park; the available TAT fee information is from a 2024 guide.",
+    "Official accessibility specifications and a reliable public transport timetable to the summit area were not found."
+  ],
+  "sources": [
+    {
+      "title": "Thailand Tourism Authority: Doi Inthanon nature trails (2024 brochure)",
+      "url": "https://image.mfa.go.th/mfa/0/uK8Kxy2oDV/E_Brochure_TAT_2024_English_Version.pdf"
+    },
+    {
+      "title": "Department of National Parks: Ang Ka nature trail renewal, Doi Inthanon National Park (Thai)",
+      "url": "https://news.dnp.go.th/news/9191"
+    },
+    {
+      "title": "Department of National Parks: December 2024 cold conditions at Doi Inthanon (Thai)",
+      "url": "https://news.dnp.go.th/news/29057"
+    },
+    {
+      "title": "Thailand Tourism Directory: Doi Inthanon National Park",
+      "url": "https://www.thailandtourismdirectory.go.th/en/attraction/5149"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ang_Ka_Nature_Trail.JPG/960px-Ang_Ka_Nature_Trail.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ang_Ka_Nature_Trail.JPG",
+      "alt": "Moss and green vegetation beside the Ang Ka Nature Trail boardwalk, photographed in 2014",
+      "credit": "Ktatpong via Wikimedia Commons",
+      "license": "CC BY-SA 4.0"
+    }
+  ]
+}

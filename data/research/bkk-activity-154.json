@@ -1,0 +1,57 @@
+{
+  "id": "bkk-activity-154",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "A working river bus doubles as a very inexpensive introduction to Bangkok: wooden passenger boats, busy piers and changing riverfront views. Shortlist it as transport with scenery rather than a guided cruise. A short daytime ride can fit between riverside sights without committing an entire afternoon.",
+  "whyGo": [
+    "Watch everyday river traffic from a local passenger service.",
+    "Combine a river experience with a useful journey between neighbourhoods.",
+    "The orange service is especially inexpensive compared with a dedicated sightseeing cruise."
+  ],
+  "bestFor": [
+    "Independent travellers comfortable navigating public transport",
+    "Budget sightseeing and river photography",
+    "People who enjoy the journey as part of the outing"
+  ],
+  "skipIf": [
+    "You require guaranteed seating, commentary or a leisurely boarding process.",
+    "Boat movement, crowding or uncertain step-free access would make the ride stressful."
+  ],
+  "duration": "Allow 30–60 minutes for a short sightseeing segment including waiting; this is a planning allowance, not a verified sailing time. Longer outings depend on your chosen piers.",
+  "cost": "Operator tariff effective 6 October 2026: orange THB19 flat fare; yellow THB24; red THB33; green-yellow THB17–36 by segment. Check the pier tariff before boarding.",
+  "hours": "The official page announces service Monday–Sunday and public holidays, but individual line headings say Monday–Friday. Exact departure times were not extractable; verify your specific day, direction and return service directly.",
+  "bestTime": "Choose a daylight ride outside commuter peaks for an easier first experience; leave a generous margin before the last departure.",
+  "gettingThere": "Choose a boarding pier on the operator route map; Sathorn is a convenient starting point near BTS Saphan Taksin. Confirm the boat flag and destination before boarding because lines serve different stops.",
+  "booking": "Treat this as public transport: check tickets and boarding arrangements at the pier. Advance reservation availability was not verified.",
+  "accessibility": "Step-free boarding, wheelchair assistance and accessible toilets were not verified. Floating piers and boat boarding may present obstacles; ask the operator about your exact piers and vessel.",
+  "practicalTips": [
+    "Save the official route map and check ViaBus, which the operator links for boat tracking.",
+    "The official page lists Oriental Pier N1 closed for renovation; do not plan around it without checking.",
+    "Carry small baht notes, keep luggage compact and confirm your stop with staff."
+  ],
+  "decemberNotes": "A practical December option when paired with riverside sightseeing. Recheck the timetable near travel, especially weekends and public holidays; no December 2026 special schedule was verified. Bring water and sun protection for exposed pier waits.",
+  "uncertainties": [
+    "Official page contains conflicting service-day labels.",
+    "Exact first/last boats, frequency, journey times and payment methods remain unverified.",
+    "The licensed photograph is from 2017 and illustrates the boat type, not a guarantee of current vessel appearance."
+  ],
+  "sources": [
+    {
+      "title": "Chao Phraya Express Boat — official schedule, fares, route and closure notice",
+      "url": "https://www.chaophrayaexpressboat.com/chaophrayaexpressboat?lang=en-Scheduled"
+    },
+    {
+      "title": "Wikimedia Commons — Orange Flag boat photograph and licence",
+      "url": "https://commons.wikimedia.org/wiki/File:Chao_Phraya_Express_Boat_Orange_Flag_2.jpg"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Chao_Phraya_Express_Boat_Orange_Flag_2.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chao_Phraya_Express_Boat_Orange_Flag_2.jpg",
+      "alt": "Orange Flag Chao Phraya Express passenger boat heading upriver toward Nonthaburi in December 2017",
+      "credit": "Slleong / Wikimedia Commons",
+      "license": "CC0 1.0 Universal Public Domain Dedication"
+    }
+  ]
+}

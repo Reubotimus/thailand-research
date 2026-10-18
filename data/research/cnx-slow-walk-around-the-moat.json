@@ -1,0 +1,63 @@
+{
+  "id": "cnx-slow-walk-around-the-moat",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "A relaxed, self-guided walk beside selected stretches of Chiang Mai’s Old City moat, with gates, fragments of the historic wall, temple lanes and everyday street life along the way. The near-square Old City is about 1.6 km on each side, but this is an active road network rather than a continuous pedestrian promenade. Choose one or two sides and take breaks instead of treating the full circuit as a dedicated walking trail.",
+  "whyGo": [
+    "Get an easy orientation to the Old City’s shape and the relationship between its moat, gates and neighbourhoods.",
+    "See historic features in their lived-in urban setting, with temples, cafés and shops close by for detours.",
+    "Keep the outing flexible: walk a short section, pause for a drink, or continue if conditions feel comfortable."
+  ],
+  "bestFor": [
+    "First-time visitors who want a gentle introduction to the Old City",
+    "Travellers who enjoy unstructured walks with frequent stops",
+    "People combining nearby gates, temples and food breaks"
+  ],
+  "skipIf": [
+    "You want a quiet, traffic-free walk or an uninterrupted ancient wall.",
+    "You need a reliably step-free route or are uncomfortable with busy road crossings.",
+    "You are walking in strong midday heat without a plan for shade and water."
+  ],
+  "duration": "Planning estimate: 45–90 minutes for a leisurely section with stops; a full perimeter is about 6.4 km from the city’s roughly 1.6 km sides and may take 2–3 hours on foot, excluding temple visits and longer breaks.",
+  "cost": "Free to walk public streets and view the moat. Food, drinks, local transport, guided tours and any temple admission or donation are separate.",
+  "hours": "The moat and adjoining streets are public urban space rather than a gated attraction. Walk during daylight for easier route-finding; temples and businesses along the way keep their own hours.",
+  "bestTime": "Start in the morning or late afternoon to avoid the strongest sun. Sunday evening brings the Tha Phae Gate–Ratchadamnoen Road walking street and heavier crowds on that section.",
+  "gettingThere": "Tha Phae Gate is a convenient east-side landmark and starting point. Walk from accommodation in the Old City or take a songthaew, tuk-tuk or ride-hailing car and agree the drop-off point; the Tourism Authority of Thailand describes the Sunday walking-street route from Tha Phae Gate along Ratchadamnoen Road.",
+  "booking": "No booking is needed for the public streets and moat. Arrange a guide separately if desired, and check opening or entry details for any temple or venue you plan to visit.",
+  "accessibility": "No official step-free route for the perimeter was found. Sidewalks can be narrow, uneven or interrupted, and crossings are affected by traffic; mobility access is likely to vary by stretch. Consider a short section and assess crossings locally.",
+  "practicalTips": [
+    "Pick a side or a few gates in advance; surviving and restored wall sections are intermittent.",
+    "Use marked crossings where available and allow time at large junctions; the moat edge runs beside active roads.",
+    "Wear comfortable shoes, carry water and use sun protection; seek shade for rests.",
+    "Avoid the Tha Phae Gate and Ratchadamnoen Road stretch on Sunday evening if you prefer less crowding."
+  ],
+  "decemberNotes": "December is a popular cool-season travel month in Chiang Mai, so allow extra time around central landmarks. Morning and late-afternoon walks are sensible seasonal choices, not a December 2026 weather forecast. No December 2026 route closure or special event was confirmed; check local notices for temporary works or traffic changes.",
+  "uncertainties": [
+    "The condition of sidewalks, crossings, moat edges and construction works can change; assess the route on the day.",
+    "A complete accessible route and detailed pedestrian infrastructure information were not available.",
+    "No dated December 2026 event or closure affecting the walk was confirmed."
+  ],
+  "sources": [
+    {
+      "title": "Chiang Mai World Heritage, Chiang Mai Provincial Administrative Organization: Moat & City Walls",
+      "url": "https://chiangmaipao.go.th/ChiangMaiWorldHeritage/en/?p=77"
+    },
+    {
+      "title": "Tourism Authority of Thailand: Tha Phae Gate Walking Street (Thai-language listing)",
+      "url": "https://thai.tourismthailand.org/Shop/%E0%B8%96%E0%B8%99%E0%B8%99%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%95%E0%B8%B9%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%9E"
+    },
+    {
+      "title": "Wikimedia Commons: City moat of Chiang Mai between Hua Rin Corner and Chang Phuak Gate",
+      "url": "https://commons.wikimedia.org/wiki/File:201703291201a_P_Chiang_Mai,_City_Wall_and_Moat.jpg"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/201703291201a_P_Chiang_Mai%2C_City_Wall_and_Moat.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:201703291201a_P_Chiang_Mai,_City_Wall_and_Moat.jpg",
+      "alt": "Chiang Mai moat between Hua Rin Corner and Chang Phuak Gate, photographed in 2017.",
+      "credit": "Hartmann Linge / Wikimedia Commons",
+      "license": "The Commons page has conflicting license-version metadata: its reuse statement says CC BY-SA 4.0 while the licensing section lists CC BY-SA 3.0. Confirm the applicable version on the file page before reuse."
+    }
+  ]
+}

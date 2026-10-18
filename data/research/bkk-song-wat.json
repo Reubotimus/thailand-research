@@ -1,0 +1,25 @@
+{
+  "id": "bkk-song-wat",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "A flexible Chinatown heritage walk for people who enjoy old trading streets, independent cafés and small discoveries. Song Wat mixes working businesses with restored shophouses and creative shops. Make it a relaxed add-on to Talat Noi or Yaowarat rather than expecting a single headline attraction.",
+  "whyGo": ["Look closely at decorative façades, shrines and the street's trading heritage.", "Choose your own balance of coffee, dessert, browsing and photography; spending is optional."],
+  "bestFor": ["Architecture and street photography", "Café enthusiasts and independent shoppers", "Unstructured neighbourhood exploration"],
+  "skipIf": ["You prefer a guided attraction with a clear programme.", "Heat, traffic or uneven walking surfaces would spoil an outing.", "You have little interest in cafés or shopping and already plan extensive Chinatown wandering."],
+  "duration": "Allow 1.5–3 hours as a planning estimate, including refreshment stops; longer with a sit-down meal.",
+  "cost": "Public street exploration has no admission ticket. Food, drinks, shopping and transport cost extra; no reliable district-wide price range exists. Check individual menus before ordering.",
+  "hours": "The road has no attraction opening hours. Cafés, shops, galleries and religious buildings each set their own hours; do not assume late-night opening throughout.",
+  "bestTime": "Late morning for shops and cafés, or late afternoon for gentler walking conditions; verify any must-visit venue before setting off.",
+  "gettingThere": "The Tourism Authority of Thailand identifies MRT Blue Line Wat Mangkon as the nearest station. Walk onward using a map. Ratchawong Pier is another entry point, but confirm your boat's current stops and last service.",
+  "booking": "No reservation needed for a self-guided walk. Book destination restaurants separately; casual street exploration does not guarantee a table at popular businesses.",
+  "accessibility": "No verified continuous step-free itinerary found. Expect an active street with crossings, narrow stretches and possible shop thresholds; confirm access and toilets with specific venues if required.",
+  "practicalTips": ["Pin two or three desired stops, leaving time for side lanes and spontaneous breaks.", "Carry water, sun protection and some cash; ask before photographing working shops or worshippers.", "Treat shrines and religious buildings as active places of worship and follow posted dress and photography rules.", "Combine with nearby Chinatown dinner to reduce cross-city travel."],
+  "decemberNotes": "A useful daytime counterpoint to a Chinatown evening. Keep a shaded café break in the plan even in December. No December 2026 district festival, holiday opening schedule or temporary exhibition was verified; the walk does not depend on an event.",
+  "uncertainties": ["Exact shop hours, menus, accessibility and December closures need venue-level checks.", "The heritage photograph dates from 2012 and illustrates architecture rather than today's retail mix."],
+  "sources": [
+    {"title": "Tourism Authority of Thailand: Song Wat", "url": "https://www.thailandtravel.or.jp/song-wat/"},
+    {"title": "Thai government: Song Wat district revitalisation, September 2025", "url": "https://www.thailand.go.th/issue-focus-detail/----280?hl=en"},
+    {"title": "Visa and TAT: Song Wat cultural district, May 2026", "url": "https://www.visa.co.th/en_TH/about-visa/newsroom/press-releases/visa-destinations-thailand-puts-song-wat-on-the-map-as-a-must-visit-cultural-district.html"}
+  ],
+  "images": [{"url": "https://live.staticflickr.com/7190/7111541047_9b0a98f4ff_o.jpg", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bangkok_IMG_1820-IMG_1824_(7111541047).jpg", "alt": "Historic Fruit Building façade on Song Wat Road, photographed in 2012", "credit": "Heiko S / Wikimedia Commons, 2012", "license": "CC BY 2.0 — https://creativecommons.org/licenses/by/2.0/"}]
+}

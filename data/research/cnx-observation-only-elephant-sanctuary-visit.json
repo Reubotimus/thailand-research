@@ -1,0 +1,64 @@
+{
+  "id": "cnx-observation-only-elephant-sanctuary-visit",
+  "researchedAt": "2026-10-18",
+  "status": "partial",
+  "summary": "For a Chiang Mai visit, ChangChill Hillside is a concrete observation-led option: World Animal Protection’s 2026 guide lists it among Thailand’s elephant-friendly venues, and its afternoon program describes watching elephants graze and socialize from a safe distance. This is a better starting point than choosing by a venue’s ‘sanctuary’ label, but observation-only practices alone cannot prove good welfare. The operator page currently lists ฿1,700 per person for the afternoon visit, with city-office transfers included.",
+  "whyGo": [
+    "The afternoon itinerary is built around observing elephants in the forest and learning about their behaviour and conservation, rather than riding or bathing.",
+    "It is a relatively compact way to see elephants near Chiang Mai: the operator lists a 1pm city meeting and 5:30pm return.",
+    "World Animal Protection’s latest guide lists ChangChill Hillside among its best-practice elephant-friendly venues, based on its December 2025 update."
+  ],
+  "bestFor": [
+    "Visitors who are content to watch elephants at a distance and let them choose where to move.",
+    "Travelers who want an educational wildlife visit and are willing to check the venue’s current practices before booking.",
+    "People with a free afternoon who can make the city meeting point and tolerate a long road transfer for a short observation period."
+  ],
+  "skipIf": [
+    "You expect to touch, feed, bathe, ride, or pose closely with elephants; choose a different activity, since these are poor welfare signals and are not part of the listed afternoon itinerary.",
+    "You are uncomfortable supporting captive elephant tourism. World Animal Protection says captivity is inadequate even at higher-scoring venues and recommends seeing animals in the wild where possible.",
+    "You need a guaranteed step-free route, accessible vehicle or toilet; these details are not published and the program walks into forest terrain."
+  ],
+  "duration": "Operator schedule: meet in Chiang Mai at 1pm, observe and learn from about 2:45–4pm, then return to its city office at 5:30pm. Allow roughly 4.5 hours including transfers; the operator says the hillside site is about 1 hour 15 minutes from the city.",
+  "cost": "ChangChill Hillside currently lists ฿1,700 per person (฿1,000 for children under 10) for the afternoon visit, including transfers from its Chiang Mai city office; lunch is not included. These are the published rates at research time, not a guaranteed December 2026 quote. Confirm price and availability directly.",
+  "hours": "The listed afternoon program meets at 1pm and returns at 5:30pm. The operator requests booking by 12:30pm on the visit day and lists office hours as 7am–10pm; verify these details when arranging a December date.",
+  "bestTime": "Choose a dry, cooler part of the day if you have a choice; the listed afternoon schedule has a fixed 1pm departure. Elephant activity varies, so treat grazing and socializing as possibilities, not a guaranteed performance. December is a popular travel period, so arrange the visit ahead even though the operator says same-day booking may be possible.",
+  "gettingThere": "The operator’s listed afternoon transfer departs from its office in Chiang Mai city (O.P. Couse building) at 1pm and returns there at 5:30pm; it says the venue is about 1 hour 15 minutes away. Confirm the exact meeting pin and whether hotel pickup can be arranged. Do not assume the remote hillside site is convenient for independent public transport.",
+  "booking": "Book through ChangChill’s afternoon visit page / linked booking form, or confirm by email at changchill.chiangmai@gmail.com or WhatsApp at +66 98 598 1141 / +66 86 329 3380. Confirm the date, current itinerary, total price, pickup arrangements, cancellation terms, and whether the visit remains no-contact and observation-only.",
+  "accessibility": "The operator describes walking into forest terrain to observe elephants and does not publish details on path surface, gradients, seating, accessible toilets, or vehicle access. Contact the venue before booking if mobility, sensory, or other access arrangements matter; do not assume the forest route is accessible.",
+  "practicalTips": [
+    "Use World Animal Protection’s venue checklist: look for elephants able to roam, forage and socialize, and avoid touching, riding, bathing, shows, or close-contact feeding.",
+    "Ask directly about chaining, breeding, calf separation, restraint, group size, and what happens when elephants choose to move away. A venue name or observation-only marketing is not independent proof of welfare.",
+    "Wear closed, comfortable shoes suitable for an uneven forest walk, sun protection, and insect repellent; carry water and a light rain layer.",
+    "Follow guide instructions and keep distance. Elephants are powerful, unpredictable animals, and the visit is for watching their choices, not approaching them."
+  ],
+  "decemberNotes": "December falls in Chiang Mai’s busy cool-season travel period. The published afternoon schedule and rates may change before December 2026; ask the operator to confirm its operating days, meeting point, road-transfer timing, and weather/cancellation policy. No special December 2026 event or schedule was found.",
+  "uncertainties": [
+    "The activity is a general category rather than a named venue; ChangChill Hillside is an example listed by World Animal Protection, not a guarantee that every Chiang Mai sanctuary is suitable.",
+    "World Animal Protection’s venue list reflects a December 2025 update; reassess the venue’s practices closer to travel and verify the current no-contact itinerary directly.",
+    "The operator website’s same-day booking cutoff and office hours are unusual and may be stale; confirm them, as well as December rates, transportation, cancellation terms, and accessibility.",
+    "The linked venue photo is credited to ChangChill and the operator says its photos were supplied by World Animal Protection; a reuse license was not established."
+  ],
+  "sources": [
+    {
+      "title": "World Animal Protection – Elephant Friendly Tourist Guide 2026 (criteria and Chiang Mai venue list)",
+      "url": "https://www.worldanimalprotection.org/elephant-friendly-tourist-guide"
+    },
+    {
+      "title": "World Animal Protection – 2026 Thailand elephant tourism welfare findings and visitor guidance",
+      "url": "https://www.worldanimalprotection.org/latest/news/captive-elephants-thailand-tourism-welfare-report-2026/"
+    },
+    {
+      "title": "ChangChill Hillside – Afternoon Visit (schedule, current listed price, transfer and contact details)",
+      "url": "https://changchill.com/afternoon-visit-at-changchill-hillside/"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://changchill.com/wp-content/uploads/2024/10/46E4EEEE-DE6E-42FD-9985-800062168607-1920x1440.jpg",
+      "sourceUrl": "https://changchill.com/afternoon-visit-at-changchill-hillside/",
+      "alt": "A juvenile elephant forages on a green hillside while two elephants graze in the background at ChangChill Hillside.",
+      "credit": "ChangChill; operator states its photos were supplied by World Animal Protection.",
+      "license": "Permission not established; linked reference."
+    }
+  ]
+}

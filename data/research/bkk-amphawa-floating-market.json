@@ -1,0 +1,68 @@
+{
+  "id": "bkk-amphawa-floating-market",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "A weekend afternoon and evening market along Amphawa Canal, about 80 km southwest of central Bangkok. Stroll the wooden waterside lanes, eat from boat and bank vendors, and optionally take a canal or firefly boat; this works best as a Friday–Sunday day trip or overnight stay.",
+  "whyGo": [
+    "See an atmospheric canal-side community with old wooden shophouses and vendors selling food from boats.",
+    "Sample seafood, noodles, sweets and drinks in a lively evening setting.",
+    "Add an optional boat ride through the canals after browsing the market."
+  ],
+  "bestFor": [
+    "Travelers who enjoy local food, waterside scenery and busy weekend markets.",
+    "Pairing with Mae Klong Railway Market or nearby temples on a full-day outing.",
+    "Visitors who can stay overnight or arrange a reliable late return to Bangkok."
+  ],
+  "skipIf": [
+    "You can only visit Monday–Thursday and need the main market atmosphere.",
+    "You want a quiet or strongly traditional market experience; Amphawa is popular and busy.",
+    "You need step-free routes, predictable accessible toilets or confirmed accessible boat boarding."
+  ],
+  "duration": "Allow 3–4 hours at Amphawa itself, arriving mid-afternoon and staying through dusk. From central Bangkok, budget roughly 1.5–2.5 hours each way by road depending on traffic; this is a planning estimate, not a published timetable. Include Mae Klong only if you have most of the day.",
+  "cost": "Market entry is free. Food and purchases vary. Current official sources do not publish boat fares; confirm the route, duration and total fare with the operator before boarding. Budget separately for transport, and treat any tour quote as date-specific.",
+  "hours": "The Tourism Authority of Thailand lists Friday–Sunday, 10:00 a.m.–8:30 p.m. It describes weekends as the liveliest period; some government directory information also mentions public holidays, but holiday operation should be confirmed locally.",
+  "bestTime": "Visit Friday, Saturday or Sunday from mid-afternoon to sunset for active vendors and cooler walking conditions. Firefly visibility is seasonal: TAT's Thai listing identifies the rainy months, May–October, as the stronger season, so December is less dependable. Darker moon phases can help; fireflies are never guaranteed.",
+  "gettingThere": "The TAT Thai listing gives the road route via Highway 35 (Rama II) toward Samut Songkhram, then Highway 325 toward Amphawa and King Rama II Memorial Park. It also lists a Bangkok–Damnoen Saduak bus stopping at Amphawa market. For practical flexibility and a late return, a hired car/driver or organized day tour is easiest; verify the current bus departure/return point and schedule before relying on it. A car trip from Bangkok is roughly 1.5–2.5 hours each way depending on traffic (estimate).",
+  "booking": "No market ticket or advance reservation is indicated. TAT says to contact sightseeing boat operators at the market or through local accommodation/homestays. Boat inventory, shared/private options, prices, life-jacket arrangements and December availability are not published in the official listing; ask and agree on the fare before boarding. Book a driver or tour ahead for a weekend and arrange the return before leaving Bangkok.",
+  "accessibility": "Expect narrow, crowded waterside walkways, uneven surfaces, steps and possible gaps or level changes near piers. Official listings do not provide reliable step-free-route, accessible-toilet or boat-boarding details. Confirm specific needs with accommodation or a tour operator before travelling; wheelchair access on boats is unverified.",
+  "practicalTips": [
+    "Arrive before the evening rush and carry small cash for food stalls and boats.",
+    "Confirm return transport before departure; public options may be limited after the market closes.",
+    "For a firefly trip, agree on duration and price first, wear a life jacket, keep hands and belongings inside the boat, and follow the boat crew's instructions.",
+    "Respect residents and avoid shining bright lights at fireflies; sightings depend on season and conditions."
+  ],
+  "decemberNotes": "December 2026 market operation is not separately announced in the sources checked. Friday–Sunday hours are the current published schedule, but recheck closer to travel. Expect a pleasant cool-season evening, busy weekend crowds and low confidence for firefly sightings because the official Thai tourism listing highlights May–October as the stronger season. December 2026 public holidays or special events may alter operations; none are confirmed here.",
+  "uncertainties": [
+    "No official current boat fare, duration, operator schedule or safety specification was found; verify on site or through accommodation.",
+    "Public bus route and timetable are not sufficiently detailed in the official listing for dependable late-evening return planning.",
+    "Accessibility of the canal lanes, toilets and boats is not documented in enough detail to confirm suitability.",
+    "December 2026 holiday hours and event programming are unannounced in the sources checked."
+  ],
+  "sources": [
+    {
+      "title": "Tourism Authority of Thailand – Amphawa Floating Market (hours and market description)",
+      "url": "https://www.tourismthailand.org/Attraction/amphawa-floating-market"
+    },
+    {
+      "title": "Tourism Authority of Thailand (Thai) – Amphawa Floating Market (seasonal fireflies, contact, route and bus information)",
+      "url": "https://thai.tourismthailand.org/Attraction/%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AD%E0%B8%B1%E0%B8%A1%E0%B8%9E%E0%B8%A7%E0%B8%B2"
+    },
+    {
+      "title": "Thailand Tourism Directory – Amphawa Floating Market (government tourism directory)",
+      "url": "https://www.thailandtourismdirectory.go.th/en/attraction/2835"
+    },
+    {
+      "title": "Wikimedia Commons – Amphawa market at night (image description and license)",
+      "url": "https://commons.wikimedia.org/wiki/File:Amphawa_market_at_night.jpg"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Amphawa_market_at_night.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amphawa_market_at_night.jpg",
+      "alt": "Amphawa Floating Market along the canal at night; photograph taken in 2011.",
+      "credit": "Antoine Fleury-Gobert (Zeugma fr) / Wikimedia Commons",
+      "license": "CC BY-SA 3.0"
+    }
+  ]
+}

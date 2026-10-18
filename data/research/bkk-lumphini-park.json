@@ -1,0 +1,58 @@
+{
+  "id": "bkk-lumphini-park",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "A large, central public park for a morning or evening walk, run or break from Bangkok’s traffic. Ponds, lawns, exercise areas and the chance of seeing Asian water monitors make it an appealing everyday-city outing; it is an urban park rather than a wilderness escape.",
+  "whyGo": [
+    "Get a dose of greenery near Silom and central Bangkok without paying an admission fee.",
+    "Walk or jog around the ponds and lawns, watch local life, and look for water monitors from a respectful distance.",
+    "Choose from playgrounds, exercise equipment, yoga/aerobics lawn and water activities listed by the city."
+  ],
+  "bestFor": [
+    "Walkers, runners and families wanting an easy outdoor pause in the city.",
+    "Visitors interested in everyday Bangkok park life and urban wildlife.",
+    "A flexible visit that can be reached by MRT or BTS."
+  ],
+  "skipIf": [
+    "You want a remote nature reserve, quiet wilderness or a major sightseeing landmark.",
+    "You are uncomfortable around large free-roaming monitor lizards or exposed outdoor heat."
+  ],
+  "duration": "Allow about 1–2 hours for a relaxed walk and stop by the lake; longer if you plan to exercise or use facilities. This is a planning estimate, since the park is large and visit pace varies.",
+  "cost": "Park admission is free. Optional water activities, if operating, may have separate charges; current prices were not confirmed.",
+  "hours": "The BMA lists daily hours of 04:30–22:00. Cycling is permitted 10:00–15:00. Check locally for temporary closures or holiday changes.",
+  "bestTime": "Go early morning or late afternoon/evening for exercise and more comfortable outdoor temperatures. Avoid planning a long midday walk in the sun; December is generally a more comfortable time for outdoor sightseeing than Bangkok’s hotter season, but heat and air quality vary day to day.",
+  "gettingThere": "The park authority recommends MRT Silom or Lumphini stations. From BTS Sala Daeng, follow the elevated Sky Walk across Rama IV Road. Bus routes also serve Rama IV, Wireless and Ratchadamri roads. The park has car parking, but central Bangkok traffic can make rail more convenient.",
+  "booking": "No booking is needed for general entry. Confirm availability and any fees for kayaking, paddle boats or stand-up paddleboarding with the park before making a special trip.",
+  "accessibility": "The park has multiple road-side entrances and broad outdoor paths, but the reviewed official information does not describe step-free routes, accessible toilets, path surfaces or mobility-aid availability in detail. Contact the park at 02 252 7006 or 02 252 5948 to check specific needs.",
+  "practicalTips": [
+    "Wear comfortable shoes, carry water and sun protection, and use shaded paths where possible.",
+    "Keep a respectful distance from monitor lizards; do not approach or feed wildlife.",
+    "The city lists toilets and lockers, but confirm their location and operating status on arrival.",
+    "Cycling is limited to the posted 10:00–15:00 window; follow park signs and staff directions."
+  ],
+  "decemberNotes": "December usually brings more comfortable conditions for outdoor activity than Bangkok’s hottest months, though it can still be hot and air quality can fluctuate. Check a current AQI reading before strenuous outdoor exercise and adjust plans if pollution is elevated. No special December 2026 events, holiday hours or closures were confirmed in the reviewed sources.",
+  "uncertainties": [
+    "The BMA’s published hours and activity information may change before December 2026; confirm near the visit, especially around holidays or events.",
+    "Current prices and operating times for water activities were not found.",
+    "Detailed accessibility information and the availability of individual facilities were not confirmed."
+  ],
+  "sources": [
+    {
+      "title": "Bangkok Metropolitan Administration / Greener Bangkok: Lumphini Park (hours, activities and transport)",
+      "url": "https://greener.bangkok.go.th/en/park/suan-lumpini/"
+    },
+    {
+      "title": "Wikimedia Commons: Monitor lizard at Lumphini Park, Bangkok (photo and license details)",
+      "url": "https://commons.wikimedia.org/wiki/File:Monitor_lizard_at_Lumphini_Park,_Bangkok.jpg"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Monitor_lizard_at_Lumphini_Park%2C_Bangkok.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monitor_lizard_at_Lumphini_Park,_Bangkok.jpg",
+      "alt": "Asian water monitor photographed in Lumphini Park on 24 December 2014; historical photo, not a current wildlife sighting guarantee.",
+      "credit": "Alexey Komarov",
+      "license": "CC BY-SA 4.0"
+    }
+  ]
+}

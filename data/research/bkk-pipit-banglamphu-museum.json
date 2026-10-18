@@ -1,0 +1,46 @@
+{
+  "id": "bkk-pipit-banglamphu-museum",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "A community heritage museum in a former printing school and textbook press, with exhibits on Banglamphu life, Bangkok history and the Treasury Department. The compact visit works well with nearby Phra Sumen Fort and the riverside.",
+  "whyGo": [
+    "Learn how Banglamphu grew as a historic, culturally diverse Bangkok neighborhood through local stories and reconstructed settings.",
+    "See the former Khurusapha Printing House, where the museum also interprets Thailand's printing history."
+  ],
+  "bestFor": ["Travelers interested in Bangkok's neighborhood history", "A short cultural stop near Phra Athit and Khao San"],
+  "skipIf": ["You need a fully step-free route or confirmed English-language guided interpretation; current official visitor information does not establish either."],
+  "duration": "Plan about 60 minutes: the museum schedules one-hour rounds. Allow additional time if you want to explore the surrounding Banglamphu neighborhood.",
+  "cost": "The Treasury Department lists adults aged 19+ and foreign visitors at ฿30; ages 10–18 at ฿10; under 10s and Thai visitors aged 60+ free. Confirm at the museum before travel, as prices can change.",
+  "hours": "Official museum site: Tuesday–Sunday, closed Monday, New Year holidays and Songkran. It lists 08:30–16:30, with 60-minute rounds; last round 15:00 Tue–Fri and 16:00 Sat–Sun. TAT separately lists weekend opening through 18:00, so check the museum directly for the precise December schedule and last entry.",
+  "bestTime": "Choose a weekday morning for more time before the last listed round, or combine a weekend visit with nearby Phra Sumen Fort. Avoid Monday closures. December is generally a comfortable season for walking outdoors, but the museum is indoors.",
+  "gettingThere": "At Phra Sumane Road near Phra Sumen Fort and Phra Athit. The Chao Phraya Express Boat's Phra Arthit pier is a practical nearby approach; continue on foot. There is no convenient BTS station beside the museum, so use a taxi/ride-hail or local bus for the final approach if needed. Verify current boat and bus service before setting out.",
+  "booking": "Official site describes timed 60-minute rounds but does not clearly state whether walk-ins are accepted or provide an English booking workflow. Call +66 2 281 9828 to check availability and ask about English-language guiding; groups should contact the museum ahead.",
+  "accessibility": "The official site lists a car park but gives no reliable step-free access, lift, accessible toilet or mobility-device details. Contact the museum before visiting to confirm the route and facilities. The surrounding old-neighborhood sidewalks may be uneven.",
+  "practicalTips": [
+    "Arrive before the round you want; the official site lists a 60-minute visit and last-round times.",
+    "Carry cash for the modest admission charge and call ahead if visiting as a group.",
+    "Pair it with Phra Sumen Fort and Santichaiprakarn Park, a short walk away, or explore the Banglamphu lanes after the visit."
+  ],
+  "decemberNotes": "For December 2026, the museum's regular Tuesday–Sunday pattern is the best available guide; no special December 2026 opening notice was found. The official site says it closes for New Year holidays, so check its news page or call before visiting around late December or early January. Weekend closing time differs between official pages.",
+  "uncertainties": [
+    "Official sources disagree on weekend close: the museum site gives 16:30 while TAT gives 18:00. Confirm directly, including the last entry/round.",
+    "The Treasury Department tariff page gives admission rates; a separate third-party directory says free, so use the department's current rate and reconfirm.",
+    "Current English tour availability, advance booking requirements and accessibility facilities are not specified in the accessible official visitor information.",
+    "December 2026 holiday closures and special events may be announced closer to the date."
+  ],
+  "sources": [
+    {"title": "Pipit Banglamphu Museum official site (hours, rounds, contact, facilities, exhibitions)", "url": "https://emuseum-banglamphu.treasury.go.th/en/home/"},
+    {"title": "Treasury Department museums (admission and regular hours)", "url": "https://www.treasury.go.th/th/services/coins/museum"},
+    {"title": "Tourism Authority of Thailand: One day in Banglamphu (museum context, hours and neighborhood location)", "url": "https://thai.tourismthailand.org/Articles/1-day-at-banglamphu"},
+    {"title": "Wikimedia Commons file page: Bang Lamphu Museum (I).jpg", "url": "https://commons.wikimedia.org/wiki/File:Bang_Lamphu_Museum_(I).jpg"}
+  ],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Bang_Lamphu_Museum_%28I%29.jpg/960px-Bang_Lamphu_Museum_%28I%29.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bang_Lamphu_Museum_(I).jpg",
+      "alt": "Exterior of Bang Lamphu Museum in Bangkok, photographed in December 2023.",
+      "credit": "Supanut Arunoprayote",
+      "license": "CC BY 4.0; attribution required."
+    }
+  ]
+}

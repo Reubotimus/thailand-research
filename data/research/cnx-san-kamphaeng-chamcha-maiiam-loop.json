@@ -1,0 +1,43 @@
+{
+  "id": "cnx-san-kamphaeng-chamcha-maiiam-loop",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "A weekend day linking Chamcha Market, selected San Kamphaeng craft stops and MAIIAM contemporary art museum east of Chiang Mai. It combines maker stalls and umbrella craft with a focused museum visit; the stops are spread out, so a car or hired driver makes the loop practical. Prioritise two or three craft stops rather than trying to cover the whole corridor.",
+  "whyGo": [
+    "Browse handmade crafts and local food at Chamcha Market beneath rain trees; the Tourism Authority of Thailand lists more than 50 shops.",
+    "See traditional umbrella making and painting at Bo Sang, with other independent craft workshops available along the San Kamphaeng road.",
+    "Finish with Thai and regional contemporary art and MAIIAM’s distinctive mirrored exterior."
+  ],
+  "bestFor": ["Craft and design shoppers", "Contemporary-art fans", "A weekend day outside Chiang Mai’s central sights"],
+  "skipIf": ["You cannot visit on a Saturday or Sunday and Chamcha is a priority", "You need a compact walkable route or confirmed step-free access throughout", "You are mainly interested in mountain scenery or outdoor adventure"],
+  "duration": "Allow most of a day, roughly 6–8 hours including transport, market browsing, selected workshops and 1.5–2 hours at MAIIAM; planning estimate. Chamcha alone is a shorter morning visit.",
+  "cost": "Chamcha has no entry charge identified in the sources reviewed; browsing and food are extra. Bo Sang umbrella viewing is listed as free, but purchases and hands-on activities cost extra. MAIIAM lists adult admission at THB 200, students THB 100 and seniors THB 150. Add private transport and meals; recheck prices before December.",
+  "hours": "Chamcha: Saturday–Sunday, 09:00–14:30 per TAT; a September 2026 market banner showed 09:00–15:00, so plan around 14:30. Bo Sang Umbrella Village: daily 08:00–17:00 per TAT. MAIIAM is shown as Friday–Monday, 10:00–18:00 on its homepage/footer; its visit page also says every day except Tuesday. Confirm directly.",
+  "bestTime": "Choose a Saturday or Sunday, reach Chamcha around 09:00, then continue east through Bo Sang or one or two preselected studios and end at MAIIAM. A morning start leaves useful slack for traffic and workshop stops.",
+  "gettingThere": "The sites lie east of Chiang Mai on separate roads and are not a practical walking circuit. Hire a car/driver or use ride-hailing between stops, agreeing on pickup and return plans. TAT estimates about 20 minutes from the Old City to Chamcha and Bo Sang; traffic and stop-to-stop times vary. MAIIAM describes a white minibus from Warorot Market for THB 15, but its service should be confirmed and it does not solve transfers between the loop stops.",
+  "booking": "No market or Bo Sang admission booking is identified. Contact any chosen workshop in advance if a demonstration or hands-on session is important. MAIIAM's visitor page lists general admission but no required reservation; check its exhibition and opening calendar before travel.",
+  "accessibility": "Access conditions are not documented for the loop as a whole. Chamcha has outdoor lanes and separate stall entrances; craft studios vary. MAIIAM lists parking but does not detail step-free routes or accessible toilets. Contact each priority venue about the specific facilities you need.",
+  "practicalTips": [
+    "Pick the workshops you most want to see and have the driver wait or return at agreed times; the craft corridor is dispersed along a busy road.",
+    "Check Chamcha's Facebook page or call 097-462-4296 before setting out, especially around holidays.",
+    "Carry some cash for small purchases and ask before photographing artisans or their work.",
+    "Confirm MAIIAM's weekly opening day and allow time to arrange the ride back; its public minibus information may not reflect a dependable current timetable."
+  ],
+  "decemberNotes": "December is outside the Bo Sang umbrella festival's usual January timing. No special December 2026 events or holiday opening exceptions were confirmed for these stops. Chamcha's regular weekend schedule is the best planning assumption, while MAIIAM's current listed exhibition ends on 30 November 2026; recheck its December programme and the chosen date's opening hours.",
+  "uncertainties": [
+    "MAIIAM's official visit page gives conflicting weekly opening information; the homepage/footer currently say Friday–Monday.",
+    "No December 2026 exhibition, holiday schedule or Chamcha holiday exception was confirmed.",
+    "Workshop participation, prices, exact operating hours and accessibility depend on the individual business; current transport fares between stops are unknown."
+  ],
+  "sources": [
+    {"title": "Tourism Authority of Thailand: Chamcha Market", "url": "https://www.thailandtravel.or.jp/chamcha-market/"},
+    {"title": "MAIIAM official visitor information", "url": "https://maiiam.com/en/visit"},
+    {"title": "MAIIAM official current exhibitions and opening notice", "url": "https://maiiam.com/en"},
+    {"title": "Tourism Authority of Thailand: Bo Sang Umbrella Village", "url": "https://www.thailandtravel.or.jp/bo-sang-umbrella-village/"},
+    {"title": "Mot Dang: Chamcha Market walk, September 2026; observed hours and photo license", "url": "https://motdang.net/markets/cm/chamcha/"},
+    {"title": "San Kamphaeng craft corridor research", "url": "https://thailandtourismdirectory.go.th/en/attraction/5187"}
+  ],
+  "images": [
+    {"url": "https://motdang.net/markets/assets/photos/chamcha-20260927-market-089.jpg", "sourceUrl": "https://motdang.net/markets/cm/chamcha/", "alt": "A lane at Chamcha Market beneath rain trees, photographed on 27 September 2026; illustrates the market stop in this loop.", "credit": "Mot Dang; individual photographer not named on the page.", "license": "CC BY 4.0, as stated on the source page."}
+  ]
+}

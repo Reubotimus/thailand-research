@@ -1,0 +1,64 @@
+{
+  "id": "bkk-som-tam",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "Seek out som tam at an Isan restaurant or a busy made-to-order stall; it is widely available across Bangkok, including Ari and Silom, but the activity record does not name a specific venue. The familiar tam Thai combines green papaya with peanuts and dried shrimp, while Isan-style versions may use fermented fish (pla ra) or pickled crab. Each shop balances sour, salty, sweet and chilli differently, so order to your heat tolerance and ask about ingredients.",
+  "whyGo": [
+    "Taste the crisp, sour-spicy contrast that makes this one of Thailand’s most recognizable salads.",
+    "Compare tam Thai with a more savoury Isan-style pla ra version, or other local variations.",
+    "Make it a shared meal with sticky rice, grilled chicken or larb rather than treating it as a side salad alone."
+  ],
+  "bestFor": [
+    "Travellers who enjoy fresh, strongly seasoned food and can adjust chilli heat",
+    "A casual lunch or dinner alongside other Isan dishes",
+    "Food-focused walks in Ari, Silom or elsewhere in Bangkok"
+  ],
+  "skipIf": [
+    "You need reliably allergen-safe preparation; recipes can include fish sauce, dried shrimp, peanuts or crab.",
+    "You cannot tolerate chilli and need a guaranteed non-spicy dish; confirm the preparation before ordering.",
+    "Raw or fermented seafood ingredients are unsuitable for you; choose tam Thai and confirm there is no cross-contact."
+  ],
+  "duration": "Allow 30–60 minutes for a casual meal; this is a planning estimate and excludes travel or a possible queue.",
+  "cost": "Plan roughly THB 60–180 for a salad at a casual stall or restaurant, before drinks and shared dishes. This is a budgeting estimate, not a verified current menu price; restaurant level, seafood and portion size affect the bill.",
+  "hours": "There is no single schedule for the dish. Street stalls may focus on lunch or evening service, while restaurants set their own hours; check the chosen venue on the day.",
+  "bestTime": "Choose a busy meal period when the papaya is likely to be freshly prepared, allowing for a short wait. Go at lunch for market and office-area stalls, or dinner at an Isan restaurant.",
+  "gettingThere": "Use a current map to choose a stall or Isan restaurant near your plans in Ari, Silom or another Bangkok neighbourhood. BTS and MRT serve parts of these areas; the final walk and best station depend on the venue.",
+  "booking": "Usually a walk-in meal, but this depends on the restaurant. No venue-specific booking or queue policy is established for this citywide activity; check directly for a larger group.",
+  "accessibility": "Access cannot be confirmed without a specific venue. Street stalls may have uneven pavements, limited seating and no accessible toilet; ask the restaurant about step-free entry and facilities if needed.",
+  "practicalTips": [
+    "For a familiar starting point, order som tam Thai (ส้มตำไทย); it commonly includes peanuts and dried shrimp and generally avoids fermented fish.",
+    "Ask for mild or little chilli (เผ็ดน้อย / phet noi); Thai heat levels vary, so this reduces heat but cannot guarantee a mild result.",
+    "Ask whether a version contains pla ra (fermented fish) or pickled crab, and disclose fish, shellfish and peanut allergies before ordering.",
+    "Add sticky rice and grilled chicken, or share with larb or nam tok; the combination makes a more substantial meal.",
+    "Have cash available for small stalls; payment options are venue-specific and unverified."
+  ],
+  "decemberNotes": "Som tam is an everyday dish rather than a seasonal event, so it should remain a useful food stop in December. No December 2026 venue schedule or holiday opening was verified; confirm hours for any specific stall or restaurant around Christmas and New Year.",
+  "uncertainties": [
+    "No particular Bangkok som tam venue, current menu price, operating hours or holiday schedule is specified by this activity record.",
+    "Spice, fish sauce, fermented fish, crab and allergen practices vary by vendor; dietary suitability must be confirmed when ordering.",
+    "Queue times, payment options and step-free access depend on the chosen venue."
+  ],
+  "sources": [
+    {
+      "title": "MICHELIN Guide: Decoding Som Tam, Thailand’s Delicious Papaya Salad (styles, ingredients and accompaniments)",
+      "url": "https://guide.michelin.com/en/article/features/decoding-the-delicious-som-tam"
+    },
+    {
+      "title": "MICHELIN Guide: How to Make Som Tum, the Famous Thai Papaya Salad (tam Thai and fermented-fish distinction)",
+      "url": "https://guide.michelin.com/th/en/article/dining-in/how-to-make-som-tum-thai-papaya-salad-like-a-michelin-restaurant"
+    },
+    {
+      "title": "Wikimedia Commons: Som Tam green papaya salad, Bangkok, Thailand (image and license details)",
+      "url": "https://commons.wikimedia.org/wiki/File:Som_Tam_green_papaya_salad,_Bangkok,_Thailand.jpg"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Som_Tam_green_papaya_salad%2C_Bangkok%2C_Thailand.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Som_Tam_green_papaya_salad,_Bangkok,_Thailand.jpg",
+      "alt": "Som tam green papaya salad photographed in Bangkok in 2008; representative dish, not a specific current restaurant serving.",
+      "credit": "Vyacheslav Argenberg / Wikimedia Commons",
+      "license": "CC BY 4.0 https://creativecommons.org/licenses/by/4.0/"
+    }
+  ]
+}

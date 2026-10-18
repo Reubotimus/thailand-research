@@ -1,0 +1,65 @@
+{
+  "id": "bkk-rattanakosin-exhibition-hall",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "An interactive, air-conditioned introduction to Rattanakosin-era Bangkok, with nine themed rooms using models, multimedia and simulations. The historic-district location makes it easy to pair with Loha Prasat, the Golden Mount or Democracy Monument.",
+  "whyGo": [
+    "Get useful historical context before visiting the Old City's palaces and temples.",
+    "The exhibits mix architecture, ceremonies, entertainment and community history with hands-on media.",
+    "The upper-floor Sky View looks toward Loha Prasat, Mahakan Fort and the Golden Mount."
+  ],
+  "bestFor": [
+    "First-time visitors seeking an overview of Bangkok's historic core.",
+    "Families and museum-goers who enjoy interactive exhibits.",
+    "A hot-weather indoor stop within a walkable Old City day."
+  ],
+  "skipIf": [
+    "You have limited time and want a short, self-guided museum: three rooms require a scheduled guided route.",
+    "You need confirmed English-language guiding; the current official pages do not specify tour languages."
+  ],
+  "duration": "Allow about 2 hours for one guided route or 4 hours for both; the full nine-room tour is split into two routes. The venue's FAQs say other rooms can be viewed freely.",
+  "cost": "Official listed admission is ฿100 for non-Thai visitors and ฿70 for Thai visitors. Some groups qualify for free entry; the venue also advertises free admission on selected 2026 royal commemorative days and National Children's Day, but check the dated notice before relying on it.",
+  "hours": "Tuesday–Sunday, 09:00–17:00, including public holidays; closed Mondays. Guided tours start every 30 minutes from 09:30 to 15:00. Last entry for one route is 15:00; enter by 13:00 to do both.",
+  "bestTime": "Arrive in the morning to secure a preferred tour and leave time for nearby temples. Saturdays and Sundays also have youth performances listed from 12:00–13:30; confirm the current schedule.",
+  "gettingThere": "At 100 Ratchadamnoen Klang Road. The venue lists frequent bus routes and the Saen Saep canal boat to Phan Fa Lilat Pier, about 350 m away. It recommends a taxi from MRT Sam Yot (about 1 km); the official directions also suggest connecting to the canal boat from MRT Asok or BTS Ratchathewi. Traffic can make a taxi slow. On-site parking is limited, especially weekends.",
+  "booking": "Individual visitors can join the next available tour; book tickets at the venue. Groups should arrange guided tours in advance by calling +66 2 621 0044 ext. 131, Tuesday–Friday during opening hours. Tour times may change. Call +66 2 621 0044 to ask about English-language tours and December schedules.",
+  "accessibility": "The venue says every exhibition room has ramp access, lifts are available, wheelchair service can be requested at the information counter, and accessible toilets are on each floor. Confirm any specific access needs directly before visiting.",
+  "practicalTips": [
+    "Choose a tour time early: a full visit needs entry before 13:00, while one route needs entry by 15:00.",
+    "Use the official bus or boat directions; the museum advises public transport, and weekend parking is limited.",
+    "Pair it with nearby Loha Prasat or the Golden Mount for a broader Rattanakosin day."
+  ],
+  "decemberNotes": "The museum is normally open on public holidays when they fall Tuesday–Sunday, but closes Mondays. Its official site advertises free entry on selected royal commemorative days during 2026; the post does not enumerate all applicable dates, so check the venue's news page or call before planning around a December date. No December 2026 special schedule was confirmed.",
+  "uncertainties": [
+    "Official English pages do not identify the languages available on guided tours; ask before arrival if you need an English guide.",
+    "The 2026 commemorative-day free-entry notice does not provide a complete date list in the accessible announcement text.",
+    "Admission, schedules, transport routes and accessibility arrangements may change before December 2026."
+  ],
+  "sources": [
+    {
+      "title": "Nitasrattanakosin official FAQ",
+      "url": "https://www.nitasrattanakosin.com/en/faq/"
+    },
+    {
+      "title": "Nitasrattanakosin official tour and facilities information",
+      "url": "https://www.nitasrattanakosin.com/en/detail/"
+    },
+    {
+      "title": "Nitasrattanakosin official contact and transport directions",
+      "url": "https://www.nitasrattanakosin.com/en/contact-us/"
+    },
+    {
+      "title": "Nitasrattanakosin 2026 commemorative-day admission notice",
+      "url": "https://www.nitasrattanakosin.com/en/fathers-day-and-national-day/"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.nitasrattanakosin.com/wp-content/uploads/2024/03/viewpoint-1-scaled.jpg",
+      "sourceUrl": "https://www.nitasrattanakosin.com/en/viewpoint/",
+      "alt": "View from the Rattanakosin Sky View toward historic Bangkok landmarks.",
+      "credit": "Nitasrattanakosin official website",
+      "license": "Permission not established; linked reference"
+    }
+  ]
+}

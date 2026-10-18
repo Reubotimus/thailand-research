@@ -1,0 +1,46 @@
+{
+  "id": "bkk-nakhon-pathom-phra-pathom-chedi",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "An easy rail day trip from Bangkok for Thailand’s enormous, gilded Phra Pathom Chedi, its surrounding temple buildings and local food. The central temple is near Nakhon Pathom station; check train times and temple details again before travel.",
+  "whyGo": [
+    "See the 120.5-metre bell-shaped stupa and the standing Phra Ruang Rochanarit image.",
+    "Combine temple grounds with a museum visit when open and snacks or dinner at the nearby evening market."
+  ],
+  "bestFor": ["A low-effort history and architecture day trip", "Visitors interested in Buddhist sites and local food"],
+  "skipIf": ["You need step-free routes or confirmed accessible toilets; these are not documented in the official listing.", "You want a tightly scheduled rail trip without checking same-day return connections."],
+  "duration": "Allow 5–7 hours door-to-door from Bangkok as a planning estimate, including roughly one hour each way by train, transfer/wait time and 1–3 hours at the temple and in town.",
+  "cost": "Temple admission is listed as 60 baht for foreign visitors by the current TAT attraction page. SRT lists special feeder fare of 20 baht via Taling Chan, 14 baht adult from Hua Lamphong and 10 baht adult from Thonburi; fares and availability may change. Food and local transfers extra.",
+  "hours": "TAT lists the temple as open daily 06:00–19:00 Monday–Friday and 06:00–20:00 weekends, with a 60-baht foreign visitor fee. Museum hours are not stated; confirm locally.",
+  "bestTime": "Go early or late in the day to avoid the strongest sun and see the chedi in softer light. December dates fall after the annual fair’s usual November lunar-calendar period, but confirm the 2026 dates if the fair is a priority.",
+  "gettingThere": "SRT says trains serve Nakhon Pathom from Krung Thep Aphiwat via Red Line to Taling Chan and transfer, Hua Lamphong, or Thonburi; TAT estimates about one hour from Thonburi. The temple is in the town centre near the station; allow for a short walk or local taxi/songthaew and verify the route on arrival. Driving via Phetchakasem Road or Borommaratchachonnani Road is another option.",
+  "booking": "No temple reservation is indicated. Check SRT’s live timetable and ticket rules shortly before travel; the timetable page is interactive and schedules can change.",
+  "accessibility": "TAT lists parking and restrooms but gives no step-free access, lift, wheelchair route or accessible restroom details. The temple complex is large and includes stairs at some shrines; ask staff about the route available on the day.",
+  "practicalTips": [
+    "Wear clothing covering shoulders and knees, remove shoes when entering shrine interiors, and keep voices low; follow signs and worshippers’ lead.",
+    "Carry water and sun protection for the open courtyards; wear shoes that are easy to remove.",
+    "Leave flexibility around the rail connection and check the last suitable return train before setting out.",
+    "The nearby night market is known for local food; opening details and vendor selection can vary by day."
+  ],
+  "decemberNotes": "The temple’s daily hours are listed by TAT, but no December closure notice or 2026 event schedule was found. The annual fair is tied to the Thai lunar calendar and is usually in November; do not assume it falls in December. Reconfirm current admission, access and SRT service before departure.",
+  "uncertainties": [
+    "TAT’s official Thai listing gives foreign admission as 60 baht; older English TAT material lists 40 baht, so confirm the current fee at the entrance.",
+    "The 2026 rail timetable, fares, specific train departures and December service changes need checking close to travel.",
+    "Step-free access, mobility assistance, museum opening hours and exact 2026 fair dates are not confirmed in the sources consulted."
+  ],
+  "sources": [
+    {"title": "Tourism Authority of Thailand: Wat Phra Pathom Chedi Ratchaworamahawihan", "url": "https://www.tourismthailand.org/Attraction/wat-phra-pathom-chedi-ratchaworamahawihan"},
+    {"title": "State Railway of Thailand: Travelling to Nakhon Pathom", "url": "https://www.railway.co.th/Service/Passenger_detail?value1=0049613716F4864B9ED01F76DB703841020000009358655FD528AECF38506342F81365BD3C9908A3D9005047DD976B8353507548&value2=0049613716F4864B9ED01F76DB7038410200000068BCD47108B96FB6368C67302B16422FDC466F9B87022D3B94223CFC62D7462E"},
+    {"title": "SRT Timetable Matrix 2026", "url": "https://ttsview.railway.co.th/timetable_modern.php?line=1&ln=en&trip=1"},
+    {"title": "Wikimedia Commons: Phra Pathom Chedi2.jpg", "url": "https://commons.wikimedia.org/wiki/File:Phra_Pathom_Chedi2.jpg"}
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Phra_Pathom_Chedi2.jpg/960px-Phra_Pathom_Chedi2.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phra_Pathom_Chedi2.jpg",
+      "alt": "Phra Pathom Chedi and temple approach in Nakhon Pathom.",
+      "credit": "ScorpianPK / Wikimedia Commons",
+      "license": "CC BY-SA 3.0"
+    }
+  ]
+}

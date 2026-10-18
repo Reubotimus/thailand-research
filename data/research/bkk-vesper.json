@@ -1,0 +1,64 @@
+{
+  "id": "bkk-vesper",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "Vesper is an established, polished cocktail bar on Convent Road in Silom, with a seasonal drinks menu, classics and small plates. It works well as a deliberate evening stop or a starting point for Silom nightlife.",
+  "whyGo": [
+    "The menu balances recognizable classics with inventive seasonal drinks; the current menu includes a Vesper martini and a British-seasons themed selection.",
+    "A useful central-Silom location near Sala Daeng BTS and Si Lom MRT makes it easy to combine with dinner or nearby nightlife."
+  ],
+  "bestFor": [
+    "Cocktail-focused evenings, date nights, and small groups who enjoy a refined, intimate bar setting.",
+    "Visitors who want both alcoholic and zero-alcohol drinks; the current menu lists several 0% options."
+  ],
+  "skipIf": [
+    "You want a casual, inexpensive bar, a guaranteed table, or a venue with a relaxed dress policy.",
+    "You need step-free access or detailed accessibility information; none was confirmed in the sources checked."
+  ],
+  "duration": "Allow about 1–2 hours for a drink and a small plate; this is a planning estimate, not a venue limit.",
+  "cost": "Current menu examples are THB 440–690 for cocktails, THB 240–320 for listed zero-alcohol drinks, and THB 240–990 for small plates. Budget roughly THB 500–1,000 per person for one or two drinks before any applicable service charge or tax; confirm the final bill and current menu at the venue.",
+  "hours": "Official hours: daily 6:30 pm–2:00 am, last order 1:30 am. Check the official hours page again near your visit for holiday changes.",
+  "bestTime": "Arrive near opening for a better chance of choosing a seat. Late evenings can be busier; this is a practical inference, not a published forecast.",
+  "gettingThere": "Address: 10/15 Convent Road, Silom, Bangkok 10500. Take the BTS Silom Line to Sala Daeng or the MRT Blue Line to Si Lom, then walk to Convent Road. Taxis and ride-hailing can drop you nearby; traffic in Silom can be slow at peak times. The venue lists parking at Liberty Square.",
+  "booking": "The official house policy says Vesper is walk-in only and does not take reservations. When full, the venue requires at least one drink per person per hour. For a group or a holiday evening, arrive early and check the venue’s official channels before setting out.",
+  "accessibility": "No reliable published information on step-free entry, accessible toilets, or other mobility access was found. Contact the venue directly if access needs affect your visit.",
+  "practicalTips": [
+    "Dress smart casual; slippers and athletic wear are not allowed, and entry may be refused for unsuitable attire.",
+    "Bring identification; Thailand’s legal drinking age is 20.",
+    "Check the menu and house rules on Vesper’s official website shortly before visiting, as hours and offerings can change.",
+    "If you do not drink alcohol, the current official menu lists zero-alcohol cocktails and kombucha."
+  ],
+  "decemberNotes": "December is a popular travel period and Christmas/New Year evenings may be especially busy; this is a planning assumption, not a confirmed Vesper event calendar. Since the bar is walk-in only, go early and verify opening hours and any holiday closure notices shortly before your date. No specific December 2026 event was confirmed.",
+  "uncertainties": [
+    "December 2026 opening hours, menu prices, taxes/service charge, and holiday operating dates may change.",
+    "Accessibility details were not available from the official pages reviewed.",
+    "A Time Out image reference is included for visual identification; reuse permission is not established."
+  ],
+  "sources": [
+    {
+      "title": "Vesper official hours and address",
+      "url": "https://www.vesperbar.co/hours"
+    },
+    {
+      "title": "Vesper official house policy",
+      "url": "https://www.vesperbar.co/housepolicy"
+    },
+    {
+      "title": "Vesper official drinks and food menu",
+      "url": "https://www.vesperbar.co/_files/ugd/a7e7ff_ebd0ec311fa44849b545a30d2ab0f375.pdf"
+    },
+    {
+      "title": "Time Out Bangkok: Vesper",
+      "url": "https://www.timeout.com/bangkok/bars/vesper"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://media.timeout.com/images/105868706/1536/864/image.jpg",
+      "sourceUrl": "https://www.timeout.com/bangkok/bars/vesper",
+      "alt": "Interior of Vesper cocktail bar, showing its intimate lounge seating and bar counter.",
+      "credit": "Time Out Bangkok / Vesper (as credited or presented on the source page)",
+      "license": "Permission not established; linked reference"
+    }
+  ]
+}

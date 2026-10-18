@@ -1,0 +1,60 @@
+{
+  "id": "bkk-santichaiprakarn-park",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "A compact riverside park in Banglamphu, set around Phra Sumen Fort and the Santichaiprakarn Throne Hall. It is a free, easy stop for river views, a quiet pause from nearby Phra Athit Road, and sunset light over the Chao Phraya.",
+  "whyGo": [
+    "See a rare surviving piece of Bangkok's old riverside defenses beside a landscaped public park.",
+    "Sit by the river with views toward Rama VIII Bridge, especially in late afternoon.",
+    "Combine it with Phra Athit Road, Banglamphu and the nearby Khao San area on foot."
+  ],
+  "bestFor": [
+    "A low-cost outdoor break, riverside photographs and a short sunset stop.",
+    "Visitors staying around Banglamphu who want a local neighborhood park rather than a formal attraction."
+  ],
+  "skipIf": [
+    "You want a large garden, extensive shade or a full fort museum visit; this is a small urban park and interior access to the fort is not confirmed.",
+    "You need step-free access throughout: the available official listing confirms an accessible toilet, but does not describe route surfaces or access to all areas."
+  ],
+  "duration": "Allow 30–60 minutes; this is a planning estimate, with longer possible if you stay for sunset or pair it with a Banglamphu walk.",
+  "cost": "Free park entry; the Bangkok public-space listing reports no site-use charge. Budget separately for transport or food nearby.",
+  "hours": "The Bangkok Metropolitan Administration public-space listing states daily 05:00–21:00. Check locally for temporary closures or event restrictions before a special visit.",
+  "bestTime": "Late afternoon through sunset for softer light and river views. Morning is a cooler option for a quiet walk. December is generally a more comfortable time for outdoor sightseeing in Bangkok, though it remains warm.",
+  "gettingThere": "Use Chao Phraya Express Boat to Phra Athit pier, listed by BMA as the closest pier, then walk to the park. BMA also lists bus routes 3, 6, 9, 15, 30, 32, 43, 44, 53, 82, A4, S1, 4-35 and 4-69. There is no car park listed; allow extra time for road traffic.",
+  "booking": "No booking is indicated for an ordinary visit. The park is free; BMA says organized use of the grounds is subject to the managing authority.",
+  "accessibility": "BMA lists one public toilet with one accessible toilet. It does not publish details about step-free entrances, path gradients, riverside barriers or seating access. There is no car park on the official listing. Contact the managing Saranrom Park office for current access details before relying on a fully step-free visit.",
+  "practicalTips": [
+    "The riverside edge is open; keep children close and take care near the water, particularly after dark.",
+    "Bring water and mosquito repellent if staying into the evening.",
+    "The park can host public ceremonies and events, so access or crowd levels may change on particular dates."
+  ],
+  "decemberNotes": "The park's published regular hours cover December 2026, but no dated December 2026 event or special closure information was found. Recheck the BMA listing or managing office close to the visit. Sunset visits are seasonal planning advice, not a scheduled program.",
+  "uncertainties": [
+    "No official December 2026 event calendar or temporary closure notice was available in the reviewed sources.",
+    "The official park information does not clarify whether visitors may enter Phra Sumen Fort or the Throne Hall interiors.",
+    "The official listing confirms one accessible toilet but gives no comprehensive mobility-access information."
+  ],
+  "sources": [
+    {
+      "title": "Bangkok Metropolitan Administration Public Space Platform — Santichaiprakan Public Park",
+      "url": "https://publicspace.bangkok.go.th/Spaces/Info/FD255A46-1558-48DA-9F02-479451BE4308"
+    },
+    {
+      "title": "Tourism Authority of Thailand — 1 Day at Banglamphu",
+      "url": "https://www.tourismthailand.org/Articles/1-day-at-banglamphu"
+    },
+    {
+      "title": "Wikimedia Commons — Santichaiprakan Throne Hall at golden hour",
+      "url": "https://commons.wikimedia.org/wiki/File:Bangkok_-_Santichaiprakarn_Throne_Hall_at_golden_hour_Jan_2024.jpg"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Bangkok_-_Santichaiprakarn_Throne_Hall_at_golden_hour_Jan_2024.jpg/960px-Bangkok_-_Santichaiprakarn_Throne_Hall_at_golden_hour_Jan_2024.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bangkok_-_Santichaiprakarn_Throne_Hall_at_golden_hour_Jan_2024.jpg",
+      "alt": "Santichaiprakarn Throne Hall in the park at golden hour",
+      "credit": "Dominic Nelson",
+      "license": "CC BY-SA 4.0"
+    }
+  ]
+}

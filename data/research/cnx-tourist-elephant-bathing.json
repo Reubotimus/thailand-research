@@ -1,0 +1,55 @@
+{
+  "id": "cnx-tourist-elephant-bathing",
+  "researchedAt": "2026-10-18",
+  "status": "partial",
+  "summary": "Avoid tourist elephant bathing in Chiang Mai, including programs promoted as ethical, rescue, or sanctuary experiences. World Animal Protection’s 2026 assessment says washing requires elephants to interact with unfamiliar visitors under human control; close-contact programs rely on restraint and training that prevent elephants choosing whether to participate. This is a category-level recommendation, not a finding about one named operator. Choose hands-off observation instead, or skip captive elephant tourism.",
+  "whyGo": [],
+  "bestFor": [],
+  "skipIf": [
+    "Skip this activity if you want to support high-welfare wildlife tourism: bathing requires direct contact and controlled interaction with a powerful wild animal.",
+    "Skip any venue that advertises washing, bathing, touching, riding, or close-up selfies, even when it uses words such as ‘sanctuary’ or ‘rescue’.",
+    "Skip if you are uncomfortable with captive elephant tourism; World Animal Protection says seeing elephants in the wild has the least impact."
+  ],
+  "duration": "No duration can be responsibly given: the registry names no venue or tour, and bathing activities vary by operator. Do not build a December itinerary around an unspecified tour.",
+  "cost": "No reliable current price is verified for this generic activity. Avoid booking or paying for a bathing experience; any Chiang Mai quote would need to be checked with a named operator, and a low price would not resolve the welfare concern.",
+  "hours": "No venue or operating schedule is identified. Do not assume daily availability or a particular bathing time from third-party listings.",
+  "bestTime": "There is no recommended season for elephant bathing. In December, choose a hands-off observation visit if you decide to see captive elephants, after checking current practices and availability; otherwise leave the activity out.",
+  "gettingThere": "No operator or location is specified, so directions, pickup, road time, and public-transport options cannot be verified. Chiang Mai elephant venues are operator-specific and may be outside the city; do not travel based on a generic bathing listing.",
+  "booking": "Do not book a bathing or washing experience. World Animal Protection’s 2026 guide lists Chiang Mai venues following its elephant-friendly guidelines and recommends look-not-touch visits; check the live guide close to travel, then confirm directly that the specific program has no bathing, touching, riding, or hand-feeding.",
+  "accessibility": "No venue is named, so access, transport, toilets, seating, and path conditions are unknown. For a hands-off alternative, ask the selected operator about vehicle access and terrain before booking; do not assume an elephant venue is accessible.",
+  "practicalTips": [
+    "World Animal Protection assessed 2,849 elephants at 236 Thai tourism venues during February 2024–January 2025; its January 2026 report says 69% were in poor or unacceptable conditions and 54% were used in washing or caretaking activities.",
+    "The organization says bathing experiences deny elephants choice and require direct contact under human control; its guidance is to look, not touch. A ‘sanctuary’ label does not establish welfare standards.",
+    "For an alternative, screen venues using the 2026 guide: elephants should be able to roam, forage and socialise without chains or forced tourist contact. Observation-only is a useful screening criterion, not proof that every aspect of care is good.",
+    "Elephants remain powerful and unpredictable animals; close contact also presents risk to visitors and handlers. Follow venue safety instructions and keep distance during any observation visit."
+  ],
+  "decemberNotes": "No December 2026 schedule or named operator was identified. December timing does not change the welfare recommendation. If choosing a hands-off alternative, confirm operating dates, current itinerary, transport, access needs, price and cancellation terms directly; venue practices and published guide listings can change.",
+  "uncertainties": [
+    "The activity record is not tied to a specific Chiang Mai operator, so location, duration, hours, price, booking terms, transport, and accessibility cannot be verified.",
+    "World Animal Protection’s 2026 industry assessment covers venues visited between February 2024 and January 2025; it describes broad patterns and does not establish a finding about every individual operator.",
+    "The recommended alternative guide was updated in December 2025; recheck venue status and the exact program before December 2026 travel."
+  ],
+  "sources": [
+    {
+      "title": "World Animal Protection: New report finds that two out of three captive elephants used in tourism live in poor conditions (12 January 2026)",
+      "url": "https://www.worldanimalprotection.org/latest/press-releases/new-report-finds-that-two-out-of-three-captive-elephants-used-in-tourism-live-in-poor-conditions/"
+    },
+    {
+      "title": "World Animal Protection: Captive elephants still suffering in Thailand, but new report finds some hope (12 January 2026)",
+      "url": "https://www.worldanimalprotection.org/latest/news/captive-elephants-thailand-tourism-welfare-report-2026/"
+    },
+    {
+      "title": "World Animal Protection: Elephant friendly tourist guide 2026 (venue guide updated December 2025)",
+      "url": "https://www.worldanimalprotection.org/our-campaigns/wildlife/commercial-exploitation/travel-tourism/elephant-friendly-tourist-guide/"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.worldanimalprotection.org/cdn-cgi/image/width%3D800%2Cformat%3Dauto%2Cfit%3Dcover/siteassets/images/tourism/captive-elephants-thailand-bred_to_entertain_report.jpg",
+      "sourceUrl": "https://www.worldanimalprotection.org/latest/press-releases/new-report-finds-that-two-out-of-three-captive-elephants-used-in-tourism-live-in-poor-conditions/",
+      "alt": "Captive elephants at a Thailand tourism venue used for attractions such as washing and bathing; illustrative industry image, not a named Chiang Mai operator.",
+      "credit": "World Animal Protection",
+      "license": "Permission not established; linked reference."
+    }
+  ]
+}

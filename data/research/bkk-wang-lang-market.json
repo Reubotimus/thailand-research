@@ -1,0 +1,65 @@
+{
+  "id": "bkk-wang-lang-market",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "Wang Lang is a compact, busy market beside Siriraj Hospital and the Chao Phraya on Bangkok’s Thonburi bank. Its narrow lanes are best for grazing on Thai snacks and inexpensive meals, with clothing and everyday goods as a secondary draw. The river ferry makes it an easy add-on to the Grand Palace side of town.",
+  "whyGo": [
+    "Sample a broad range of local snacks and casual food in a working neighbourhood market.",
+    "Cross the river by local ferry and pair the visit with Tha Maharaj, Tha Chang or Tha Phra Chan.",
+    "Browse modest clothing and household stalls alongside food vendors."
+  ],
+  "bestFor": [
+    "Curious eaters who enjoy informal street food and crowded local lanes.",
+    "Visitors already exploring the river or Grand Palace area."
+  ],
+  "skipIf": [
+    "You need a spacious, quiet or air-conditioned market experience.",
+    "Crowds, uneven walking surfaces or close-quarters motorbike and cart traffic are difficult for you."
+  ],
+  "duration": "Allow 1–2 hours for a snack-focused browse and meal; this is a planning estimate.",
+  "cost": "No admission fee is listed. Budget for what you eat or buy and your transport; individual stall prices vary, and no current market-wide price list was found. The pier operator lists the cross-river ferry at THB 4.50 per crossing (check locally for changes).",
+  "hours": "A current travel directory lists daily 09:00–18:00, while noting that many stalls start packing up in early afternoon. This is not a unified market schedule; individual traders vary.",
+  "bestTime": "Go in the morning, ideally before lunch, when more food stalls are active and the lanes are generally less congested than at the midday peak.",
+  "gettingThere": "The simplest scenic approach is the cross-river ferry to Wang Lang from Tha Chang, Tha Phra Chan or Tha Maharaj. The pier operator currently lists Wang Lang–Tha Phra Chan and Wang Lang–Tha Chang services 06:00–19:00, and Wang Lang–Tha Maharaj 09:00–21:00; it lists THB 4.50 fare. Chao Phraya Express Boat also serves the nearby Wang Lang/Siriraj pier. Confirm route and departure at the pier before boarding.",
+  "booking": "No booking is needed for market browsing or the public cross-river ferries. Buy a ticket at the pier; private boat services are separate.",
+  "accessibility": "The narrow market lanes can be crowded and obstructed, so wheelchair and stroller access may be challenging. A continuous step-free route, accessible toilets and ferry boarding assistance were not verified; ask pier staff about boarding conditions before crossing.",
+  "practicalTips": [
+    "Carry small cash and choose food from busy stalls with a high turnover.",
+    "Bring a translation app; many small vendors may not use English.",
+    "Keep bags close and avoid stopping in the narrowest parts of the lane.",
+    "Check ferry destination signs and service times at the pier, especially late in the day."
+  ],
+  "decemberNotes": "December is a practical month for daytime market browsing, though the lanes can still feel hot and crowded. No special December 2026 market schedule or holiday closure notice was found; verify locally if visiting around year-end.",
+  "uncertainties": [
+    "Market hours are reported by a travel directory rather than a market-wide operator, and individual stall schedules differ.",
+    "Ferry times and the listed fare come from the pier operator and may change before December 2026.",
+    "Accessible routes, toilets and stall prices were not confirmed."
+  ],
+  "sources": [
+    {
+      "title": "Tourism Authority of Thailand: Wang Lang Market",
+      "url": "https://www.tourismthailand.org/Attraction/wang-lang-market-2"
+    },
+    {
+      "title": "Tha Wang Lang pier: ferry service and fares",
+      "url": "https://www.thawanglang.com/boat"
+    },
+    {
+      "title": "Visit Thailand Today: Wang Lang Market (hours and market details)",
+      "url": "https://www.visitthailandtoday.com/markets-shopping/bangkok/wang-lang-market"
+    },
+    {
+      "title": "Wikimedia Commons: Street food at Wang Lung",
+      "url": "https://commons.wikimedia.org/wiki/File:Street_food_at_Wang_Lung.jpg"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Street_food_at_Wang_Lung.jpg/960px-Street_food_at_Wang_Lung.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Street_food_at_Wang_Lung.jpg",
+      "alt": "Street food stalls at Wang Lang Market, photographed in September 2018",
+      "credit": "Sry85 / Wikimedia Commons",
+      "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  ]
+}

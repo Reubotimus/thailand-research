@@ -1,0 +1,64 @@
+{
+  "id": "bkk-moo-ping",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "Moo ping (หมูปิ้ง) is marinated pork grilled on skewers, commonly eaten with sticky rice. Treat it as a flexible Bangkok street-food stop rather than a single venue: carts and market stalls vary by neighborhood and day.",
+  "whyGo": [
+    "A quick, inexpensive taste of everyday Thai breakfast culture, often cooked over charcoal in front of you.",
+    "Order sticky rice alongside the skewers; some sellers also offer a spicy jaew dipping sauce. Marinades and sweetness vary by stall."
+  ],
+  "bestFor": [
+    "Early risers looking for a portable breakfast or snack.",
+    "Travelers who want to sample several small street-food portions while walking a market or BTS-side neighborhood."
+  ],
+  "skipIf": [
+    "You avoid pork or need a reliably vegetarian, halal, allergen-controlled, or low-sugar meal; recipes and cross-contact vary and are rarely labeled.",
+    "You need seating, a fixed address, or confirmed opening hours."
+  ],
+  "duration": "Allow 10–20 minutes for a simple stop; this is a planning estimate and excludes market browsing or queues.",
+  "cost": "Use roughly ฿10–15 per skewer plus ฿5–10 for sticky rice as a current planning estimate, not a guaranteed menu price; portion size and location vary.",
+  "hours": "No single set of hours. Morning is the most dependable window for street carts; availability varies by stall, market, weekday, and weather. Arrive early and have a backup breakfast nearby.",
+  "bestTime": "Try it at breakfast, roughly 6:00–10:00 as a planning window. December is generally a comfortable season for walking, but Bangkok remains warm; choose a freshly grilled batch and eat promptly.",
+  "gettingThere": "Choose a nearby morning market or busy BTS-side street rather than making a cross-city trip for an unspecified cart. Walk from the nearest BTS/MRT stop or use a taxi or ride-hail for the last stretch; exact access depends on the stall.",
+  "booking": "No booking is needed for ordinary carts. Carry small Thai baht notes or coins; confirm the price and number of skewers before ordering if no menu is displayed.",
+  "accessibility": "Street stalls may have no seating, uneven or crowded pavements, smoke, and limited step-free access. Takeaway is usually the practical option, but facilities depend on the market or venue.",
+  "practicalTips": [
+    "Ask for moo ping and khao niao (sticky rice); point to the skewers if pronunciation is difficult.",
+    "Check whether the meat is being grilled through and served hot. Avoid skewers that have been sitting unrefrigerated for a long time.",
+    "Sweet marinades may contain soy, fish sauce, milk, or other ingredients; ask the vendor directly if allergies matter, recognizing that recipes and cross-contact are uncertain.",
+    "For a more specific late-night option, Time Out lists Moo Ping Hea Owen on Soi Convent with historical hours of 22:30–03:00; reconfirm locally before going because the listing is from 2019."
+  ],
+  "decemberNotes": "No December-only event or seasonal service is established for this dish. In December 2026, treat it as ordinary street food and check the chosen market or vendor close to the visit; temporary closures and holiday trading hours are stall-specific.",
+  "uncertainties": [
+    "There is no single authoritative vendor, address, price list, or schedule for moo ping across Bangkok; quoted prices and hours are indicative and should be checked on site.",
+    "The Soi Convent listing is an older fixed-vendor reference and may have changed.",
+    "No specific December 2026 opening or holiday schedule has been published for the general dish."
+  ],
+  "sources": [
+    {
+      "title": "Mu ping — Wikipedia (dish description and common serving context)",
+      "url": "https://en.wikipedia.org/wiki/Mu_ping"
+    },
+    {
+      "title": "Bangkok Street Food Guide for First-Time Orderers — About Travel (price estimate)",
+      "url": "https://about.travel/thailand/bangkok/bangkok-street-food-guide/"
+    },
+    {
+      "title": "Moo Ping Hea Owen — Time Out Bangkok (vendor reference; listing dated 2019)",
+      "url": "https://www.timeout.com/bangkok/restaurants/moo-ping-hea-owen"
+    },
+    {
+      "title": "File:Mu ping.jpg — Wikimedia Commons (author and license)",
+      "url": "https://commons.wikimedia.org/wiki/File:Mu_ping.jpg"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Mu_ping.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mu_ping.jpg",
+      "alt": "Thai-style grilled pork skewers, representative moo ping; not a Bangkok vendor-specific image.",
+      "credit": "Phoebus 28 / Wikimedia Commons",
+      "license": "CC BY-SA 4.0"
+    }
+  ]
+}

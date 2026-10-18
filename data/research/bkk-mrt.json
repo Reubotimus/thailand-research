@@ -1,0 +1,49 @@
+{
+  "id": "bkk-mrt",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "Bangkok’s 48 km MRT Blue Line makes a useful cross-city loop through Chinatown, the historic centre, Silom/Sukhumvit, Chatuchak and the main rail terminal. It is especially handy where the BTS does not reach, though it does not serve either airport directly.",
+  "whyGo": [
+    "Reach Wat Mangkon for Yaowarat, Sanam Chai for Museum Siam and the Wat Pho/Grand Palace area, and Chatuchak Park or Kamphaeng Phet for the weekend market.",
+    "Avoid unpredictable road traffic for longer journeys across central Bangkok; transfer to BTS at Sukhumvit/Asok or Si Lom/Sala Daeng, and to the Purple Line at Tao Poon."
+  ],
+  "bestFor": ["Independent city exploring", "Chinatown and Old Town visits", "Connecting between central districts and Krung Thep Aphiwat rail terminal"],
+  "skipIf": ["Your destination is close to a BTS station and the MRT interchange would add a detour", "You expect a direct train to Suvarnabhumi or Don Mueang airport"],
+  "duration": "Allow 15–45 minutes for a typical cross-city ride, plus station access and interchange time; this is a planning estimate and varies by origin, destination and wait.",
+  "cost": "Distance-based single fares. Current 2026 fare reporting puts ordinary adult trips around ฿17–44; BEM provides a live fare calculator, so check the exact trip before travel. Each passenger needs a separate fare. The MRT and BTS use separate fare systems.",
+  "hours": "BEM lists Blue Line service daily from 06:00 to midnight, with trains averaging no more than 7 minutes apart normally and 4 minutes during listed peaks. First and last departures differ by station and direction; BEM’s live timetable asks passengers to arrive at least five minutes before the final train.",
+  "bestTime": "Use it whenever it saves a road journey. For a less crowded ride, avoid weekday peaks (07:00–09:00 and 16:30–19:30); check weekend and holiday operating notices for December outings.",
+  "gettingThere": "Enter at the station nearest your destination and follow Blue Line signs. Useful stops include Wat Mangkon (Chinatown), Sam Yot/Sanam Chai (Old Town), Sukhumvit (BTS Asok interchange), Si Lom (BTS Sala Daeng), Chatuchak Park and Bang Sue/Krung Thep Aphiwat. For Suvarnabhumi, Airport Rail Link trains run to Makkasan, linked to MRT Phetchaburi by a signed pedestrian walkway; allow time for the walk and transfer. Don Mueang has no direct Blue Line connection; use a separate airport bus, taxi or rail connection.",
+  "booking": "No advance booking is needed. As of the 2026 transition, BEM says old MRT/MRT Plus stored-value cards were discontinued from 1 June. Use a single-journey token or an eligible contactless EMV card: Visa or Mastercard credit cards from domestic or international banks are accepted; debit-card eligibility is limited to listed Thai issuers. Tap the same card at entry and exit, one card per passenger. Keep a backup payment method and check BEM’s current rules before travel.",
+  "accessibility": "BEM lists lifts with Braille and wheelchair-height call buttons, ramps at lift entrances/exits, accessible toilets with emergency call buttons, and wheelchair-height fare gates at stations. Its dedicated street-to-concourse lifts are specifically listed at only three Purple Line stations, so that detail does not establish step-free street access at every Blue Line station. Confirm the route and elevator status with BEM (MRT information centre 0-2624-5200) before relying on a step-free journey.",
+  "practicalTips": [
+    "Check the station name and exit for the specific attraction; large stations and Old Town street crossings can add walking time.",
+    "For a late return, check the station-specific last-train time in BEM’s journey planner on the day; the system-wide midnight closing time is not the last departure from every platform.",
+    "If using a bank card, tap the physical card consistently at entry and exit; do not mix it with the same card in a phone wallet during one trip.",
+    "Train intervals are shorter at weekday peaks, but trains and platforms can still be crowded."
+  ],
+  "decemberNotes": "December 2026 is a future travel date relative to this research. Recheck fares, payment eligibility, service notices and station-specific first/last trains shortly before departure, especially around holidays and New Year events. The Blue Line is not a midnight service; arrange a taxi or other late-night option if your plans run past the final train.",
+  "uncertainties": [
+    "The 2026 fare adjustment is recent and policy changes are possible; verify the fare calculator for each journey. Published current reporting gives a ฿17–44 range, while older BEM material may still show the previous ฿17–45 cap.",
+    "Exact first/last train times are date-, station- and direction-specific and may change by December 2026.",
+    "Airport Rail Link operating times and the Phetchaburi–Makkasan pedestrian connection were not independently confirmed from a current airport-operator page in this research."
+  ],
+  "sources": [
+    {"title": "BEM: MRT Blue Line route map, service hours and headways", "url": "https://metro.bemplc.co.th/MRT-System-Map?lang=en"},
+    {"title": "BEM: fare calculator and station-specific first/last trains", "url": "https://metro.bemplc.co.th/Fare-Calculation?lang=en"},
+    {"title": "BEM: contactless EMV payment conditions", "url": "https://metro.bemplc.co.th/EMV-Contactless?lang=en"},
+    {"title": "BEM: accessibility facilities", "url": "https://metro.bemplc.co.th/Facilities?line_route_ID=9999"},
+    {"title": "MRTA: 2026 EMV contactless transition announcement", "url": "https://www.mrta.co.th/th/news-release/33436"},
+    {"title": "MRT Blue Line fare revision effective July 2026 (news report)", "url": "https://www.nationthailand.com/news/general/40066727"},
+    {"title": "BEM Metro Mall: Phetchaburi station connection to Airport Rail Link Makkasan", "url": "https://www.bmn-mrt.com/metro-mall/phetchaburi/"}
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/MRT-BLUELINE-BLE.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:MRT-BLUELINE-BLE.jpg",
+      "alt": "Bangkok MRT Blue Line Siemens Inspiro train, photographed in 2021; representative of the service rather than a particular station.",
+      "credit": "Phornlert.gp / Wikimedia Commons",
+      "license": "CC BY-SA 4.0"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "cnx-cycling-the-old-city",
+  "researchedAt": "2026-10-18",
+  "status": "partial",
+  "summary": "Cycle Chiang Mai’s compact, walled Old City to link temples, city gates and local streets at your own pace, or take a guided city ride for interpretation and planned stops. The Tourism Authority of Thailand recommends a bicycle day around the Old City; current rental listings and guided-tour options make this practical, though traffic comfort and December availability need checking.",
+  "whyGo": [
+    "The moat and historic core put many temples and heritage stops within a manageable cycling area.",
+    "A bike makes it easier to connect several sites than walking the full circuit, while still allowing spontaneous stops.",
+    "A guide can add context and route planning; current city tours include market and community stops."
+  ],
+  "bestFor": [
+    "Confident cyclists who want a flexible, active way to see the Old City.",
+    "Visitors comfortable sharing streets with cars and motorbikes, or willing to choose a guided ride."
+  ],
+  "skipIf": [
+    "You are uneasy riding in mixed traffic or need a fully protected cycling route.",
+    "You need a step-free, low-effort way to visit temples; many require walking and may have steps."
+  ],
+  "duration": "Allow 2–4 hours for a self-guided Old City circuit with temple stops (planning estimate). A listed guided city tour runs about 3 hours; check the exact route and inclusions before booking.",
+  "cost": "A central Chiang Mai rental shop currently lists basic city-suitable bicycles at THB 120–150 per day, with a helmet and lock included. A guided city tour is listed from THB 1,199 per person by Eco Tours Chiang Mai; confirm the operator’s December 2026 price, inclusions and availability.",
+  "hours": "Chiang Mai Bicycle lists its city-centre rental shop as open daily 09:00–19:00. Guided tour times vary by route; Trailhead lists 3-hour daytime city rides and a 2-hour twilight ride. December and holiday schedules are not confirmed.",
+  "bestTime": "For a self-guided ride, start in the morning before the strongest sun and busier daytime traffic; this is practical advice, not a published traffic forecast. A twilight guided ride is another option if its December schedule is operating.",
+  "gettingThere": "The Old City is central and compact. Ask your hotel or a local taxi/songthaew for the rental shop or tour operator’s city-centre office, then begin near a moat gate. Chiang Mai Bicycle says its shop is in the city centre; Trailhead lists its office at 48–50 Soi 1, Phrapokklao Road, Prasingha. Confirm the exact pickup point in advance.",
+  "booking": "Self-guided rentals can be requested through Chiang Mai Bicycle; its rental page says to reserve ahead for child seats and trailers, and its FAQ says last-minute bike and size confirmation may not be possible. Guided rides should be booked directly with the operator or listing provider; reconfirm route, pickup, minimum age, cancellation terms and December availability.",
+  "accessibility": "The operators list children’s bikes, trailers or seats, but do not publish detailed accessible-bike options. Step-free access, adapted cycles, route surfaces and accessible toilets are unverified. Old City streets include moving traffic and uneven edges; contact the rental shop or tour operator about specific mobility needs before relying on the activity.",
+  "practicalTips": [
+    "Wear a helmet and check brakes, lights and tire condition before leaving; a rental helmet and lock are included by the cited shop.",
+    "Ride defensively, keep valuables secured and park only where permitted; expect motorbikes and cars on narrow streets.",
+    "Remove shoes and dress respectfully when entering temple grounds, and park without blocking entrances.",
+    "If street traffic feels uncomfortable, choose a guided route or walk between the closest sights instead."
+  ],
+  "decemberNotes": "December is a popular Chiang Mai travel period, so reserve a preferred guided departure and suitable bike size ahead, then reconfirm holiday operations near the trip. Morning rides are a sensible way to limit heat exposure. No specific December 2026 cycling event or special schedule was found.",
+  "uncertainties": [
+    "December 2026 guided departures, holiday shop hours and exact prices are not published; listed prices can change.",
+    "The operator does not provide a complete route map or current road-safety/accessibility assessment on the pages reviewed.",
+    "The credited Commons photo shows a Mobike rental bicycle in Chiang Mai in 2018; it is a historical illustrative image and does not indicate that Mobike operates there now."
+  ],
+  "sources": [
+    {
+      "title": "Tourism Authority of Thailand: Budget Chiang Mai Trip (published 2020; Old City cycling suggestion)",
+      "url": "https://www.tourismthailand.org/Articles/budget-chiang-mai-trip"
+    },
+    {
+      "title": "Chiang Mai Bicycle: Bicycle Rental (current bike options, rates, hours and reservation details)",
+      "url": "https://www.chiangmaibicycle.com/tour/bicycle-rental/"
+    },
+    {
+      "title": "Trailhead Thailand: Half Day City Tours (tour duration, levels and office location)",
+      "url": "https://www.trailhead.co.th/half-day-3-hr/"
+    },
+    {
+      "title": "Eco Tours Chiang Mai: Chiang Mai City Cycling Tour (listed price, route and inclusions)",
+      "url": "https://www.ecotourschiangmai.com/tours/chiang-mai-city-cycling-tour/"
+    },
+    {
+      "title": "Huurfiets MOBIKE Chiang Mai — Wikimedia Commons file page (photo, credit and license)",
+      "url": "https://commons.wikimedia.org/wiki/File:Huurfiets_MOBIKE_Chiang_Mai_P1260887a.jpg"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Huurfiets_MOBIKE_Chiang_Mai_P1260887a.jpg/960px-Huurfiets_MOBIKE_Chiang_Mai_P1260887a.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Huurfiets_MOBIKE_Chiang_Mai_P1260887a.jpg",
+      "alt": "A Mobike rental bicycle in Chiang Mai, photographed in 2018; historical illustrative image, not evidence of current Mobike availability.",
+      "credit": "FredTC / Wikimedia Commons",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); attribution and share-alike terms apply."
+    }
+  ]
+}

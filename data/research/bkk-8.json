@@ -1,0 +1,59 @@
+{
+  "id": "bkk-8",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "Suan Luang Rama VIII Park is a free, small riverside park on the Thonburi bank, beneath the Rama VIII Bridge. It suits a relaxed walk or a brief stop for bridge and Chao Phraya views, with historic Rattanakosin landmarks visible across the river.",
+  "whyGo": [
+    "See the bridge's distinctive asymmetrical cable-stayed profile from beside its Thonburi approach.",
+    "Enjoy a calmer, local public-park setting with lawns, shade, paths and exercise areas."
+  ],
+  "bestFor": [
+    "A low-cost outdoor pause, walk or photo stop.",
+    "Pairing with a wider Bang Phlat or riverside itinerary when already nearby."
+  ],
+  "skipIf": [
+    "You need a major attraction, extensive facilities or a guaranteed event.",
+    "You cannot manage the last-mile trip from the MRT by motorcycle taxi or other local transport."
+  ],
+  "duration": "Allow about 45–90 minutes as a planning estimate for a stroll and views; longer if you want to sit or exercise.",
+  "cost": "Park admission is free. Budget separately for transport; fares depend on your starting point and mode.",
+  "hours": "BMA lists daily opening hours as 05:00–21:00. Recheck locally for temporary closures or changes.",
+  "bestTime": "Late afternoon is a practical choice for softer light and cooler conditions than midday; this is a planning suggestion, not a park rule.",
+  "gettingThere": "The park is at the foot of Rama VIII Bridge on the Thonburi side, Arun Amarin Road, Bang Yi Khan, Bang Phlat. BMA lists buses 57, 81 and 149, or the MRT Blue Line to Bang Yi Khan followed by a motorcycle taxi. Confirm current routes and service before travel.",
+  "booking": "No booking is indicated for an ordinary visit; admission is free. Organized events or use of designated public space may require permission through Bangkok's public-space system.",
+  "accessibility": "Official listings describe paths and recreation areas but do not give step-free route, surface, accessible toilet or mobility-device details. Check with the park before relying on specific access provisions; the MRT-to-park approach includes a motorcycle taxi option, which may not suit every traveler.",
+  "practicalTips": [
+    "Bring water and sun protection; shaded trees are noted, but open riverside areas can be exposed.",
+    "The BMA listing says there is a bathroom; confirm availability on arrival.",
+    "Park rules prohibit pets, smoking, alcohol and drone flying."
+  ],
+  "decemberNotes": "For December 2026, the published daily hours and free entry are the useful baseline; no specific December 2026 event or holiday schedule was confirmed. Bangkok is typically more comfortable outdoors in the cooler season, but afternoon heat and rain remain possible. Check the forecast and BMA notices close to the visit, and arrive with enough time to leave before the 21:00 closing time.",
+  "uncertainties": [
+    "December 2026 event programming, temporary closures and any holiday-hour changes are not confirmed.",
+    "BMA's English listing gives bus routes 57, 81 and 149; another official public-space listing shows different route numbers, so verify the current stop and service.",
+    "The official sources reviewed do not provide detailed accessibility measurements or facility status."
+  ],
+  "sources": [
+    {
+      "title": "BMA Greener Bangkok — Rama 8 Park",
+      "url": "https://greener.bangkok.go.th/en/park/the-8th-king-of-the-chakri-dynasty/"
+    },
+    {
+      "title": "Tourism Authority of Thailand — Rama VIII Bridge",
+      "url": "https://www.tourismthailand.org/Attraction/rama-viii-bridge"
+    },
+    {
+      "title": "Bangkok Public Space Platform — Suan Luang Rama VIII Park",
+      "url": "https://publicspace.bangkok.go.th/Spaces/Info/C05AB2D0-917D-4DB2-92A4-49E2AC9556FD"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Rama_VIII_Park_at_dawn.jpg/960px-Rama_VIII_Park_at_dawn.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rama_VIII_Park_at_dawn.jpg",
+      "alt": "Rama VIII Park at dawn",
+      "credit": "Phoebus 28",
+      "license": "CC BY-SA 4.0"
+    }
+  ]
+}

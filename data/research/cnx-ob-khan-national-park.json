@@ -1,0 +1,65 @@
+{
+  "id": "cnx-ob-khan-national-park",
+  "researchedAt": "2026-10-18",
+  "status": "partial",
+  "summary": "A compact riverside gorge outing in Hang Dong, where the Mae Khan River passes between steep, sculpted rock walls. Ob Khan suits a half-day nature break from Chiang Mai if you have a car or arrange a driver; the approach and final walk need more care than the short distance suggests.",
+  "whyGo": [
+    "See a distinctive river gorge and eroded rock formations without committing to a full mountain day.",
+    "Pair the gorge with a picnic or other Hang Dong stops when road and river conditions allow.",
+    "The main gorge viewpoint is reached by a relatively short walk from the park office."
+  ],
+  "bestFor": [
+    "Travellers with private transport looking for an easy nature half-day near Chiang Mai",
+    "Visitors interested in riverside geology, rock formations and quiet scenery",
+    "People comfortable walking on uneven ground and following local safety advice near water"
+  ],
+  "skipIf": [
+    "You need a reliable public-transport connection or a fully step-free route.",
+    "You want a long, clearly maintained hiking circuit; current trail condition is not confirmed.",
+    "You plan to swim regardless of water level, current or staff guidance."
+  ],
+  "duration": "Planning estimate: 2–3 hours at the site, plus about 1–2 hours return driving from central Chiang Mai depending on traffic and route. The gorge itself is reached by a reported 450 m walk from the park office; allow extra time for breaks and uneven terrain.",
+  "cost": "Current admission and parking charges were not verified. Budget for transport, food and drinks, and carry small cash; confirm any park fee with staff before departure. Do not assume older online reports of free entry remain current.",
+  "hours": "Current public opening hours were not verified. The Tourism Authority of Thailand’s 2022 Chiang Mai guide lists the park welfare shop as open 08:00–16:00, which is not confirmation of current gate hours. Check with the park before travelling.",
+  "bestTime": "December is in Chiang Mai’s cooler, generally drier season and can make a riverside walk more comfortable than the hot season. Go in the morning for cooler conditions and more time in hand. River level, water clarity and safe access vary; recent rain can make rocks and paths slippery.",
+  "gettingThere": "A private car or hired driver is the practical choice; no dependable public connection to the park was verified. TAT’s 2022 guide describes driving about 15 km along Chiang Mai’s irrigation-canal road toward Hang Dong, then roughly 10 km on the Nam Phrae–Ob Khan road, with steep bends and paved sections alternating with dirt. Allow roughly 40–60 minutes each way from central Chiang Mai as a planning estimate, and confirm the last-turn route before setting out.",
+  "booking": "No reservation requirement for a standard day visit was verified. Call the park before travel to confirm access, current fees and river conditions. The TAT guide lists park contact number +66 86 181 1068 and says camping should be booked in advance; reconfirm that this contact and service remain current.",
+  "accessibility": "The gorge requires a walk of about 450 m from the park office according to TAT’s guide. Route surface, steps, handrails, accessible toilets and wheelchair access are not documented in the current sources reviewed. Expect uneven ground and rocks near the river; contact the park about mobility needs before going.",
+  "practicalTips": [
+    "Use a driver or navigation with the final Nam Phrae turn saved; the last stretch has bends and mixed road surface.",
+    "Wear shoes with grip and keep back from wet rock edges and fast or rising water.",
+    "Bring drinking water, sun protection and a snack; current shop service and hours are uncertain.",
+    "Ask staff which paths and river areas are open that day, and follow barriers and swimming advice.",
+    "Take rubbish with you and avoid disturbing the riverbank and rock formations."
+  ],
+  "decemberNotes": "December is a reasonable season for a cooler outdoor visit, but the river’s depth, current and appearance depend on recent rainfall. The park spans several districts and contains attractions beyond the main gorge, so do not assume they are all open or close together. No specific December 2026 event or closure was verified; check local notices shortly before going.",
+  "uncertainties": [
+    "Current entrance fees, operating hours, contact details and day-visit requirements were not confirmed from a current park notice.",
+    "TAT’s practical access information dates from its 2022 Chiang Mai guide and may have changed.",
+    "The condition and continuity of walking trails, swimming access and any river safety restrictions vary and need on-site confirmation.",
+    "Public transport options and step-free facilities were not verified."
+  ],
+  "sources": [
+    {
+      "title": "Thailand Office of Natural Resources and Environmental Policy and Planning: Ob Khan–Ob Hai gorge setting and geology (Thai)",
+      "url": "https://naturalsite.onep.go.th/site/detail/184"
+    },
+    {
+      "title": "Tourism Authority of Thailand: Chiang Mai guide, Ob Khan National Park access and visitor facilities (2022; verify current details)",
+      "url": "https://api.tat.or.th/upload/live/multimedia/9140/%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_2022.pdf"
+    },
+    {
+      "title": "Wikimedia Commons: Ob Khan National Park photograph and license",
+      "url": "https://commons.wikimedia.org/wiki/File:Ob_Khan_National_Park.jpg"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Ob_Khan_National_Park.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ob_Khan_National_Park.jpg",
+      "alt": "Rock cliff in Ob Khan National Park, photographed in 2016.",
+      "credit": "Apisit Wilaijit / Wikimedia Commons",
+      "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/; credit the photographer, link the license, indicate changes, and share adaptations under the same or compatible license."
+    }
+  ]
+}

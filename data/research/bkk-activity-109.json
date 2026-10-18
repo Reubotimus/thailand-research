@@ -1,0 +1,63 @@
+{
+  "id": "bkk-activity-109",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "A free, compact nature and learning stop inside Wachirabenchathat (Rot Fai) Park, with a walk-through butterfly enclosure and exhibits about insect life cycles. It pairs well with the adjoining Chatuchak park cluster, though its current opening schedule should be reconfirmed before making a special trip.",
+  "whyGo": [
+    "See live butterflies in a planted, open-air dome and learn about their life cycle and host plants.",
+    "Add a shaded, low-cost stop to a visit to Rot Fai Park, Queen Sirikit Park or the Chatuchak area."
+  ],
+  "bestFor": [
+    "Families and visitors interested in insects, plants or a gentle break from markets and city streets.",
+    "People already exploring the northern park cluster who can keep plans flexible."
+  ],
+  "skipIf": [
+    "You need a guaranteed attraction on a Monday or cannot verify operating status on your date.",
+    "You expect a large museum or a long indoor visit; this is a small garden and learning stop."
+  ],
+  "duration": "Allow about 30–60 minutes as a planning estimate, plus time to walk through the large park to reach it.",
+  "cost": "Free admission according to the Bangkok Metropolitan Administration and Tourism Authority of Thailand. Budget for transport and any separate park activities.",
+  "hours": "BMA's Chatuchak Park portal lists daily except Monday, 08:30–16:30; TAT lists Tuesday–Sunday and public holidays at the same hours. A separate Bangkok Learning City listing says daily, so verify directly before visiting, especially on Mondays or public holidays.",
+  "bestTime": "Visit in daylight, preferably late morning on a sunny day if butterfly activity matters; this timing is a practical suggestion, not a guaranteed seasonal pattern. Avoid arriving close to the 16:30 listed closing time.",
+  "gettingThere": "The garden is within Wachirabenchathat (Rot Fai) Park on Kamphaeng Phet 3 Road, connected to the Chatuchak and Queen Sirikit park grounds. BTS Mo Chit and MRT Chatuchak Park are useful transit points for the park cluster; expect a substantial walk inside the park. Use a map pin for the garden entrance rather than assuming the nearest station is at its door.",
+  "booking": "Walk-in visitors register at the garden. BMA says group visits require a written request about 5–7 working days ahead; contact the garden at +66 2 272 4359. No general ticket reservation is indicated.",
+  "accessibility": "The enclosure and park setting involve walking; current step-free access, path surfaces, seating and accessible toilets are not documented in the sources checked. Contact the operator for mobility-specific details before relying on access.",
+  "practicalTips": [
+    "Check the BMA park page or call +66 2 272 4359 shortly before setting out; published schedules differ on Monday opening.",
+    "Wear comfortable shoes and bring water; the garden sits within a large park and is not at the transit station entrance.",
+    "Treat butterflies as living wildlife: avoid touching or feeding them, and follow any on-site instructions."
+  ],
+  "decemberNotes": "December is a comfortable time for the surrounding park, but the garden is a living exhibit and butterfly activity can vary with weather and conditions. No special December 2026 programme was confirmed. Check opening arrangements close to the visit, including any public-holiday schedule.",
+  "uncertainties": [
+    "The BMA Chatuchak Park page gives Monday closure, while another BMA city listing says daily; TAT says Tuesday–Sunday plus public holidays. Confirm the exact date directly.",
+    "No December 2026 event calendar or current butterfly/species count was verified.",
+    "Accessibility details for the enclosure and visitor facilities were not available in the sources checked."
+  ],
+  "sources": [
+    {
+      "title": "Bangkok Metropolitan Administration: Bangkok Butterfly Garden and Insectarium (Chatuchak Park portal)",
+      "url": "https://webportal.bangkok.go.th/chatuchakmetropark/page/sub/13841/%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%9C%E0%B8%B5%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%81%E0%B8%A1%E0%B8%A5%E0%B8%87"
+    },
+    {
+      "title": "Tourism Authority of Thailand: Bangkok Butterfly Garden and Insectarium",
+      "url": "https://www.tourismthailand.org/Attraction/bangkok-butterfly-garden-and-insectarium"
+    },
+    {
+      "title": "Invest Bangkok: Public parks (Wachirabenchathat Park transit and location details)",
+      "url": "https://invest.bangkok.go.th/park/"
+    },
+    {
+      "title": "Bangkok Learning City: Bangkok Butterfly and Insect Park",
+      "url": "https://learning.bangkok.go.th/location/loca_0289/"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://webportal.bangkok.go.th/upload/user/00000327/picture/Vachirabenjatas/Butterfly%20Park/442466.jpg",
+      "sourceUrl": "https://webportal.bangkok.go.th/chatuchakmetropark/page/sub/13841/%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%9C%E0%B8%B5%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%81%E0%B8%A1%E0%B8%A5%E0%B8%87",
+      "alt": "Image published in the Bangkok Metropolitan Administration's butterfly garden and insect park page; representative view of the facility.",
+      "credit": "Bangkok Metropolitan Administration; individual photographer not identified",
+      "license": "Permission not established; linked reference"
+    }
+  ]
+}

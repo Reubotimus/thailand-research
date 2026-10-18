@@ -1,0 +1,61 @@
+{
+  "id": "cnx-loang-him-kao-craft-class",
+  "researchedAt": "2026-10-18",
+  "status": "partial",
+  "summary": "Loang Him Kao is a craft community around Chamcha Market in San Klang, east of Chiang Mai. Current evidence supports maker-run activities at the weekend market, not one centrally scheduled class: a September 2026 field report records wood painting at Awila Handicraft and watercolour, drawing and ceramics at Art & Workshops. Treat these as options to ask about on the day and confirm the maker is present before travelling.",
+  "whyGo": [
+    "Try a casual craft activity among local makers, with more stalls and food to browse beneath the market's rain trees.",
+    "The wider village adds small craft shops and cafés, making this a relaxed half-day outing rather than a stand-alone class appointment."
+  ],
+  "bestFor": [
+    "Visitors who enjoy choosing an activity from whatever makers are operating that weekend.",
+    "A low-key craft outing that can be combined with food, shopping or nearby San Kamphaeng sights."
+  ],
+  "skipIf": [
+    "You need a guaranteed class, fixed duration, a particular instructor or confirmed English-language teaching.",
+    "You can only visit on a weekday; Chamcha Market is a Saturday and Sunday market."
+  ],
+  "duration": "Allow 1–2 hours for the market and a simple activity; this is a planning estimate. No workshop duration is published.",
+  "cost": "A Mot Dang field report records Awila Handicraft wood-painting prices of 75 baht (small), 95 baht (medium) and 159 baht (large), copied from stall signage on 27 September 2026. Prices for watercolour, drawing and ceramics were not listed; confirm with the maker. No market admission charge is listed.",
+  "hours": "Chamcha Market operates Saturdays and Sundays. Its September 2026 banner said 09:00–15:00; OpenStreetMap lists closing at 14:30. Individual maker and workshop hours may differ, so arrive in the morning.",
+  "bestTime": "Visit on a Saturday or Sunday morning, when the market is open and there is more time to find a maker before stalls close. December 2026 dates are not specially published.",
+  "gettingThere": "Use Chamcha Market as the map destination in San Klang, San Kamphaeng, east of Chiang Mai. Mot Dang describes it as about 8.2 km / 12 minutes by road from Tha Phae Gate by car or motorbike, excluding traffic. Taxi or ride-hail is practical; several parking areas are reported nearby. Arrange or confirm a return ride rather than assuming a car will be waiting.",
+  "booking": "No advance booking channel or scheduled class roster was found. Ask at Awila Handicraft or Art & Workshops on arrival, or contact Chamcha Market at 097-462-4296 / check its Facebook page to ask which makers and activities will be present. Confirm price, duration, language and whether ceramic work requires later firing or collection.",
+  "accessibility": "The market is outdoors with lanes between stalls. Step-free routes, accessible toilets, seating and workshop table access are not documented; ask the market before travelling if these are essential.",
+  "practicalTips": [
+    "Check the Chamcha Market Facebook page close to your chosen weekend; workshop makers and activities may change.",
+    "Bring small cash for an inexpensive activity and market purchases.",
+    "Ask the maker what the quoted price includes and whether the finished item can be taken away that day.",
+    "Ask before photographing makers, residents or work in progress."
+  ],
+  "decemberNotes": "No December 2026 workshop roster, holiday hours or confirmed class dates were found. The regular weekend market is the best planning assumption, but verify that the specific maker and activity will be available for your chosen date. December weekends are 5–6, 12–13, 19–20 and 26–27 December.",
+  "uncertainties": [
+    "The September 2026 workshop prices and stall listings come from a recent field report transcribing signs, not a booking or official class page; they can change.",
+    "Class duration, advance reservations, language, capacity, materials, ceramic firing/collection, December 2026 availability and holiday closures are unconfirmed.",
+    "Market closing time differs by source: Mot Dang recorded the market banner as 15:00, while OpenStreetMap lists 14:30.",
+    "The linked photo shows Chamcha Market, not a specific craft class. Mot Dang identifies the photographer as NaN but does not state image reuse permission."
+  ],
+  "sources": [
+    {
+      "title": "Mot Dang: Chamcha Market — field walk, stall listings, workshop signage, hours and transport (27 September 2026)",
+      "url": "https://motdang.net/markets/cm/chamcha/"
+    },
+    {
+      "title": "Mot Dang: Art & Workshops — current craft activities listed at Chamcha Market",
+      "url": "https://motdang.net/cm/p/art-workshops-cmcuratedartworkshops.html"
+    },
+    {
+      "title": "Tourism Authority of Thailand Japan: Chamcha Market — official tourism listing",
+      "url": "https://www.thailandtravel.or.jp/chamcha-market/"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://motdang.net/markets/assets/photos/chamcha-20260927-market-089.jpg",
+      "sourceUrl": "https://motdang.net/markets/cm/chamcha/",
+      "alt": "A lane at Chamcha Market under rain trees, photographed on 27 September 2026; illustrative market setting, not a class photo.",
+      "credit": "NaN (Mot Dang field report; faces blurred)",
+      "license": "Permission not established; linked reference"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "bkk-nong-bon-lake-park",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "A very large eastern Bangkok lake park for walking, cycling and organised water sports. The park is free; access to sailing, windsurfing, kayaking, canoeing and SUP depends on sports-center membership and advance booking.",
+  "whyGo": [
+    "Get space, greenery and a long lakeside loop away from central Bangkok’s busiest sights.",
+    "Try a BMA-run water-sports centre offering sailing, windsurfing, kayaking, canoeing and stand-up paddleboarding, with lessons listed."
+  ],
+  "bestFor": [
+    "Cyclists, runners, families and visitors wanting an outdoor half-day.",
+    "Water-sports enthusiasts willing to arrange membership and a session in advance."
+  ],
+  "skipIf": [
+    "You want a central Bangkok attraction or an easy last-minute water activity.",
+    "You need confirmed step-free access or detailed accessible facilities; published accessibility information is limited."
+  ],
+  "duration": "Allow 1–2 hours for a walk or ride; plan 2–3 hours if arranging a water-sports session. These are planning estimates.",
+  "cost": "Park admission is free. BMA lists annual aquatic-center membership for foreign visitors at ฿300 for ages 8–60 and ฿150 for 61+; confirm whether any equipment or session charges apply. The city learning portal lists other age bands and Thai rates, so check directly if relevant.",
+  "hours": "BMA’s Greener Bangkok park page lists daily 04:30–18:30, including cycling hours. It lists water-sports sessions 12:00–14:30 and 15:00–18:00. Another BMA city portal gives sports-center hours as weekdays 08:30–19:30 and weekends/holidays 10:30–19:30, a discrepancy worth confirming by phone (+66 2 328 0236).",
+  "bestTime": "Go early for cooler walking or cycling. Choose a water-sports session only after confirming availability and reservation requirements.",
+  "gettingThere": "The park is on Chaloem Prakiat Rama 9 Road, Soi 43, Prawet. BMA lists bus 206 to the Soi 43 entrance followed by a songthaew, or BTS Udom Suk then a red bus from the entrance of Udom Suk Alley. A taxi or ride-hail is simpler for the final leg; public-transport services and connections should be checked on the day. Parking is listed on site.",
+  "booking": "No booking is stated for park entry. For water sports, BMA says to register for membership and reserve through the CSTD application. Contact the centre at +66 2 328 0236 to confirm foreign-member registration, session times, equipment charges and December availability before making the trip.",
+  "accessibility": "The BMA page confirms a lake loop, sports facilities, toilets and parking but does not describe step-free routes, accessible toilets, mobility-device suitability or accessible water-sports provision. Call the center to check specific needs.",
+  "practicalTips": [
+    "Treat this as a destination outing in Prawet rather than a quick stop from central Bangkok.",
+    "Bring sun protection and water; exposed sections of the lake loop may feel hot even in the morning.",
+    "Cycling is listed on a 4.2 km route; ask locally about bike rental or bring your own, as current rental details are not confirmed.",
+    "Observe the park’s stated no-drone and no-smoking rules."
+  ],
+  "decemberNotes": "December is within Bangkok’s cooler, generally drier season, making an early outdoor visit a sensible plan. Water-sports dates, operational hours and reservation capacity for December 2026 are not published as a dated schedule; verify shortly before visiting. Park closing is early evening, so do not plan a late sunset visit.",
+  "uncertainties": [
+    "BMA sources show different opening hours for the park and sports center; call to confirm which applies to your activity and day.",
+    "The current foreign-member fee is published, but separate equipment/session charges and membership-document requirements are not clear.",
+    "Accessible routes and facilities are not described in the official listing.",
+    "The linked BMA photo page does not identify a photographer or reuse license; permission is not established."
+  ],
+  "sources": [
+    {
+      "title": "Nong Bon Lake Sports Center Public Park — Greener Bangkok (BMA)",
+      "url": "https://greener.bangkok.go.th/en/park/suan-satharana-sun-gi-la-bueng-nong-bon/"
+    },
+    {
+      "title": "Nong Bon Sports Center — Bangkok Learning City (BMA)",
+      "url": "https://learning.bangkok.go.th/location/loca_0236/"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://greener.bangkok.go.th/wp-content/uploads/2024/05/20220902_073259-900x506.jpg",
+      "sourceUrl": "https://greener.bangkok.go.th/en/park/suan-satharana-sun-gi-la-bueng-nong-bon/",
+      "alt": "Lake and park scenery at Nong Bon Lake Sports Center Public Park.",
+      "credit": "Photographer not identified on the linked BMA image page.",
+      "license": "Permission not established; linked reference."
+    }
+  ]
+}

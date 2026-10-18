@@ -1,0 +1,63 @@
+{
+  "id": "bkk-wat-arun",
+  "researchedAt": "2026-10-17",
+  "status": "verified",
+  "summary": "A compact riverside temple visit with porcelain-covered towers, ornate guardians and a memorable boat approach. Strong shortlist choice for architecture and photography; allow for crowds and steep steps.",
+  "whyGo": [
+    "See the mosaic-like porcelain decoration close up, then appreciate the whole silhouette from across the river.",
+    "Combine with Wat Pho using the Tha Tien crossing for an easy heritage outing."
+  ],
+  "bestFor": [
+    "First-time Bangkok visitors",
+    "Temple architecture and decorative detail",
+    "Riverside photography"
+  ],
+  "skipIf": [
+    "You have little interest in temples and a crowded outdoor stop feels repetitive.",
+    "You specifically want an accessible tower climb; steep stairs are part of the experience."
+  ],
+  "duration": "Plan 60–90 minutes inside; allow extra time for boat queues and an opposite-bank viewpoint. This is a planning estimate.",
+  "cost": "TAT lists 200 THB admission. Budget separately for transport and optional costume rental; concessions and ferry fares were not verified.",
+  "hours": "08:00–18:00, according to the Tourism Authority of Thailand's Japanese listing. Last admission and exceptional closures were not confirmed.",
+  "bestTime": "Suggested: arrive at opening for a quieter, cooler visit. For the illuminated silhouette, view from the opposite bank after the temple's visiting hours.",
+  "gettingThere": "TAT recommends a boat to Wat Arun pier or the cross-river ferry from Tha Tien on the Wat Pho side. Its listed nearest MRT station is Itsaraphap. Check your boat's actual stops before boarding.",
+  "booking": "An ordinary visit can be planned independently; no advance reservation requirement was identified. Confirm ticket arrangements locally and carry baht for incidental costs.",
+  "accessibility": "Steep tower steps limit climbing for people with mobility difficulties. A current step-free route, accessible toilets and ferry boarding assistance were not verified; ask the temple before relying on them.",
+  "practicalTips": [
+    "Wear clothing covering shoulders and knees, and behave quietly around worshippers.",
+    "Bring water, sun protection and shoes with good grip.",
+    "A night photograph does not imply evening entry to the temple grounds.",
+    "Check closures with the temple rather than accepting unsolicited street claims."
+  ],
+  "decemberNotes": "Plan early starts and extra queue time around December holidays. No December 2026 special opening hours or light show were verified; do not assume past river-lighting events will recur.",
+  "uncertainties": [
+    "The report labels wat-arun.com official, but its own footer describes a self-funded community initiative. Official TAT information was used to corroborate hours and admission.",
+    "Upper-terrace access, last admission, child concessions, payment methods and current ferry fares remain unconfirmed."
+  ],
+  "sources": [
+    {
+      "title": "Tourism Authority of Thailand Japan: Wat Arun — hours, price and transport",
+      "url": "https://www.thailandtravel.or.jp/wat-arun/"
+    },
+    {
+      "title": "Wat Arun community visitor guide — dress code and temple features",
+      "url": "https://www.wat-arun.com/"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Wat_Arun%2C_the_Temple_of_Dawn.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wat_Arun,_the_Temple_of_Dawn.jpg",
+      "alt": "Daytime view of Wat Arun's decorated temple architecture, photographed in 2018",
+      "credit": "Photogoddle / Wikimedia Commons",
+      "license": "CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Templo_Wat_Arun%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_37.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Templo_Wat_Arun,_Bangkok,_Tailandia,_2013-08-22,_DD_37.jpg",
+      "alt": "Wat Arun illuminated at night, viewed across the river; historical 2013 photograph",
+      "credit": "Diego Delso, delso.photo / Wikimedia Commons",
+      "license": "CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "bkk-factory-coffee",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "A specialty-coffee café at 49 Phaya Thai Road, a short walk from BTS Phaya Thai and Airport Rail Link. Worth a detour for signature espresso drinks and a convenient coffee stop between the airport rail link and central Bangkok.",
+  "whyGo": [
+    "The café offers specialty espresso, latte, filter coffee and signature drinks; the Tourism Authority of Thailand also lists non-coffee drinks and pastries.",
+    "Its Phaya Thai location is practical for a stop after arriving on the Airport Rail Link or while moving around central Bangkok."
+  ],
+  "bestFor": [
+    "Coffee-focused travelers who want to sample a signature drink or ask about available beans.",
+    "Travelers connecting through Phaya Thai who want a sit-down break near transit."
+  ],
+  "skipIf": [
+    "You need a quiet, reliably quick stop: customer reports describe queues, particularly in the morning.",
+    "You need confirmed step-free access or accessible facilities; current official accessibility details were not found."
+  ],
+  "duration": "Allow about 30–60 minutes as a planning estimate; add time if there is a queue.",
+  "cost": "Budget roughly ฿100–250 per person as a guide, based on Wongnai's listed range; premium or specialty beans may cost more. A recent listed cold brew was ฿160, but check the current menu.",
+  "hours": "Official location page: daily 8:00 am–4:00 pm, last order 4:00 pm. Recheck before visiting because third-party listings and the Tourism Authority page show different closing times.",
+  "bestTime": "Try a weekday outside the morning rush for a better chance of a shorter wait. This is a practical suggestion; no official crowd forecast is published.",
+  "gettingThere": "Go to 49 Phaya Thai Road, Ratchathewi. The Tourism Authority of Thailand says BTS Phaya Thai is about a 1–2 minute walk away; the station also connects with the Airport Rail Link. Confirm the exact pedestrian exit and route in a map app on the day.",
+  "booking": "No reservation process was listed on the official location page. Plan to order on arrival; call +66 80 958 8050 to check queues, current menu or any group arrangements.",
+  "accessibility": "The venue's official page gives an address and transit information but no step-free access, doorway, seating or restroom details. Contact the café before visiting if these affect your plans.",
+  "practicalTips": [
+    "Check the official location page on the day: its current hours are 8:00 am–4:00 pm, while the Tourism Authority listing still says 8:00 am–5:00 pm.",
+    "Ask staff which signature drinks and beans are available that day; menus and seasonal lots can change.",
+    "Wongnai reviews report queues, so avoid scheduling this as a tight connection stop."
+  ],
+  "decemberNotes": "No December-specific event or holiday schedule was found. December is a busy travel period in Bangkok; allow extra time around Phaya Thai transit and verify opening hours directly, especially near public holidays.",
+  "uncertainties": [
+    "Official and Tourism Authority opening times conflict; the venue's own location page currently gives 8:00 am–4:00 pm.",
+    "Current item-by-item menu prices, queue patterns and holiday hours may change before December 2026.",
+    "Accessibility details and whether reservations are accepted are not published on the official location page."
+  ],
+  "sources": [
+    {
+      "title": "Factory Coffee — Locations (official)",
+      "url": "https://factorybkk.com/blogs/news/location"
+    },
+    {
+      "title": "Thailand Tourism Authority — Factory Coffee",
+      "url": "https://www.thailandtravel.or.jp/factory-coffee/"
+    },
+    {
+      "title": "Wongnai — Factory Coffee BKK Phaya Thai (menu examples and customer reports)",
+      "url": "https://www.wongnai.com/restaurants/149430aq-factory-coffee-bkk-phayathai"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://factorybkk.com/cdn/shop/files/bkk_location-10.png?v=1766288757",
+      "sourceUrl": "https://factorybkk.com/blogs/news/location",
+      "alt": "Official Factory Coffee image for its Phaya Thai location; depicts the venue's current location listing.",
+      "credit": "Factory Coffee, via its official website",
+      "license": "Permission not established; linked reference"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "bkk-activity-114",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "MOCA Bangkok is a large private museum devoted to modern and contemporary Thai art, with permanent galleries and changing exhibitions in a striking purpose-built building in northern Chatuchak. It makes a substantial, mostly indoor art visit away from central Bangkok.",
+  "whyGo": [
+    "See a broad collection of Thai modern and contemporary art in a dedicated museum setting.",
+    "The museum combines galleries with a café and shop, making it easy to spend a half day on the north side of the city."
+  ],
+  "bestFor": [
+    "Visitors interested in Thai art, architecture and a quieter museum visit",
+    "A planned half-day excursion that can be reached by the SRT Red Line"
+  ],
+  "skipIf": [
+    "You want a central Bangkok stop with easy walking connections to other attractions.",
+    "You expect a fully accessible route without first checking details directly with the museum."
+  ],
+  "duration": "The museum FAQ says most visits take 1–2 hours. Allow 2–3 hours including the trip from central Bangkok and time for a café stop; travel time is a planning estimate.",
+  "cost": "The official Admission page currently lists adult entry at 400 baht, student entry with ID at 120 baht, and free entry for children under 13, seniors 60+ with ID, visitors with disabilities and priests. The FAQ still lists 300 baht for adults, so confirm the current price before setting out; special exhibitions and auditorium events are excluded from general admission.",
+  "hours": "Tuesday–Sunday, 10:00–18:00; closed Mondays. MOCA says it is generally open on public holidays, but advises checking announcements for exceptions.",
+  "bestTime": "Arrive soon after opening for a relaxed gallery visit and more time for the journey back. December is a comfortable season for combining this indoor visit with outdoor stops, though the museum itself is air-conditioned.",
+  "gettingThere": "The museum is at 499 Kamphaeng Phet 6 Road, Ladyao, Chatuchak. MOCA directs rail passengers to SRT Red Line Bang Khen Station, Exit 2, followed by a walk (its pages give 200–400 metres). From central Bangkok, take the MRT to Krung Thep Aphiwat Central Terminal and change to the Red Line. Taxi or ride-hail from Mo Chit/Chatuchak Park is another option; allow for traffic. Bus routes are listed on the official directions page.",
+  "booking": "The official Admission page links to ticket sales. No advance reservation requirement is stated for general admission; check the official ticket link and exhibition details before visiting, particularly if you want a special exhibition or auditorium programme.",
+  "accessibility": "MOCA says it has wheelchair-accessible doors and elevators, accessible toilets and staff assistance. Its admission page lists free entry for visitors with disabilities. Contact the museum in advance to confirm the route and facilities for your particular access needs.",
+  "practicalTips": [
+    "Check the Admission page immediately before visiting: the adult price there (400 baht) conflicts with the museum FAQ (300 baht).",
+    "Use Bang Khen on the SRT Red Line for the most direct rail approach, and check which exit and walking route are operating that day.",
+    "The museum FAQ reports luggage storage at the ticket office, free on-site visitor parking and a ground-floor café.",
+    "Personal photography is generally allowed, but the museum FAQ prohibits flash, tripods and video recording in most galleries; follow signs and staff directions."
+  ],
+  "decemberNotes": "The museum's current published schedule covers regular hours and says it is open on most public holidays, but no December 2026 holiday notice or event calendar was available in the pages checked. Recheck opening status, ticket price and exhibition listings close to your date.",
+  "uncertainties": [
+    "Official museum pages disagree on adult admission: the Admission page says 400 baht while the FAQ says 300 baht. Treat the higher figure as a cautious budget and verify directly.",
+    "December 2026 special exhibitions, public programmes and holiday exceptions were not yet confirmed in the current official visitor information.",
+    "The museum's directions give different walking distances from Bang Khen Station; check the route and station access on the day."
+  ],
+  "sources": [
+    {
+      "title": "MOCA Bangkok — Admission and directions",
+      "url": "https://www.mocabangkok.com/admission/"
+    },
+    {
+      "title": "MOCA Bangkok — FAQ",
+      "url": "https://www.mocabangkok.com/contact-us/faq/"
+    },
+    {
+      "title": "MOCA Bangkok — Facilities and accessibility",
+      "url": "https://www.mocabangkok.com/facility/"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Museum_of_Contemporary_Art_%28MOCA%29%2C_Bangkok%2C_Thailand_-_20161201-06.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museum_of_Contemporary_Art_(MOCA),_Bangkok,_Thailand_-_20161201-06.jpg",
+      "alt": "MOCA Bangkok building, photographed in December 2016.",
+      "credit": "Smuconlaw / Wikimedia Commons",
+      "license": "CC BY-SA 4.0"
+    }
+  ]
+}

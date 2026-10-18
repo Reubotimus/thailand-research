@@ -1,0 +1,60 @@
+{
+  "id": "bkk-maeklong-railway-market",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "A working produce and seafood market occupies the active railway corridor; vendors retract awnings and goods for several slow train passages each day. The market itself is free, and a train ride adds a memorable rural rail journey.",
+  "whyGo": [
+    "See an unusual, practiced interaction between everyday market trade and a working railway.",
+    "Browse local produce and seafood around Mae Klong Station; consider the famous Mae Klong mackerel."
+  ],
+  "bestFor": [
+    "A half- or full-day excursion combining local food, a train ride, and photography.",
+    "Travelers comfortable with crowds and a narrow, active railway-side market."
+  ],
+  "skipIf": [
+    "You need step-free access, quiet surroundings, or a train spectacle without crowds.",
+    "You cannot allow schedule slack or would be unhappy if the train timetable changes."
+  ],
+  "duration": "Allow 2–3 hours at the market and town, plus about 1.5–2 hours each way by road from Bangkok; a public-transport rail outing takes longer. A train leg on the Ban Laem–Mae Klong line takes about 60 minutes.",
+  "cost": "Market admission is free. State Railway information lists the ordinary Ban Laem–Mae Klong ticket at THB 10 one way for adults (THB 5 children); the ferry across the Tha Chin between Mahachai and Tha Chalom is listed at THB 3. Budget separately for Bangkok transfers, food, or any private tour; those costs vary.",
+  "hours": "Tourism Authority of Thailand lists daily hours as 06:00–18:00 and free entry. Train passage windows reported by the Tourism Authority’s country office and SRT include market arrivals around 08:30, 11:10, 14:30 and 17:40, and departures around 06:20, 09:00, 11:30 and 15:30. Confirm the exact day’s schedule directly with Mae Klong Station (034-711-906).",
+  "bestTime": "Target the 11:10 arrival/departure window for a practical daytime outing, reaching the market at least 30 minutes early. Morning is cooler; the market operates beyond train passages as a local market.",
+  "gettingThere": "By public transport, take the SRT from Wongwian Yai to Mahachai, cross the river by ferry to Tha Chalom, walk roughly 450 m to Ban Laem Station, then take the train to Mae Klong. This is a multi-step journey and connections matter. Easier options are a minivan or bus from Bangkok’s Southern Bus Terminal to Mae Klong, or a prebooked day tour; road time is traffic-dependent and often around 1.5–2 hours.",
+  "booking": "No booking or admission ticket is needed to enter the market. For the local train, buy the ordinary ticket at the station and verify current departures with SRT/Mae Klong Station shortly before travel. Reserve a Bangkok tour or transfer in advance if you want door-to-door transport; prices and inclusions depend on operator and date.",
+  "accessibility": "The market runs through a narrow, uneven trackside aisle with crowds and moving goods; no reliable step-free route or dedicated viewing platform is documented. The public train route includes a river ferry and station walk, so it is not a good fit for limited mobility. Contact an operator directly about vehicle access and assistance.",
+  "practicalTips": [
+    "Arrive 30 minutes before the passage you want, and keep clear of the rails and vendor work areas as the train approaches.",
+    "Watch where local staff and vendors direct visitors; do not step onto the track for a photo or touch the train.",
+    "Wear comfortable closed shoes, carry water and small cash, and expect heat and crowding.",
+    "If arriving by rail from Bangkok, allow connection slack for the ferry crossing and the short walk to Ban Laem."
+  ],
+  "decemberNotes": "December is generally a more comfortable season for outdoor sightseeing than the hot-season months, but expect holiday-period demand and crowds; leave extra time for road traffic. No specific December 2026 event or timetable notice was found. Recheck train times close to travel because published sources show a discrepancy on the late service.",
+  "uncertainties": [
+    "SRT’s current tourism guide gives a late Ban Laem departure of 17:40 arriving Mae Klong at 18:40, while TAT’s published market schedule lists an arrival at 17:40. These conflict with the market’s stated 18:00 closing; verify all December 2026 train times with Mae Klong Station.",
+    "Bangkok road times and minivan departure points may change; confirm transport details with the operator on the travel date.",
+    "Step-free access and accessible viewing facilities are not documented by the sources reviewed."
+  ],
+  "sources": [
+    {
+      "title": "Tourism Authority of Thailand: Mae Klong Railway Market",
+      "url": "https://www.tourismthailand.org/Attraction/mae-klong-railway-market-hoop-rom-market"
+    },
+    {
+      "title": "State Railway of Thailand: Railway Tourism, Ban Laem–Mae Klong line (fare, ferry, route and timetable)",
+      "url": "https://www.railway.co.th/Service/Passenger_detail?value1=0049613716F4864B9ED01F76DB70384102000000B05FDBFE2685150F4933FA4C340288DF03B0350FAC48B05D4DF0473B058A0CC0&value2=0049613716F4864B9ED01F76DB703841020000001A0CA358207275D32C3891D8993EE1768A2AB694BE6816F1C5F7E01F56786468"
+    },
+    {
+      "title": "Japan National Tourism Organization Thailand Office: Mae Klong Railway Market (hours, fare, access and schedule note)",
+      "url": "https://www.thailandtravel.or.jp/talad-rom-hub/"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Talad_Rom_Hoop_%28II%29.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Talad_Rom_Hoop_(II).jpg",
+      "alt": "A train passes through the Maeklong Railway Market among the trackside stalls.",
+      "credit": "Supanut Arunoprayote",
+      "license": "CC BY 4.0; attribution required, link to license and note changes."
+    }
+  ]
+}

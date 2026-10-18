@@ -1,0 +1,65 @@
+{
+  "id": "bkk-activity-160",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "Take one short Bangkok tuk-tuk ride for the open-air, close-to-the-street feeling, especially after dark around Old Town or Chinatown. Treat it as a memorable ride rather than the fastest or cheapest way across town: traffic can erase any time advantage, and street fares are negotiated.",
+  "whyGo": [
+    "An open-sided ride gives a vivid view of Bangkok streets, lights and traffic that a car does not.",
+    "A short ride can make a lively link between an Old Town or Chinatown stop and dinner or an evening walk."
+  ],
+  "bestFor": [
+    "First-time visitors who want to try a familiar Bangkok transport icon.",
+    "A short evening hop when the ride itself is part of the outing."
+  ],
+  "skipIf": [
+    "You need a predictable arrival time, low-cost routine transport, air-conditioning or a step-free boarding experience.",
+    "You are uncomfortable in open vehicles amid dense traffic, fumes, noise or sudden rain."
+  ],
+  "duration": "Plan around 10–20 minutes for a short neighbourhood hop; this is a planning estimate, not a published service duration. Traffic can make it longer.",
+  "cost": "No standard metered fare: agree a total price in baht for the exact destination before boarding. The fare depends on route and negotiation; no reliable official fare schedule was found. Carry small notes and confirm whether any requested stop is included.",
+  "hours": "Street vehicles operate as individual drivers are available; there is no single timetable or verified universal operating window. Availability can vary by location and time, particularly late at night.",
+  "bestTime": "Early evening is a good fit for the sensory experience and avoids some daytime heat, but choose a short route and allow for congestion. Do not rely on a tuk-tuk for a timed connection.",
+  "gettingThere": "Flag one down where safe or use a visible stand around Old Town or Chinatown. State the destination clearly, show it on a map, and settle the fare before getting in. For a more predictable journey, compare with a metered taxi or rail where practical.",
+  "booking": "Ordinary street rides generally do not require advance booking. A driver may offer a tour or extra stops; accept only if the complete route and total fare are agreed in advance. Decline unsolicited detours to shops or ticket sellers.",
+  "accessibility": "Accessibility is limited and inconsistent: vehicles are open, have a step up, little weather protection, and no confirmed accessible boarding or luggage arrangements. Ask to see the vehicle before agreeing if mobility, balance, child seating or luggage is a concern.",
+  "practicalTips": [
+    "Agree the destination and whole fare before boarding; Thailand’s government advises that tuk-tuks have no meters and fares must be negotiated.",
+    "Keep bags and phones inside the vehicle and secure; do not hold valuables near the open sides in traffic.",
+    "Keep the ride short, wear secure footwear and hold on. Choose another mode in heavy rain or if the driving feels unsafe.",
+    "If a driver proposes a very cheap sightseeing trip with shopping stops, decline and take a ride only on your own stated route."
+  ],
+  "decemberNotes": "For December 2026 there is no fixed event or operating schedule attached to this activity. Evening demand and traffic may be higher around holiday dates, so allow extra time and agree the full fare before setting off. Recheck local conditions during the trip; no dependable December-specific fare or availability information was found.",
+  "uncertainties": [
+    "Street tuk-tuk fares are negotiated and vary by route, time and driver; the sources reviewed do not establish a current standard price.",
+    "There is no central operator, published schedule or universal booking system for traditional street tuk-tuks.",
+    "December 2026 traffic, holiday crowds, weather, driver availability and any local restrictions cannot be confirmed this far ahead.",
+    "Vehicle condition, passenger protection and accessibility vary between individual tuk-tuks."
+  ],
+  "sources": [
+    {
+      "title": "Guide to risks in the city that tourists should be aware of — THAILAND.GO.TH (Ministry of Tourism and Sports)",
+      "url": "https://thailand.go.th/issue-focus-detail/002_009"
+    },
+    {
+      "title": "Public transportation in Bangkok — THAILAND.GO.TH (Bangkok Mass Transit Authority source)",
+      "url": "https://www.thailand.go.th/issue-focus-detail/002_011?hl=en"
+    },
+    {
+      "title": "Thailand travel advice: Safety and security — GOV.UK",
+      "url": "https://www.gov.uk/foreign-travel-advice/thailand/safety-and-security"
+    },
+    {
+      "title": "202307 Riding a tuk-tuk in Bangkok at night.jpg — Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:202307_Riding_a_tuk-tuk_in_Bangkok_at_night.jpg"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/202307_Riding_a_tuk-tuk_in_Bangkok_at_night.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:202307_Riding_a_tuk-tuk_in_Bangkok_at_night.jpg",
+      "alt": "A tuk-tuk ride in Bangkok at night, photographed in July 2023; representative night-ride reference, not a specific current route or driver.",
+      "credit": "Jonashtand via Wikimedia Commons",
+      "license": "CC BY-SA 4.0"
+    }
+  ]
+}

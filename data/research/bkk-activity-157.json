@@ -1,0 +1,64 @@
+{
+  "id": "bkk-activity-157",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "Khlong Saen Saep’s commuter boats link central Bangkok with Ramkhamhaeng and Bangkapi, avoiding road traffic while exposing riders to a busy working canal. Treat it as useful transport with a vivid local view, not a sightseeing cruise. Service availability needs checking: boats were suspended during high water in September 2026, and the latest status source I found had not confirmed a restart.",
+  "whyGo": [
+    "A fast, inexpensive alternative when central and eastern Bangkok roads are congested.",
+    "A direct glimpse of canal-side neighborhoods and daily commuter travel."
+  ],
+  "bestFor": [
+    "Independent travelers comfortable boarding quickly and handling a crowded, noisy boat.",
+    "Trips between Pratunam and the eastern piers around Ramkhamhaeng."
+  ],
+  "skipIf": [
+    "You need step-free access, have limited balance, or are traveling with a stroller.",
+    "You dislike engine noise, dirty-water splashes, crowds, or uncertain service; use BTS/MRT, bus, or taxi instead."
+  ],
+  "duration": "Allow about 20–35 minutes for a Pratunam-to-Ramkhamhaeng ride as a planning estimate; actual time depends on pier, wait, and operating conditions.",
+  "cost": "Recent 2026 guidance gives roughly ฿10–22 depending on distance; confirm at the pier and carry small cash for the onboard conductor.",
+  "hours": "Published indicative weekday departures span roughly 05:30–20:30 across the route; Sundays and holidays are reduced. Exact directions and hours vary by pier, and current operation is unconfirmed after a high-water suspension.",
+  "bestTime": "Weekday daylight or early evening before the last boats; avoid relying on a late service. A ride outside peak commute periods may be less crowded.",
+  "gettingThere": "Use a signed pier such as Pratunam (near Platinum Fashion Mall) or Asok–Petchaburi (near MRT Phetchaburi); for the eastern section, choose the pier closest to your Ramkhamhaeng destination. Routes interchange at Pratunam. Check the pier name and direction before boarding.",
+  "booking": "No advance booking is indicated; pay onboard in cash. Confirm that service is operating at the pier before making a connecting plan.",
+  "accessibility": "Poor for reduced mobility: steep or uneven pier access, a high step into the boat, very brief stops, and little time to board. Not suitable for strollers; no reliable accessibility provision was found.",
+  "practicalTips": [
+    "Board and disembark promptly, then sit and hold on; boats pause only briefly.",
+    "Ask crew to raise the plastic splash curtain; keep your mouth closed as the boat accelerates and protect your eyes and belongings.",
+    "Wear washable clothes, keep bags closed and in front, and carry small change.",
+    "Do not plan a tight connection until you have confirmed the boat is running that day."
+  ],
+  "decemberNotes": "No dated December 2026 events apply. December is generally a drier, cooler period in Bangkok, but high canal levels or operational changes can still interrupt service. Because of the September 2026 suspension and unconfirmed restart notice, check with the operator or pier staff on the day and keep a road or rail alternative.",
+  "uncertainties": [
+    "As of the latest status page checked, suspension began 25 September 2026 because of high water; the operator expected a restart within about 48 hours, but the page had not confirmed that service resumed. Current status on 17 October and December 2026 operation remain uncertain.",
+    "Fares and timetable are indicative and may change; verify locally, especially on weekends and public holidays.",
+    "No dependable official English-language live service notice or detailed accessibility information was located."
+  ],
+  "sources": [
+    {
+      "title": "Saen Saeb Canal: current piers, indicative timetable and disruption notice (status last checked 1 October 2026)",
+      "url": "https://www.saensaebcanal.com/"
+    },
+    {
+      "title": "Bangkok Authority: Saen Saep canal boat guide, updated 5 October 2026",
+      "url": "https://bangkokauthority.com/en/articles/bateau-canal-saen-saep-bangkok"
+    },
+    {
+      "title": "Marine Department: Khlong Saen Saep fare table",
+      "url": "https://md.go.th/wp-content/uploads/2021/11/Saen_Saep_60.pdf?93="
+    },
+    {
+      "title": "Wikimedia Commons: SaenSaepRiverBoat.jpg image details and license",
+      "url": "https://commons.wikimedia.org/wiki/File:SaenSaepRiverBoat.jpg"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/SaenSaepRiverBoat.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SaenSaepRiverBoat.jpg",
+      "alt": "A westbound Saen Saep canal boat approaching Pratunam pier; photographed in 2011.",
+      "credit": "Mark Fischer",
+      "license": "CC BY-SA 2.0; https://creativecommons.org/licenses/by-sa/2.0/"
+    }
+  ]
+}

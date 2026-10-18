@@ -1,0 +1,69 @@
+{
+  "id": "bkk-charoen-chai",
+  "researchedAt": "2026-10-18",
+  "status": "partial",
+  "summary": "A compact Chinatown heritage walk through Charoen Chai’s living joss-paper and Chinese ceremonial-goods trade, with a small community museum in a former Chinese opera troupe lodging house. Shops remain businesses and homes: observe respectfully and ask before photographing people or interiors.",
+  "whyGo": [
+    "See ritual paper, festival offerings and some traditional hand-folding work in the context of the community that makes and sells them.",
+    "The upstairs Baan Kao Lao Rueng museum interprets community history, Chinese opera, household objects and festival offerings."
+  ],
+  "bestFor": [
+    "A short, self-guided cultural stop paired with nearby Wat Mangkon and Chinatown food.",
+    "Visitors interested in Thai-Chinese community history, ritual objects and small specialist shops."
+  ],
+  "skipIf": [
+    "You need a fully step-free visit; the museum is on the second floor and lift access is not documented.",
+    "You expect a large, staffed museum or guaranteed demonstrations; neither is established by current listings."
+  ],
+  "duration": "Allow 1–2 hours for a slow alley walk and museum visit; add 1–2 hours for a Chinatown meal. These are planning estimates.",
+  "cost": "Museum entry is listed as free. Budget separately for food, transport and any purchases; shop prices vary.",
+  "hours": "The community museum is listed open daily 09:00–16:00; groups should notify ahead. A local guide says most alley shops usually trade about 07:00–18:00, but individual schedules vary. Reconfirm close to travel.",
+  "bestTime": "Go in the morning or early afternoon while shops and the museum are open. For a food-focused extension, move to Yaowarat in the evening. The neighborhood is especially busy around Chinese festivals, but no December 2026 event schedule was found.",
+  "gettingThere": "Use MRT Blue Line to Wat Mangkon. BEM lists exits 2 and 3 for nearby destinations; the community alley is around Charoen Krung 23, entered from Charoen Krung or Phlap Phla Chai. Expect a short walk through narrow lanes; taxis can be slowed by Chinatown traffic.",
+  "booking": "No booking is listed for individual visits. The museum listing asks groups to notify ahead; it gives contact numbers 081-567-1142 and 083-187-8633. Verify details before visiting.",
+  "accessibility": "MRT Wat Mangkon has elevators and ramps at exits 1–3 according to BEM. Alley surfaces and congestion may be difficult for wheelchairs; the museum is on the second floor and its internal step-free access is unknown. Contact the museum before relying on access.",
+  "practicalTips": [
+    "Treat the alley as a working residential and commercial place; keep doorways clear and ask permission before taking close-up photos.",
+    "Look for the mix of mass-produced and hand-finished paper offerings; the older Nairobroo report notes that some shops still fold or make items locally.",
+    "For nearby food, Tourism Authority of Thailand lists guay jub at Ouan Pochana, wonton noodles, seafood and Yaowarat desserts; its hours are older guidance, so check current operation on the day.",
+    "Carry small cash for independent shops and food stalls, and allow time for narrow, busy sidewalks."
+  ],
+  "decemberNotes": "December 2026 opening schedules and special events have not been published in the sources checked. The museum is currently listed daily, but confirm before setting out, especially around public holidays. Chinese New Year falls outside December; do not assume the alley will have festival-period displays.",
+  "uncertainties": [
+    "Museum daily hours and free entry come from a current Museum Thailand listing, but December holiday exceptions are not specified.",
+    "No reliable accessibility description for the museum interior or alley was found.",
+    "Food outlet hours and offerings may have changed since the Tourism Authority of Thailand’s 2020 guide.",
+    "Image reuse permission is not established; the reference is credited to the photographer named on the source page."
+  ],
+  "sources": [
+    {
+      "title": "Museum Thailand — Baan Kao Lao Rueng, Charoen Chai Community",
+      "url": "https://www.museumthailand.com/museum/historic-hut-charoen-chai-community"
+    },
+    {
+      "title": "Nairobroo — Charoen Chai community paper-offering market (Thai; includes shop-hours and photographer credit)",
+      "url": "https://www.nairobroo.com/travel/%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%8A%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B9%84%E0%B8%8A%E0%B8%A2-%E0%B9%80%E0%B8%A2%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%8A/"
+    },
+    {
+      "title": "BEM Bangkok MRT — Wat Mangkon station, exits and facilities",
+      "url": "https://metro.bemplc.co.th/Line-Maps?Line=1&Station=29&lang=en"
+    },
+    {
+      "title": "Tourism Authority of Thailand — Top 5 street food restaurants in Yaowarat",
+      "url": "https://www.tourismthailand.org/Articles/top-5-street-food-restaurants-in-yaowarat-to-turn-your-hunger-into-happiness"
+    },
+    {
+      "title": "Time Out Bangkok — Charoenchai Community",
+      "url": "https://www.timeout.com/bangkok/attractions/charoenchai-community"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www.nairobroo.com/wp-content/uploads/2018/03/charoen-chai-1.jpg",
+      "sourceUrl": "https://www.nairobroo.com/travel/%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%8A%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B9%84%E0%B8%8A%E0%B8%A2-%E0%B9%80%E0%B8%A2%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%8A/",
+      "alt": "Display of Chinese ceremonial costumes and paper offerings inside Charoen Chai community museum",
+      "credit": "Photographer: Wijit Sae-heng (วิจิตร แซ่เฮ้ง), credited by Nairobroo",
+      "license": "Permission not established; linked reference"
+    }
+  ]
+}

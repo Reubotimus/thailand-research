@@ -1,0 +1,78 @@
+{
+  "id": "bkk-erawan-museum",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "A private museum in Samut Prakan built around a monumental three-headed elephant, with three themed realms, religious art and a landscaped pilgrimage path. The extraordinary exterior is the draw; the interior adds a highly ornate, spiritual and sometimes eclectic art experience.",
+  "whyGo": [
+    "See the enormous copper Erawan sculpture from close up and explore the museum built within it.",
+    "The three levels interpret underworld, human earth and heaven; the operator describes Buddhist and Brahman-Hindu artifacts and a garden pilgrimage path.",
+    "An easy independent outing by BTS from central Bangkok, with English-language audio guide service listed by the museum."
+  ],
+  "bestFor": [
+    "Architecture, sculpture and unusual museum interiors",
+    "A half-day excursion that combines indoor exhibits and garden wandering",
+    "Visitors comfortable with a religious and devotional setting"
+  ],
+  "skipIf": [
+    "You want a broad, conventional history museum or a low-cost attraction: foreign adult admission is currently 500 baht.",
+    "You need confirmed step-free access; the official visitor information does not describe lift or wheelchair access, and the upper realm is inside the elephant."
+  ],
+  "duration": "Allow about 1.5–2.5 hours as a planning estimate for the three levels, grounds and photos. The operator does not publish a recommended visit length.",
+  "cost": "Official listed foreign visitor rate: 500 baht adult, 250 baht child. Thai visitor rates are 250/125 baht. Admission includes flowers, incense and a lotus for the museum's devotional offering, plus access to the surrounding grounds. Treat these as current listed rates, not a guarantee for December 2026; confirm before travel. No combined package was confirmed on the official rate page.",
+  "hours": "Official site lists daily 09:00–18:00, with ticket sales closing at 17:00. Recheck close to the visit in case of special closures or revised hours.",
+  "bestTime": "Go near opening for cooler outdoor garden time and fewer visitors, or in the late afternoon while leaving enough time to enter before the 17:00 ticket cutoff. December is usually more comfortable for outdoor walking than the hotter season, though the museum has not published a December-specific schedule.",
+  "gettingThere": "Take the BTS Green Line to Chang Erawan (E17), then use exit 2 as directed by the museum. It is in Bang Mueang Mai, Mueang Samut Prakan, beyond central Bangkok; allow extra door-to-door time from central accommodation. Check current BTS service and fare on the day.",
+  "booking": "The official English ticket page lists prices and hours but no advance reservation process. Confirm current ticketing directly with the museum if travelling on a fixed schedule; phone listed on the rate page: +66 2 371 3135–6.",
+  "accessibility": "The official site does not publish a wheelchair-accessibility statement, lift details or a step-free route. Because the museum spans three levels and the highest is within the elephant, contact the venue before visiting if stairs or mobility access matter. Audio guides are listed in Thai, English, Chinese, Korean and Russian.",
+  "practicalTips": [
+    "Arrive before 17:00; that is the stated ticket-counter closing time, one hour before closing.",
+    "Dress respectfully for the devotional displays and grounds; follow posted photography and offering guidance.",
+    "Keep the ticket page handy to check the current foreign-visitor rate; third-party package prices and inclusions may differ.",
+    "Bring water and sun protection for the garden, and allow time to cross from the BTS station safely."
+  ],
+  "decemberNotes": "For December 2026, the official site currently gives daily hours but publishes no December holiday exceptions or special program. Check its news page or contact the museum shortly before the chosen date. Cooler-season weather should make the outdoor grounds more pleasant; this is a seasonal planning expectation, not a venue forecast.",
+  "uncertainties": [
+    "Official prices and hours are current web listings and may change before December 2026.",
+    "No official advance booking or combined ticket/package was confirmed.",
+    "Wheelchair access, lifts, internal stair details and step-free access are not documented on the official visitor pages.",
+    "No December 2026 closure calendar or special event schedule is posted in the sources checked."
+  ],
+  "sources": [
+    {
+      "title": "Erawan Museum – English visitor information and directions",
+      "url": "https://www.erawanmuseum.com/en/"
+    },
+    {
+      "title": "Erawan Museum – official ticket rates and hours",
+      "url": "https://www.erawanmuseum.com/en/rate/"
+    },
+    {
+      "title": "Erawan Museum – official English description of the three levels",
+      "url": "https://www.erawanmuseum.com/en/"
+    },
+    {
+      "title": "Erawan Museum exterior photo by Don Ramey Logan, Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Erawan_Museum_by_Don_Ramey_Logan.jpg"
+    },
+    {
+      "title": "Interior photo by Narumi.SBT, Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Inside_Erawan_museum.jpg"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Erawan_Museum_by_Don_Ramey_Logan.jpg/1280px-Erawan_Museum_by_Don_Ramey_Logan.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Erawan_Museum_by_Don_Ramey_Logan.jpg",
+      "alt": "Exterior view of the Erawan Museum and its monumental three-headed elephant sculpture.",
+      "credit": "Erawan Museum by Don Ramey Logan.jpg, photograph by Don Ramey Logan, via Wikimedia Commons.",
+      "license": "CC BY 4.0; credit the photographer and link the license."
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Inside_Erawan_museum.jpg/960px-Inside_Erawan_museum.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inside_Erawan_museum.jpg",
+      "alt": "Interior view inside the Erawan Museum, showing its ornate religious art and architecture.",
+      "credit": "Inside Erawan museum.jpg, photograph by Narumi.SBT, via Wikimedia Commons.",
+      "license": "CC BY-SA 4.0; credit the photographer, link the license, and share adaptations under the same or a compatible license."
+    }
+  ]
+}

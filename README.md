@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Thailand Fieldnotes
 
-## Getting Started
+An activity registry for a December 2026 trip to Bangkok and Chiang Mai, built with Next.js 16 and React 19.
 
-First, run the development server:
+## Run locally
 
-```bash
+```sh
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000. Search by name, neighbourhood or interest; filter by city/category; save favourites; compare up to three activities; add private browser-local notes; export a Markdown shortlist.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Content
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- `data/activities.json`: all 349 catalogue entries from the supplied reports (177 Bangkok, 172 Chiang Mai). IDs remain stable even when a name is corrected.
+- `data/research/<id>.json`: independently researched activity briefs. Each is produced by a dedicated activity subagent, with source links, outstanding uncertainties and photo provenance.
+- `data/types.ts`: shared content schema.
+- `data/research-progress.json`: the research coordinator's task ledger.
+- `data/image-cache.json`: original photo URLs mapped to locally cached, resized assets. Attribution and license remain in each brief.
 
-## Learn More
+Original report claims are visibly distinguished from independently researched facts. A `partial` status means some practical facts remain unconfirmed. Even verified briefs include uncertainties; event years, access rules, prices and availability should be checked before booking. Historical and representative images are labelled in their alt text.
 
-To learn more about Next.js, take a look at the following resources:
+The two reports contain overlapping venues, timing variants and cautionary entries. These remain separate to preserve the full source catalogue.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Checks and build
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```sh
+node scripts/validate-data.mjs
+node scripts/validate-data.mjs --complete # also require all 349 briefs
+npx tsc --noEmit
+npm run build
+```
 
-## Deploy on Vercel
+The production build exports static files to `out/`. No server, database, account or API key is required. Shortlists and notes are stored only in the current browser.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Browser checks use Playwright and Chrome:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```sh
+node scripts/check-browser.mjs
+```
+
+Set `CHROME_PATH` for a different Chrome executable and `TEST_URL` to test a different server. The checks exercise filters, persistence, notes, export, comparison, mobile overflow and dialogs. Screenshots go to `/tmp/`.
+
+To refresh local copies of sourced reference photos, run `node scripts/cache-images.mjs` on macOS (requires curl and sips). The script preserves source credits and declared reuse terms, and falls back to online references when a download fails. A reference image is not a grant of reuse rights.

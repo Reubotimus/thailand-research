@@ -1,0 +1,62 @@
+{
+  "id": "cnx-elephant-riding",
+  "researchedAt": "2026-10-18",
+  "status": "partial",
+  "summary": "Avoid elephant riding in Chiang Mai. It is a tourism activity rather than a single venue, so there is no reliable universal price, schedule, or booking point. World Animal Protection’s 2026 assessment found riding venues scored poorly on welfare: of 236 Thai venues assessed, riding experiences had an average welfare score of 3.3/10, and 69% of elephants in the tourism industry lived in poor or unacceptable conditions. Choose an observation-only visit where elephants can move away and visitors do not touch or ride them, or see elephants in the wild where feasible.",
+  "whyGo": [
+    "There is no welfare-based reason to ride; visitors seeking an elephant encounter can watch from a distance at an observation-only venue instead.",
+    "The activity is widely advertised around Thailand, but availability or a venue’s ‘sanctuary’ label does not establish acceptable welfare."
+  ],
+  "bestFor": [
+    "This record is useful for travelers deciding whether to include a ride: the recommendation is to avoid it.",
+    "Visitors who want to learn about elephants can choose a no-contact, observation-only experience and assess the venue’s current practices."
+  ],
+  "skipIf": [
+    "Skip the ride if you care about elephant welfare. Tourist rides require captive elephants to be controlled for human use; WAP’s 2026 study found riding venues had substantially poorer welfare scores than observation-only experiences.",
+    "Skip any operator that promotes riding, shows, bathing, or close-contact handling, even if it uses ‘ethical’, ‘rescue’, or ‘sanctuary’ branding.",
+    "Avoid treating bareback riding or a small saddle as a welfare guarantee; this category involves visitor riding, and operator-specific husbandry is not established here."
+  ],
+  "duration": "No standard duration: Chiang Mai listings and itineraries vary by operator, travel distance, and whether rides are bundled with other activities. No ride is recommended; an observation-only visit has its own schedule.",
+  "cost": "No dependable category-wide price was verified. Costs depend on the operator, ride length, transfers, and bundled activities; do not treat a low price or ‘ethical’ surcharge as evidence of animal welfare. Rates for December 2026 are unknown.",
+  "hours": "There is no single venue or operating schedule for this activity. Hours depend on the individual operator and season; no specific Chiang Mai ride venue was assessed for current hours.",
+  "bestTime": "There is no recommended time to ride. For a separately chosen observation-only visit, book directly with a venue whose current program allows elephants to roam, forage, and socialize without tourist contact; December is a busy travel month, so confirm dates ahead.",
+  "gettingThere": "No single location or transport route applies: rides may be sold at venues around Chiang Mai Province or bundled into excursions. Because no venue is endorsed here, do not travel to a ride operator on the basis of this listing. For an observation-only alternative, confirm the named venue’s pickup point and transfer length before booking.",
+  "booking": "No operator is recommended and no booking link is provided. If considering any elephant venue, ask directly whether it offers riding, shows, bathing or feeding; how elephants are restrained between visits; whether they can choose to move away; and how visitors are kept at a distance. Prefer an observation-only itinerary and verify its current practices rather than relying on marketing claims.",
+  "accessibility": "No single venue is specified, so access cannot be assessed. Ask any alternative venue about vehicle access, path surface and gradient, seating, toilets, and the distance walked; observation areas may be on uneven outdoor terrain.",
+  "practicalTips": [
+    "WAP’s 2026 research covered 236 Thai tourism venues and 2,849 elephants; it found poor or unacceptable living conditions for 69% of elephants assessed. Its reported average welfare score was 3.3/10 for riding experiences, compared with 8.5/10 for observation-only experiences.",
+    "The report links captive tourism conditions with short chaining, limited social interaction and forced tourist contact. The recommendation to avoid riding applies across the category; it does not establish the conditions at every individual Chiang Mai venue.",
+    "A ‘sanctuary’ label, a ride without a seat, or a claim that a ride is brief is not independent evidence of good welfare.",
+    "For an alternative, choose observation without touching, bathing, feeding, posing, or riding, and let elephants move away freely. Ask about restraint and daily care before booking."
+  ],
+  "decemberNotes": "December is in Chiang Mai’s popular cool-season travel period, but no December 2026 ride-specific event, timetable, price, or venue was verified. Since rides are not recommended, this is not a bookable itinerary. Confirm dates and current policies directly for any observation-only alternative.",
+  "uncertainties": [
+    "This is a broad activity category, not a specific operator; venue-level welfare, location, price, hours, ride duration, transfers, and accessibility therefore remain unknown.",
+    "WAP’s 2026 report assesses Thailand-wide venues based on field research from February 2024 to January 2025; its category averages do not describe every individual venue or a December 2026 operation.",
+    "The welfare recommendation is based on animal-welfare research and criteria; the report does not establish legal status or current enforcement for every Chiang Mai operator.",
+    "The linked image is a historical 2012 photograph from Ko Samui, not Chiang Mai; it illustrates the activity category only."
+  ],
+  "sources": [
+    {
+      "title": "World Animal Protection – Captive elephants still suffering in Thailand, but new report finds some hope (2026 findings)",
+      "url": "https://www.worldanimalprotection.org/latest/news/captive-elephants-thailand-tourism-welfare-report-2026/"
+    },
+    {
+      "title": "World Animal Protection – Elephant Friendly Tourist Guide 2026",
+      "url": "https://www.worldanimalprotection.org/elephant-friendly-tourist-guide"
+    },
+    {
+      "title": "Wikimedia Commons – File:Tai elevant.jpg (Ko Samui elephant ride, 2012; license and author)",
+      "url": "https://commons.wikimedia.org/wiki/File:Tai_elevant.jpg"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tai_elevant.jpg/1024px-Tai_elevant.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tai_elevant.jpg",
+      "alt": "Historical example of an elephant ride on Ko Samui, Thailand; the photograph does not show Chiang Mai.",
+      "credit": "Abrget47j / Wikimedia Commons",
+      "license": "CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/; provide attribution, link the license and indicate changes; adaptations must use the same or a compatible license."
+    }
+  ]
+}

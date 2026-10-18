@@ -1,0 +1,46 @@
+{
+  "id": "bkk-activity-121",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "TCDC is Thailand’s design and creative-industry resource centre, housed in the landmark Grand Postal Building in Charoen Krung. Visitors can pair the architecture and neighborhood with exhibitions or a paid visit to the design library; access differs by area.",
+  "whyGo": [
+    "See a major historic post-office building adapted as a contemporary design hub.",
+    "Browse exhibitions and, with a day pass, the resource centre’s extensive design collection.",
+    "Combine the visit with galleries, cafés and creative spaces around Charoen Krung."
+  ],
+  "bestFor": ["Design, architecture and creative-industry interests", "A quiet indoor break in Charoen Krung"],
+  "skipIf": ["You want a conventional history museum or a guaranteed English-language exhibition", "You only have time for a quick exterior photo and expect the library to be free"],
+  "duration": "Allow 1–3 hours depending on whether you visit an exhibition only or use the library; this is a planning estimate.",
+  "cost": "TCDC lists a 100 baht one-day membership for the resource centre; annual rates listed are 600 baht for eligible students and 1,200 baht for the general public. Confirm which spaces and current rates apply before visiting. Exhibition admission may differ.",
+  "hours": "Official TCDC pages list 10:30–19:00, Tuesday–Sunday, closed Monday. Check the branch notice for holiday changes.",
+  "bestTime": "Arrive near opening for quieter library use. Weekday afternoons should generally suit focused browsing; exhibition schedules and crowd levels vary.",
+  "gettingThere": "TCDC’s visitor page recommends BTS Silom Line to Saphan Taksin (S6), Exit 3, then a 15–20 minute walk along Charoen Krung Road to the Grand Postal Building. The address is 1160 Charoenkrung Road, Bang Rak. In heat or rain, consider a taxi or ride-hail for the last leg.",
+  "booking": "No advance booking is indicated for an individual visit. Day-pass membership is handled at the TCDC membership/reception counter. Groups should reserve 1–2 weeks ahead, according to TCDC.",
+  "accessibility": "The official visitor information reviewed does not specify step-free routes, lifts, accessible toilets or mobility-device access. Contact TCDC before relying on access to particular floors or member areas.",
+  "practicalTips": [
+    "Bring identification and ask at reception what the day pass includes; library and resource-centre access is membership-based.",
+    "Check TCDC’s current exhibition and event listings before making the trip; displays rotate.",
+    "Use the official floor-by-floor service-area information to distinguish public and member spaces."
+  ],
+  "decemberNotes": "December is a useful indoor option during Bangkok’s drier, milder season, but the walk from BTS remains exposed to sun and traffic. Confirm holiday opening and exhibition dates shortly before travel; no December 2026 programme was verified.",
+  "uncertainties": [
+    "The listed hours and membership prices are current official web listings checked 17 October 2026 and may change before December.",
+    "Public access and admission charges for individual exhibitions were not confirmed; check the event listing.",
+    "Accessibility facilities and step-free routes are not documented in the official visitor information reviewed."
+  ],
+  "sources": [
+    {"title": "TCDC Bangkok: Visit and service areas", "url": "https://www.tcdc.or.th/th/tcdc-bangkok/service/visit-and-service-area"},
+    {"title": "TCDC Bangkok membership", "url": "https://www.tcdc.or.th/en/tcdc-bangkok/service/membership"},
+    {"title": "TCDC Resource Center: Service and business", "url": "https://library.tcdc.or.th/page/service"},
+    {"title": "TCDC Bangkok: About", "url": "https://www.tcdc.or.th/th/tcdc-bangkok/about"}
+  ],
+  "images": [
+    {
+      "url": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/a7366252408871.59102bbd43d2b.jpg",
+      "sourceUrl": "https://www.behance.net/gallery/52408871/TCDC-Resource-Center-by-Department-of-Architecture",
+      "alt": "Interior of the TCDC Resource Center in the Grand Postal Building, showing the contemporary library fit-out.",
+      "credit": "Poompat W Photography / Department of Architecture, via Behance project ‘TCDC Resource Center’.",
+      "license": "Permission not established; linked reference."
+    }
+  ]
+}

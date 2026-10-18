@@ -1,0 +1,72 @@
+{
+  "id": "bkk-activity-100",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "Green Bridge is Bangkok’s 1.6 km elevated pedestrian and cycle link between Lumphini and Benjakitti parks. Following a major safety and accessibility upgrade, it reopened for public use in May 2026. Treat it as a pleasant park-to-park walk or run, with the option to explore either park at each end.",
+  "whyGo": [
+    "Join two major central parks on foot without walking beside city traffic for the whole route.",
+    "See the city from an unusual elevated green corridor, with planted sections and activity spaces.",
+    "Make a flexible, low-cost outing by entering at either park and using transit at one or both ends."
+  ],
+  "bestFor": [
+    "Walkers and runners wanting a green break between city sights",
+    "Visitors pairing Lumphini and Benjakitti in one outing",
+    "Cyclists who check the park-specific riding rules before setting out"
+  ],
+  "skipIf": [
+    "You want a long, secluded nature hike; this is an urban connection with roads and buildings nearby.",
+    "You need a confirmed step-free route at every entrance or lift; current lift operation and access-point conditions were not verified.",
+    "You are planning around a specific sunset or after-dark visit without first confirming access hours."
+  ],
+  "duration": "Allow about 30–60 minutes to walk the 1.6 km link at an easy pace, plus time for park visits; this is a planning estimate, not an official duration.",
+  "cost": "No bridge admission fee was listed in the official sources. Both parks are public spaces; Lumphini Park explicitly lists free admission. Budget transit separately.",
+  "hours": "The official park pages list both parks open daily 04:30–22:00. They list different cycling windows: Benjakitti 06:00–17:30 and Lumphini 10:00–15:00. The bridge’s own hours and any bridge-specific cycling restrictions were not found; check locally before riding or visiting late.",
+  "bestTime": "Early morning or late afternoon for a more comfortable walk in Bangkok’s heat. Daylight makes wayfinding and views easier; allow time for the connecting walk before either park closes.",
+  "gettingThere": "At the Benjakitti end, BMA lists BTS Asok and MRT Sukhumvit or Queen Sirikit National Convention Center. At the Lumphini end, BMA lists MRT Silom or Lumphini and BTS Sala Daeng. The full route is 1.6 km; choose an entrance based on the exact park gate and bridge access point shown on a current map.",
+  "booking": "No booking is indicated for ordinary public access. BMA’s public-space portal handles applications for filming or organised events; those activities have separate rules.",
+  "accessibility": "The 2026 upgrade included lifts and ramps as a universal-design measure, according to BMA and Thailand’s PRD. The route’s accessibility is an intended feature, but lift status, gradients, surface transitions and step-free continuity at each entrance were not confirmed; check on arrival if these are essential.",
+  "practicalTips": [
+    "Walk the bridge as a one-way link and use MRT or BTS near either park to avoid retracing your steps.",
+    "If cycling, follow the posted park-specific hours: the official pages show different windows at each end, and bridge-specific rules were not published in the sources checked.",
+    "Bring water and sun protection; much of the elevated route is exposed, and December is still warm in Bangkok.",
+    "Use marked pedestrian and cycle areas and follow signs at the entrances; check for temporary closures before travelling."
+  ],
+  "decemberNotes": "A useful dry-season urban walk for December 2026, especially when combined with both parks. No December event or special operating schedule was verified. Recheck BMA notices close to your visit for maintenance, access or holiday changes.",
+  "uncertainties": [
+    "The BMA Environment Department announced an informal reopening for 1 May 2026, but an up-to-date official bridge-specific hours page was not found.",
+    "Cycling hours on the two park pages differ; whether the bridge itself permits cycling throughout either window is unclear.",
+    "Lift operation and fully step-free continuity at all access points were not verified.",
+    "The linked image is a news photograph of the renovated bridge; reuse permission is not established."
+  ],
+  "sources": [
+    {
+      "title": "BMA Environment Department — Green Bridge reopening update, 27 March 2026",
+      "url": "https://webportal.bangkok.go.th/environmentbma/page/sub/6671/1/0/info/519015/%E0%B9%80%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B8%AA%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7-%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%A5%E0%B8%B8%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%99%E0%B8%B5%E2%80%93%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%B4-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%A0%E0%B8%B1%E0%B8%A2-1-%E0%B8%9E.%E0%B8%84.%E0%B8%99%E0%B8%B5%E0%B9%89"
+    },
+    {
+      "title": "Thailand Government Public Relations Department — Green Bridge upgrade",
+      "url": "https://thailand.prd.go.th/en/content/category/detail/id/43/cid/2078/iid/479498"
+    },
+    {
+      "title": "Greener Bangkok — Benjakitti Park hours, cycling and access",
+      "url": "https://greener.bangkok.go.th/en/park/benjakitti-park/"
+    },
+    {
+      "title": "Greener Bangkok — Lumphini Park hours and transit",
+      "url": "https://greener.bangkok.go.th/park/suan-lumpini/"
+    },
+    {
+      "title": "Bangkok Business News — Green Bridge renovation and project details",
+      "url": "https://www.bangkokbiznews.com/news/news-update/1221611"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://image.bangkokbiznews.com/uploads/images/contents/w1024/2026/02/zC61ZzBzaTRUiWPsq4GT.webp?x-image-process=style%2Flg-webp",
+      "sourceUrl": "https://www.bangkokbiznews.com/news/news-update/1221611",
+      "alt": "View of Bangkok’s Green Bridge during its 2026 renovation, linking Lumphini and Benjakitti parks; image supplied with the news report.",
+      "credit": "Bangkok Business News",
+      "license": "Permission not established; linked reference"
+    }
+  ]
+}

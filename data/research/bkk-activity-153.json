@@ -1,0 +1,53 @@
+{
+  "id": "bkk-activity-153",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "A practical pair of elevated suburban rail lines, with the Pink Line crossing Nonthaburi and north/east Bangkok and the Yellow Line running from Lat Phrao through Srinagarindra to Samrong. Treat them as useful transport and a window onto everyday Bangkok; they are not central sightseeing loops.",
+  "whyGo": [
+    "Reach destinations along Chaeng Watthana/Ram Inthra or Lat Phrao/Srinagarindra without sitting in road traffic.",
+    "The elevated ride gives a different view of residential and commercial Bangkok, and both lines connect with other rail routes."
+  ],
+  "bestFor": [
+    "Travelers visiting places near their stations, or rail fans who enjoy seeing the outer city.",
+    "A short add-on when already traveling in the north or east of the metro area."
+  ],
+  "skipIf": [
+    "You have limited time in Bangkok and are seeking landmark sightseeing: the monorails run mostly beyond the central tourist core.",
+    "Your destination is not near a station and the extra transfer or last-mile taxi would outweigh the rail advantage."
+  ],
+  "duration": "A useful one-way ride may take roughly 20–60 minutes depending on stations; allow 1–2 hours for a ride-and-look-around outing including transfers. These are planning estimates; check the route planner for your actual endpoints.",
+  "cost": "Budget about ฿15–45 per ride on each line (planning range based on current fare information; fares vary by distance and may change before December 2026). Pink and Yellow are separately operated lines, so check transfer fares when changing systems.",
+  "hours": "Both operators currently publish service windows around 06:00–24:00, while their timetable pages show first/last train service spanning approximately 05:00–01:00 at some stations. Station-specific first and last trains vary; verify the chosen station timetable before an early or late journey.",
+  "bestTime": "Use the lines whenever they fit your route. Midday avoids the heaviest commuter crush; for a more atmospheric elevated view, travel in late afternoon, while allowing extra time at peak periods.",
+  "gettingThere": "Pink Line runs Nonthaburi Civic Center–Min Buri, following Tiwanon, Chaeng Watthana and Ram Inthra roads; the Muang Thong Thani branch serves the convention/exhibition district. Yellow Line runs Lat Phrao–Samrong via Lat Phrao and Srinagarindra roads. Use the operators’ live route planners to select exact stations and interchanges; interchange walks can take time.",
+  "booking": "No advance booking is needed. Buy a single-journey ticket at the station or use an accepted stored-value/contactless method. Yellow Line accepts contactless Visa, Mastercard and UnionPay cards where the EMV reader is installed; use the same card to enter and exit. Ticket-office hours are shorter than train service hours, so have a supported card/payment option for late trips.",
+  "accessibility": "Stations are elevated, so reaching platforms involves vertical circulation. Operators provide station facility and wheelchair-service information, but access provisions and routes can differ by station; check the exact station map and confirm elevator availability with the operator before relying on step-free travel.",
+  "practicalTips": [
+    "Check the route map before choosing a line: the two systems meet the wider rail network at different places and do not form a central loop.",
+    "On Yellow Line EMV journeys, tap out with the same physical card used to enter; the operator says a mismatched exit can incur the maximum ฿45 fare.",
+    "Keep a little transfer and last-mile time in hand; stations sit along major roads and the final destination may still require a walk, feeder bus or taxi."
+  ],
+  "decemberNotes": "December is usually a comfortable time for an above-ground ride, but the lines are everyday transport rather than a seasonal attraction. No December 2026 special operating schedule or event was confirmed in the operator pages reviewed. Recheck fares, service notices and station access shortly before travel.",
+  "uncertainties": [
+    "Operator pages and published timetables may change before December 2026; current Pink Line fare tables are not exposed as readable text in the route planner.",
+    "Exact fare, travel time, first/last train and accessible route depend on the selected stations and interchange.",
+    "The image is a Pink Line train at Yeak Pak Kret in June 2024, not a claim about current service conditions or the Yellow Line."
+  ],
+  "sources": [
+    {"title": "MRTA: MRT Pink Line overview and service information", "url": "https://www.mrta.co.th/en/the-pink-line"},
+    {"title": "MRTA: Yellow Line service information", "url": "https://www.mrta.co.th/en/the-yellow-line/27563"},
+    {"title": "NBM Pink Line timetable, hours and ticket guidance", "url": "https://nbm.co.th/en/traintime-frequency/"},
+    {"title": "EBM Yellow Line timetable and ticket guidance", "url": "https://poc1.ebm.co.th/YELLOW/en/traintime-frequency/"},
+    {"title": "EBM Yellow Line EMV contactless ticket conditions", "url": "https://ebm.co.th/en/ticket-emv/"},
+    {"title": "NBM Pink Line route map and station facilities", "url": "https://www.nbm.co.th/en/routemap/"}
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Bangkok_MRT_Pink_Line_Monorail_PM06%2C_Yeak_Pak_Kret_%2820240629b%29.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bangkok_MRT_Pink_Line_Monorail_PM06,_Yeak_Pak_Kret_(20240629b).jpg",
+      "alt": "Pink Line monorail train PM06 approaching Yeak Pak Kret station, photographed in 2024.",
+      "credit": "Takeshi Aida",
+      "license": "CC BY-SA 2.0: https://creativecommons.org/licenses/by-sa/2.0/"
+    }
+  ]
+}

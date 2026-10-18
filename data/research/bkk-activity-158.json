@@ -1,0 +1,64 @@
+{
+  "id": "bkk-activity-158",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "The Gold Line is a short automated elevated people mover linking the BTS Silom Line at Krung Thon Buri with Charoen Nakhon beside ICONSIAM and Khlong San. It is most useful as a quick, traffic-free connector for ICONSIAM and nearby Charoen Nakhon destinations; it is not a destination ride in its own right.",
+  "whyGo": [
+    "Avoids Charoen Nakhon Road traffic when travelling from the BTS Silom Line to ICONSIAM.",
+    "Offers an easy rail connection between the main BTS network, the riverside mall area and Khlong San."
+  ],
+  "bestFor": [
+    "Visitors heading to ICONSIAM from the BTS Silom Line.",
+    "A quick elevated transit experience or onward access to Khlong San."
+  ],
+  "skipIf": [
+    "You are already on the riverside and a boat or short walk is more convenient.",
+    "You expect a long scenic rail ride; the whole line is only 1.8 km and three stations."
+  ],
+  "duration": "Allow about 10–20 minutes for a one-way journey including changing platforms and waiting; the train ride itself is only a few minutes. This is a planning estimate, not an official journey-time guarantee.",
+  "cost": "Budget 17 baht per person for a Gold Line trip, separately from the BTS fare. BTS’s current 2026 trip-package terms specify a 17-baht Gold Line charge; its Gold Line profile page still lists the older 15-baht fare, so confirm at the station before travel. The profile lists 8 baht for seniors and free travel for children up to 90 cm, but current eligibility should be checked.",
+  "hours": "Published BTS operating hours are 06:00–24:00 daily. Check the live timetable and last-train details on the travel date, especially if transferring from another line late at night.",
+  "bestTime": "Use it whenever it shortens your route. For ICONSIAM, arrive before the busiest late-afternoon and evening periods if you want an easier transfer and less crowded mall access; weekday peak periods may also mean fuller trains.",
+  "gettingThere": "Take the BTS Silom Line to Krung Thon Buri (S7), then follow signs for the separately operated Gold Line. Ride one stop to Charoen Nakhon (G2) for ICONSIAM; Khlong San (G3) is the terminus near Taksin Hospital. ICONSIAM confirms the direct connection from Krung Thon Buri. The mall can also be reached by boat from Sathorn Pier, though published public-boat schedules and holiday service can vary.",
+  "booking": "No advance booking is indicated; buy a ticket or use an accepted transit payment method at the station. Allow for a separate fare from the main BTS journey and check ticket/payment acceptance locally.",
+  "accessibility": "The line is elevated and BTS’s Krung Thon Buri station has elevator access, but the sources reviewed do not establish a complete step-free route across every Gold Line station or transfer. Ask station staff to confirm lift availability and the accessible interchange before relying on it with a wheelchair or mobility aid.",
+  "practicalTips": [
+    "For ICONSIAM, alight at Charoen Nakhon (G2), not the Khlong San terminus.",
+    "Allow time to follow the signed transfer at Krung Thon Buri and budget for two separate line fares.",
+    "If travelling to the riverside during heavy road traffic, compare the Gold Line with the mall’s boat connections from Sathorn Pier.",
+    "Check the BTS timetable and fare information again shortly before travel; the operator profile and current fare terms are not fully aligned."
+  ],
+  "decemberNotes": "The line is an all-weather elevated urban transit option, useful during Bangkok’s typically busy year-end period. Expect heavier crowds around ICONSIAM in the run-up to Christmas and New Year; do not assume special late-night service on 31 December. No December 2026 operating extension or disruption notice was verified, so check BTS service notices and the last train on the day.",
+  "uncertainties": [
+    "BTS’s Gold Line profile lists 15 baht, while BTS’s 2026 trip-package terms specify 17 baht for Gold Line stations; fare at the ticket gate should be treated as definitive.",
+    "The standard service window is published, but no December 2026 holiday timetable or New Year’s Eve extension was verified.",
+    "Station-by-station step-free access for the complete Gold Line transfer was not confirmed in the sources reviewed."
+  ],
+  "sources": [
+    {
+      "title": "BTS Skytrain: Gold Line profile, route, fare and hours",
+      "url": "https://www.bts.co.th/eng/info/GoldLine-info-history.html"
+    },
+    {
+      "title": "BTS Skytrain: 2026 trip-package terms (Gold Line extension fare)",
+      "url": "https://www.bts.co.th/eng/XtremeSavings/index.html"
+    },
+    {
+      "title": "ICONSIAM Hall: Plan your visit and transit connections",
+      "url": "https://www.iconsiamhall.com/en/plan-your-visit"
+    },
+    {
+      "title": "BTS Skytrain: elevator use and staff assistance",
+      "url": "https://www.bts.co.th/eng/suggestion/suggestion-02.html"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gold_Line_at_Charoen_Nakhon_Station_20230923.jpg/2880px-Gold_Line_at_Charoen_Nakhon_Station_20230923.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gold_Line_at_Charoen_Nakhon_Station_20230923.jpg",
+      "alt": "Gold Line automated train at Charoen Nakhon station in September 2023.",
+      "credit": "Suikotei / Wikimedia Commons",
+      "license": "CC BY-SA 4.0"
+    }
+  ]
+}

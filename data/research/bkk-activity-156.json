@@ -1,0 +1,68 @@
+{
+  "id": "bkk-activity-156",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "Bangkok’s short local ferries make useful bank-to-bank links across the Chao Phraya. The best-known visitor crossing is Tha Tien (near Wat Pho) to Wat Arun; it is a separate small ferry from the north–south express and tourist boats. Details below focus on that route because fares and operating patterns differ by pier.",
+  "whyGo": [
+    "Cross directly between Wat Pho/Old Town and Wat Arun without routing to a bridge or another river pier.",
+    "Get a close, brief view of river traffic and the temple waterfront for a very low fare.",
+    "Use other local crossings as practical shortcuts when an itinerary puts sights on opposite banks."
+  ],
+  "bestFor": [
+    "Visitors combining Wat Pho with Wat Arun.",
+    "Travellers who want a short local boat ride and can manage a busy pier and boat boarding."
+  ],
+  "skipIf": [
+    "You need a late-evening connection; the Tha Tien crossing is reported to finish around 19:00.",
+    "You require reliably step-free boarding or a guaranteed accessible vessel.",
+    "You only want a sightseeing cruise; this is a quick point-to-point ferry."
+  ],
+  "duration": "The Tha Tien–Wat Arun boat ride is about 3 minutes; allow 10–20 minutes total for finding the right dock, buying a ticket and waiting, longer in crowds. These are planning estimates.",
+  "cost": "A route guide updated June 2026 reports 5.5 THB one way per person, cash only; treat this as a current planning figure, not a December 2026 quote. Fares differ on other crossings; reconfirm at the pier.",
+  "hours": "Wat Arun’s getting-there page says the crossing departs about every 10 minutes, with a 3-minute ride. A route guide reports 05:00–19:00. Neither is a December 2026 operator timetable; check locally on the day.",
+  "bestTime": "Use it during daytime while visiting the temples. Start early to reduce heat and queues; avoid relying on it near closing time or after dark.",
+  "gettingThere": "For Tha Tien, walk to the river pier near Wat Pho and follow signs for the cross-river ferry dock; the pier also handles north–south express boats, so check the destination before boarding. Wat Arun’s site suggests reaching Tha Tien from Sathorn/Central Pier by the orange-flag express boat (about 15 minutes from Sathorn), then changing to the ferry. The blue-flag tourist boat may serve Wat Arun directly, depending on its current route.",
+  "booking": "No advance booking is indicated. Buy a crossing ticket at the ferry counter/dock; the June 2026 route guide says cash only. Confirm the fare and queue location at the pier.",
+  "accessibility": "Step-free access, ramps, assistance and accessible toilets are not confirmed for this crossing. Expect a pier gangway, possible level changes, a gap or movement while boarding, and crowded conditions; ask staff before paying if you need assistance.",
+  "practicalTips": [
+    "At Tha Tien, choose the cross-river dock rather than an express-boat berth; Wat Arun’s own directions identify this as the ferry for the opposite bank.",
+    "Carry small Thai notes or coins; reported ticketing is cash-only.",
+    "Allow extra time at busy temple piers and follow staff directions for boarding.",
+    "If continuing north or south along the river, check the express-boat pier and flag separately; the cross-river ticket is not a through ticket.",
+    "Do not assume all Bangkok cross-river routes share one fare or schedule."
+  ],
+  "decemberNotes": "December is a high-visitor season and the Tha Tien–Wat Arun crossing can be busy around the temples. No December 2026 holiday timetable was found. Recheck service and last departures locally, especially around 31 December; do not assume this short ferry runs late.",
+  "uncertainties": [
+    "The 5.5 THB fare and 05:00–19:00 hours come from a non-operator route guide updated June 2026 and may change before December 2026.",
+    "Wat Arun’s site confirms approximate trip time and frequency but not a formal timetable or fare.",
+    "Accessibility and boarding conditions are undocumented and may vary by pier, tide and vessel.",
+    "This brief focuses on Tha Tien–Wat Arun; operating details for other cross-river routes need checking individually."
+  ],
+  "sources": [
+    {
+      "title": "Wat Arun — Getting There",
+      "url": "https://www.wat-arun.com/gettingthere"
+    },
+    {
+      "title": "Thailand Boat — Tha Tien Pier to Wat Arun Ferry Schedule, Route Map & Price (updated 22 June 2026)",
+      "url": "https://thailandboat.com/bangkok/ferry-tha-tien-pier-wat-arun"
+    },
+    {
+      "title": "Chao Phraya Express Boat — route and service information",
+      "url": "https://www.chaophrayaexpressboat.com/chaophrayaexpressboat?lang=enLa"
+    },
+    {
+      "title": "Wikimedia Commons — Long motorboat on the Chao Phraya River in Bangkok",
+      "url": "https://commons.wikimedia.org/wiki/File:Long_motorboat_on_the_Chao_Phraya_River_in_Bangkok.jpg"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Long_motorboat_on_the_Chao_Phraya_River_in_Bangkok.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Long_motorboat_on_the_Chao_Phraya_River_in_Bangkok.jpg",
+      "alt": "A motorboat travelling along the Chao Phraya in central Bangkok; a representative river-transport scene, not identified as the Tha Tien cross-river ferry.",
+      "credit": "Grendelkhan / Wikimedia Commons",
+      "license": "CC BY-SA 3.0"
+    }
+  ]
+}

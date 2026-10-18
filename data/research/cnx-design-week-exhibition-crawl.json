@@ -1,0 +1,44 @@
+{
+  "id": "cnx-design-week-exhibition-crawl",
+  "researchedAt": "2026-10-18",
+  "status": "partial",
+  "summary": "A self-guided day of Chiang Mai Design Week exhibitions and creative spaces. The 2026 festival is confirmed for 5–13 December; the official guide already promises several exhibitions, while its searchable program page has not yet populated individual listings. Treat the full crawl and exact venues as provisional until the live map/program is updated.",
+  "whyGo": [
+    "See local craft, design, art and contemporary ideas across Chiang Mai rather than limiting the visit to one gallery.",
+    "A 2026 exhibition anchor is Scents Asia at TCDC Chiang Mai, with an Asia Scent Showcase and the immersive Balance in Balance exhibition; the official guide gives its dates as 5–13 December and hours as 10:00–20:00.",
+    "CEA describes additional 2026 exhibitions, pavilions, talks and workshops, and municipal information identifies Klang Wiang, Chang Moi–Tha Phae and San Pa Khoi among the festival areas."
+  ],
+  "bestFor": ["Design, art and craft enthusiasts", "Visitors who enjoy walking between temporary exhibitions and neighborhood venues", "Travelers looking for a flexible city day with local creative culture"],
+  "skipIf": ["You need a confirmed venue-by-venue itinerary now", "You cannot comfortably walk or use short local rides between dispersed sites", "You expect every exhibition to be open late or to have step-free access"],
+  "duration": "Allow 3–6 hours for a compact crawl, or a full day if the final program spreads events across several districts. These are planning estimates; check the 2026 map before setting a route.",
+  "cost": "Festival-wide admission and individual exhibition prices are not yet stated in the current guide. Budget for local transport, food and any separately ticketed workshops; confirm fees with each listing.",
+  "hours": "Festival dates are 5–13 December 2026. Scents Asia at TCDC Chiang Mai is advertised daily 10:00–20:00. Other exhibition hours are not yet listed; check the current program before traveling.",
+  "bestTime": "Go on a weekday if you want a less crowded browse. Start near opening time and group nearby listings; exact 2026 crowd patterns and venue hours are unknown.",
+  "gettingThere": "The 2026 festival spans multiple areas, including Klang Wiang (Old City), Chang Moi–Tha Phae and San Pa Khoi, so use the official program/map to make a district-based route. Walk within compact clusters and use a red songthaew or ride-hailing car between farther areas. TCDC Chiang Mai is at 1/1 Muang Samut Road, Chang Moi; its visitor page mentions parking beside the building. Parking availability during festival dates is unconfirmed.",
+  "booking": "No general booking requirement is stated. The official guide identifies public exhibition programming, but check each current listing for entry rules, workshops, capacity limits or registration before going.",
+  "accessibility": "Festival-wide step-free access, seating and accessible toilets are not documented in the sources reviewed. Temporary venues and older buildings may vary; contact the venue or organizer about a specific stop. TCDC is the most practical confirmed anchor, but its accessible route details were not verified.",
+  "practicalTips": [
+    "Use the official 2026 program and map on the day: its district filters are visible, but individual listings were still absent when checked.",
+    "Save venue pins and check opening times before crossing town; the crawl is spread across neighborhoods rather than one continuous exhibition hall.",
+    "TCDC Chiang Mai is at 1/1 Muang Samut Road, Chang Moi, and is a useful starting point for the confirmed Scents Asia exhibitions.",
+    "Carry water and allow time for traffic and short walks between pop-up spaces."
+  ],
+  "decemberNotes": "The 2026 dates are officially confirmed as 5–13 December, and current official announcements confirm exhibition programming rather than merely repeating a past-year calendar. The festival’s current program page lists districts but no individual event entries yet. The 2025 and earlier venue/program examples are historical context only; do not use them as this year’s confirmed route. December is generally a busy travel period, so confirm hours and access close to the visit.",
+  "uncertainties": ["The 2026 searchable program and detailed venue map have not yet populated individual exhibition listings.", "Festival-wide admission, event-specific fees, booking rules and exact venue hours are unconfirmed.", "Accessibility conditions vary by temporary venue and are not described centrally."],
+  "sources": [
+    {"title": "Chiang Mai Design Week 2026 — Update & Visitor Guide (official; current announcement and Scents Asia details)", "url": "https://www.chiangmaidesignweek.com/en/cmdw2026/guide?page=1"},
+    {"title": "Chiang Mai Design Week 2026 — Program (official; districts and current listing status)", "url": "https://www.chiangmaidesignweek.com/cmdw2026/program"},
+    {"title": "Chiang Mai Municipality — 2026 Design Week areas and dates", "url": "https://oss-local.info/view_news?id=50"},
+    {"title": "TCDC Chiang Mai — Visit and Service Area", "url": "https://www.tcdc.or.th/en/tcdc-chiangmai/service/visit-and-service-area"},
+    {"title": "Creative City Development by CEA — Upper Floor (historical 2023 Design Week exhibition example)", "url": "https://creativecity.cea.or.th/th/district-projects/upperfloor"}
+  ],
+  "images": [
+    {
+      "url": "https://api-creativecity.cea.or.th/storages/district-projects/55/images/bf5b7bf7-c8f6-4bea-b9f5-951bf545d825.jpg",
+      "sourceUrl": "https://creativecity.cea.or.th/th/district-projects/upperfloor",
+      "alt": "Visitors at the Upper Floor installation during Chiang Mai Design Week 2023; historical example of a temporary Chang Moi exhibition, not a 2026 listing.",
+      "credit": "Creative Economy Agency (CEA), via Creative City Development",
+      "license": "Permission not established; linked reference"
+    }
+  ]
+}

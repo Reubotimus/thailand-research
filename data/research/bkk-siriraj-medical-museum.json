@@ -1,0 +1,60 @@
+{
+  "id": "bkk-siriraj-medical-museum",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "Siriraj Medical Museum is a teaching museum within Siriraj Hospital, with pathology, parasitology, forensic medicine and anatomy collections. Its real human specimens and forensic exhibits make it unusually direct and potentially distressing; it suits visitors with a strong interest in medicine, anatomy or criminology.",
+  "whyGo": [
+    "See medical and forensic collections seldom encountered in a general museum, including pathology specimens, parasites and forensic evidence.",
+    "The adjacent Siriraj Bimuksthan Museum offers a second, broader museum on the same ticket, covering local and hospital history."
+  ],
+  "bestFor": [
+    "Adults interested in medicine, anatomy, pathology or forensic science.",
+    "Visitors looking for an unusual, substantial indoor museum visit on the Thonburi riverbank."
+  ],
+  "skipIf": [
+    "You are uncomfortable with preserved human remains, diseased organs, injury and death-related forensic displays.",
+    "You need an attraction that explicitly confirms child suitability or step-free access; the museum’s published visitor information does not establish either."
+  ],
+  "duration": "Allow about 2–3 hours for the medical museum and its neighboring Bimuksthan museum; this is a planning estimate, and the anatomy museum has a separate earlier closing time.",
+  "cost": "The official site lists a combined ticket for the Siriraj Medical Museum and Siriraj Bimuksthan Museum at 300 baht for foreign adults, 100 baht for Thai adults and 50 baht for visitors under 18. Confirm whether those rates remain current for December 2026; the one-museum rate was not clear on the page.",
+  "hours": "The official visitor page currently lists Wednesday–Monday, 10:00–17:00, closed Tuesdays and public holidays. Medical Museum ticket sales end at 16:00. The Congdon Anatomical Museum closes at 16:30, and combined-ticket sales end at 15:00. Verify December dates before going.",
+  "bestTime": "Arrive near opening and on a non-holiday weekday for more time to explore before the last-ticket cutoff. The museum site does not publish crowd patterns.",
+  "gettingThere": "The museum is at Siriraj Hospital, 2 Wang Lang Road, Bangkok Noi. The hospital foundation lists Chao Phraya Express Boat and tourist boat stops at Prannok (N10), plus cross-river ferries to Wang Lang from Tha Phra Chan, Tha Chang and Tha Maharaj. MRT Blue Line to Fai Chai (BL03) connects by bus, shuttle or local taxi; check live routes and boat services on the day.",
+  "booking": "Walk-in admission is presented through the visitor/ticket information page, which also links to online tickets. Group visits require an online request, an organization letter and at least 14 days’ lead time. Contact the museum at 02 414 1476 or 02 419 6363 to confirm tickets and holiday operations.",
+  "accessibility": "The official visitor information reviewed does not describe wheelchair access, lifts, step-free routes or sensory accommodations; contact the museum before relying on access. No minimum-age restriction is stated, and under-18 admission is listed, but the institution does not give a child-content warning. Because its official exhibit descriptions include human remains and forensic evidence, use adult judgment for children and sensitive visitors.",
+  "practicalTips": [
+    "The medical museum prohibits photography inside. The neighboring Bimuksthan Museum allows photos except in its ancient weapons gallery.",
+    "Food, drinks and smoking are prohibited inside; leave bags in the luggage room and keep valuables with you.",
+    "Check the museum’s official news page shortly before visiting: its listed schedule excludes public holidays, and December hours may change."
+  ],
+  "decemberNotes": "The official site currently says the museum closes on public holidays, but it does not provide a December 2026 calendar or holiday-specific schedule. Confirm the intended date before crossing the river; Thai public holidays around December may affect opening.",
+  "uncertainties": [
+    "December 2026 hours and holiday closures have not been published in the sources checked.",
+    "The current official page presents combined-ticket rates, but the exact foreign-adult single-museum rate is unclear.",
+    "Official visitor information does not specify step-free access or recommend a minimum age.",
+    "The official museum image is credited to the institution, but its reuse license or permission is not stated."
+  ],
+  "sources": [
+    {
+      "title": "Siriraj Museum – Visitor information, admission and rules (official)",
+      "url": "https://www2.si.mahidol.ac.th/museum/visit"
+    },
+    {
+      "title": "Siriraj Museum – Medical museum exhibits and travel information (official)",
+      "url": "https://www2.si.mahidol.ac.th/museum/museum_exhibition"
+    },
+    {
+      "title": "Siriraj Foundation – Siriraj Hospital travel information (official)",
+      "url": "https://www.sirirajfoundation.org/en/travel-information/siriraj-hospital/"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://www2.si.mahidol.ac.th/museum/local/public/img/banner/image_news_xExAAFMrsiPx.jpg",
+      "sourceUrl": "https://www2.si.mahidol.ac.th/museum/",
+      "alt": "Interior view of the Siriraj Medical Museum with glass display cases",
+      "credit": "Siriraj Museum / Faculty of Medicine Siriraj Hospital, Mahidol University",
+      "license": "Permission not established; linked reference"
+    }
+  ]
+}

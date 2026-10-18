@@ -1,0 +1,72 @@
+{
+  "id": "bkk-activity-151",
+  "researchedAt": "2026-10-17",
+  "status": "partial",
+  "summary": "BTS Skytrain is Bangkok’s elevated rail network through key central districts, useful for avoiding road traffic and getting between Siam, Sukhumvit and Silom. Its elevated sections also offer a quick city view. The BTS is a distinct system from the MRT; some journeys require a separate fare or transfer on foot.",
+  "whyGo": [
+    "A fast, air-conditioned way to link central shopping, dining and hotel areas when Bangkok roads are congested.",
+    "A simple orientation ride through the modern city, especially around Siam interchange and the Sukhumvit corridor."
+  ],
+  "bestFor": [
+    "Visitors staying or sightseeing near BTS stations who want a practical alternative to taxis in traffic.",
+    "Short city hops where station proximity makes walking and rail more predictable than road travel."
+  ],
+  "skipIf": [
+    "Your origin or destination is far from a BTS station; a taxi, bus or another rail line may suit better.",
+    "You need a step-free journey and have not checked lift access at each station; facilities vary by station."
+  ],
+  "duration": "Allow 10–30 minutes for a typical central hop, plus walking, ticketing and platform time; this is a planning estimate. Use the operator’s route planner for journey-specific estimates.",
+  "cost": "Distance-based single-journey fares; current official fare matrices were updated for Green Line extensions from 1 November 2025. Budget roughly 17–65 baht per ride as a planning range and verify the exact fare in the BTS route planner before travel, since the published fare matrix may change before December 2026. Single-journey ticket machines accept QR payment; some accept coins. A Rabbit card can reduce repeated ticket purchases, but check eligibility and card terms before buying.",
+  "hours": "The operator currently lists train service 05:00–01:00; ticket-office hours are 06:00–24:00. Last trains vary by station and direction. Check the station-specific first/last-train list, especially for late-night travel.",
+  "bestTime": "Use outside weekday commuter peaks for a less crowded ride. For a scenic orientation, ride in daylight; leave extra time around major December events and busy shopping areas.",
+  "gettingThere": "Enter at a clearly signed BTS station. Plan the route and fare using the official route-and-fare page. BTS and MRT are separate networks, so an interchange may mean exiting, walking and paying again. At Siam, allow time to navigate the busy interchange.",
+  "booking": "No advance booking is needed. Buy a single-journey ticket at a station machine or ticket office, or use a Rabbit card with sufficient value. BTS says ticket machines support QR payment; payment methods and machine availability can vary, so keep a backup payment option.",
+  "accessibility": "BTS stations have varying facilities; check the operator’s station service-and-facilities map for lifts and other access features at both ends of the trip. Crowded platforms, gaps and stairs may make travel difficult. Confirm lift status with station staff if step-free access is essential.",
+  "practicalTips": [
+    "Keep your single-journey card until you exit and tap it at both gates; ask the ticket office for help if the gate rejects it.",
+    "Avoid entering the paid area more than five hours before exiting: BTS states a 300-minute limit, after which the maximum published fare may be charged.",
+    "For a one-day pass or Rabbit card, compare the current terms with your likely itinerary rather than assuming it is cheaper.",
+    "Stand clear of the platform edge and follow station signs; keep belongings close in crowded trains."
+  ],
+  "decemberNotes": "December 2026 is a future travel date. The timetable and fare information available on 17 October 2026 is a useful baseline, not a guarantee for the trip. The BTS operator adds trains for some unusually busy special activities, but no December 2026 holiday timetable was confirmed in the sources reviewed. Recheck official announcements and last-train times close to travel; do not assume a New Year’s Eve extension.",
+  "uncertainties": [
+    "Exact December 2026 fares and service changes may be announced later; confirm near departure.",
+    "Station-specific lift availability and outages were not verified for a particular journey.",
+    "The operator’s current fare matrix applies to rates effective from November 2025; fare level depends on origin, destination and ticket type."
+  ],
+  "sources": [
+    {
+      "title": "BTS SkyTrain timetable and service hours",
+      "url": "https://www.bts.co.th/eng/traintime-frequency/"
+    },
+    {
+      "title": "BTS SkyTrain routes and fares",
+      "url": "https://www.bts.co.th/eng/routemap.html"
+    },
+    {
+      "title": "BTS adult fare matrix, effective 1 November 2025",
+      "url": "https://www.bts.co.th/files/uploads/tickets/pdf/fare_matrix_Eff.1Nov25_Adult.pdf"
+    },
+    {
+      "title": "BTS ticket machine instructions",
+      "url": "https://www.bts.co.th/eng/tickets/ticket-machine.html"
+    },
+    {
+      "title": "BTS Rabbit card information",
+      "url": "https://www.bts.co.th/eng/tickets/ticket-rabbit.html"
+    },
+    {
+      "title": "BTS facilities and services map",
+      "url": "https://www.bts.co.th/eng/routemap.html"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bangkok_skyline_from_Siam_BTS_Skytrain_station%2C_Bangkok%2C_Thailand.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bangkok_skyline_from_Siam_BTS_Skytrain_station,_Bangkok,_Thailand.jpg",
+      "alt": "Passengers wait at Siam BTS Skytrain station with Bangkok skyline visible; photographed in 2010.",
+      "credit": "Vyacheslav Argenberg",
+      "license": "CC BY 4.0"
+    }
+  ]
+}
