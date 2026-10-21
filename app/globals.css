@@ -229,6 +229,7 @@ tbody td{color:#76836a}
 th:first-child{min-width:110px;font-size:10px;font-family:Arial,Helvetica,sans-serif;font-weight:500}
 thead .text-link{font-family:Arial,Helvetica,sans-serif;font-size:11px}
 .export-button{font-size:10px;white-space:nowrap}
+.export-actions{display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end}
 
 @media(min-width:1500px){.hero{min-height:610px}
 .hero-copy{padding-top:78px}
@@ -399,8 +400,8 @@ footer>button{width:100%;padding:0;text-align:left;font-size:9px}
 .card-bottom{padding:14px 0}
 .save-button{width:34px;height:34px}
 .city-badge{font-size:10px}
-.section-heading .export-button{font-size:0;padding:10px;margin-top:8px}
-.section-heading .export-button svg{width:18px}
+.section-heading .export-actions{max-width:230px}
+.section-heading .export-button{font-size:9px;padding:9px 10px;margin-top:5px}
 .detail-body{padding:27px 21px}
 .dialog{width:calc(100% - 20px);max-height:94dvh}
 .detail-body h2{font-size:32px;max-width:100%}
